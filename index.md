@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+---
+title: "Home"
+---
 
-You can use the [editor on GitHub](https://github.com/jbulin/jbulin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> I am an Assistant Professor at the [Department of Theoretical Computer Science and Mathematical Logic ("KTIML")](https://www.ktiml.mff.cuni.cz/KTIML-1.html), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/) of the [Charles University](https://cuni.cz/UK-1.html) in Prague, Czechia.
 
-### Markdown
+### Get in touch
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* email: `jakub.bulin (at) mff.cuni.cz`
+* office: S124 (floor 1, next to lecture room S8)
+* address: KTIML MFF UK, Malostranské nám. 2/25, 18100 Praha 1, Czechia
+* phone: (+420) (95155) 4463
+* pronouns: he/him
 
-```markdown
-Syntax highlighted code block
+Office hours are scheduled at the start of classes; or make an appointment!
 
-# Header 1
-## Header 2
-### Header 3
+## Teaching
 
-- Bulleted
-- List
+My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester.
 
-1. Numbered
-2. List
+#### Fall 2022
 
-**Bold** and _Italic_ and `Code` text
+* [NOPT042 Constraint Programming](teaching/nopt042/) 
+  - 🇬🇧 Tutorial
+* [NAIL062 Propositional and Predicate Logic](teaching/nail062/)
+  - 🇨🇿 Czech lecture
+  - 🇨🇿 Czech tutorial
 
-[Link](url) and ![Image](src)
-```
+#### Archive: Spring 2022
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* NTIN071 Automata and Grammars
+  - 🇬🇧 English lecture
+  - 🇨🇿 Czech tutorials
 
-### Jekyll Themes
+#### Theses and projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbulin/jbulin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I can offer theses in theoretical computer science as well as several research software projects. Informal inquiries are most welcome!
 
-### Support or Contact
+## Research
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> My primary research interests lie in the intersection of theoretical computer science, computational logic, and universal algebra. A majority of my work is concerned with the complexity of the constraint satisfaction problem. I am also interested in constraint modeling, automated theorem proving, and artificial intelligence.
+
+#### Selected publications
+
+* M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*, [arXiv.2205.07528](https://doi.org/10.48550/arXiv.2205.07528) (May 2022)
+
+* L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages. DOI
+
+* J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
+
+* L. Barto, J. Bulín. *Deciding absorption in relational structures*, Algebra Universalis 78(1), 3–18 (2017)
+
+* J. Bulín, D. Delić, M. Jackson, and T. Niven. *A finer reduction of constraint problems to digraphs*, Logical Methods in Computer Science 11(4:18), 1–33 (2015)
+
+My papers in [BibTeX](files/my-papers.bib) (updated jul-2022), on [Google Scholar](https://scholar.google.com/citations?user=pEMTqcMAAAAJ), on [ArXiv](https://arxiv.org/a/bulin_j_1), and my [ORCID](https://orcid.org/0000-0001-5235-8715) page.
