@@ -44,14 +44,14 @@ I can offer theses in theoretical computer science as well as several research s
 
 #### Selected publications
 
-* M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*, [arXiv.2205.07528](https://doi.org/10.48550/arXiv.2205.07528) (May 2022)
+1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*, [arXiv.2205.07528](https://doi.org/10.48550/arXiv.2205.07528) (May 2022)
 
-* L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages. DOI
+2. L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages. DOI
 
-* J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
+3. J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
 
-* L. Barto, J. Bulín. *Deciding absorption in relational structures*, Algebra Universalis 78(1), 3–18 (2017)
+4. L. Barto, J. Bulín. *Deciding absorption in relational structures*, Algebra Universalis 78(1), 3–18 (2017)
 
-* J. Bulín, D. Delić, M. Jackson, and T. Niven. *A finer reduction of constraint problems to digraphs*, Logical Methods in Computer Science 11(4:18), 1–33 (2015)
+5. J. Bulín, D. Delić, M. Jackson, and T. Niven. *A finer reduction of constraint problems to digraphs*, Logical Methods in Computer Science 11(4:18), 1–33 (2015)
 
 My papers in [BibTeX](files/my-papers.bib) (updated jul-2022), on [Google Scholar](https://scholar.google.com/citations?user=pEMTqcMAAAAJ), on [ArXiv](https://arxiv.org/a/bulin_j_1), and my [ORCID](https://orcid.org/0000-0001-5235-8715) page.
