@@ -2,9 +2,11 @@
 title: "Home"
 ---
 
+
 # About me
 
 > I am an Assistant Professor at the [Department of Theoretical Computer Science and Mathematical Logic ("KTIML")](https://www.ktiml.mff.cuni.cz/KTIML-1.html), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/) of the [Charles University](https://cuni.cz/UK-1.html) in Prague, Czechia.
+
 
 ### Get in touch
 
@@ -16,8 +18,8 @@ title: "Home"
 
 Office hours are scheduled at the start of classes; or make an appointment!
 
-# Teaching
 
+# Teaching
 
 
 ### Fall 2022
@@ -35,9 +37,11 @@ My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fa
 
 I can offer theses in theoretical computer science as well as several research software projects. Informal inquiries are most welcome!
 
+
 # Research
 
 > My primary research interests lie in the intersection of theoretical computer science, computational logic, and universal algebra. A majority of my work is concerned with the complexity of the constraint satisfaction problem. I am also interested in constraint modeling, automated theorem proving, and artificial intelligence.
+
 
 ### Selected publications
 
