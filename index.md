@@ -16,33 +16,30 @@ title: "Home"
 
 Office hours are scheduled at the start of classes; or make an appointment!
 
-## Teaching
+# Teaching
 
-My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester.
 
-#### Fall 2022
 
-* [NOPT042 Constraint Programming](teaching/nopt042/) 
+### Fall 2022
+
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/) 
   - 🇬🇧 Tutorial
-* [NAIL062 Propositional and Predicate Logic](teaching/nail062/)
+* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
   - 🇨🇿 Czech lecture
   - 🇨🇿 Czech tutorial
 
-#### Archive: Spring 2022
+My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
 
-* NTIN071 Automata and Grammars
-  - 🇬🇧 English lecture
-  - 🇨🇿 Czech tutorials
 
-#### Theses and projects
+### Theses and projects
 
 I can offer theses in theoretical computer science as well as several research software projects. Informal inquiries are most welcome!
 
-## Research
+# Research
 
 > My primary research interests lie in the intersection of theoretical computer science, computational logic, and universal algebra. A majority of my work is concerned with the complexity of the constraint satisfaction problem. I am also interested in constraint modeling, automated theorem proving, and artificial intelligence.
 
-#### Selected publications
+### Selected publications
 
 1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*, [arXiv.2205.07528](https://doi.org/10.48550/arXiv.2205.07528) (May 2022)
 
