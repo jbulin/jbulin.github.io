@@ -11,19 +11,18 @@ title: "NOPT042 Constraint programming"
     <span style="color:fuchsia">**A**</span>ctors, 
     <span style="color:fuchsia">**T**</span>abling).
 
-* [GitLab repository for the tutorial](https://gitlab.mff.cuni.cz/bulij5am/nopt042) (under construction)
+* [GitHub Classroom](https://classroom.github.com/classrooms/111507671-nopt042-tutorial) for classwork and homework assignments
 
 
 ## Tutorial schedule
 
+#### Before the first tutorial
+
+* Install Picat and try it out. See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf). 
+* Solve the [test assignment](https://classroom.github.com/a/1ZJRMLa6). Push your solution to the repo, and check if it passed the tests.
+
 #### First tutorial
 * **Program:** Overview of Picat
-
-
-## Getting started with Picat
-
- Please install Picat and try it out before the first tutorial. 
- See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).
 
 
 ## Resources
