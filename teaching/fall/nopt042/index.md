@@ -14,6 +14,12 @@ title: "NOPT042 Constraint programming"
 * [GitLab repository for the tutorial](https://gitlab.mff.cuni.cz/bulij5am/nopt042) (under construction)
 
 
+## Tutorial schedule
+
+#### First tutorial
+* *Program:* Overview of Picat
+
+
 ## Getting started with Picat
 
  Please install Picat and try it out before the first tutorial. 
@@ -36,8 +42,9 @@ title: "NOPT042 Constraint programming"
 
 ## Credit requirements
 
-There will be 12 homework assignments each of which is worth 1 point. In order to get the credit, you must gain at least 6 points, out of which at least 3 points must be from the second half of the semester (assignments 7-). Expect increasing complexity of the assignments as the semester progresses. There will be an additional option to get at most 3 points after the end of classes for solving substantially harder problems.
+There will be 12 homework assignments each of which is worth 1 point. In order to get the credit, you must gain at least 8 points, out of which at least 4 points must be from the second half of the semester (assignments 7-). Expect increasing complexity of the assignments as the semester progresses. There will be an additional option to get at most 4 points after the end of classes for solving somewhat harder problems.
 
 
 ## Frequently asked questions (FAQ)
-* _What should I do if I have a question?_ -- Check the FAQ. If you don't see the answer here email me putting "nopt042" in the subject. 
+* _What should I do if I have a question?_ -- Check the FAQ. If you don't see the answer here email me putting "nopt042" in the subject.
+* _What if I want a consultation?_ -- Talk to me after class or email me to schedule an appointment.
