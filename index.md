@@ -28,7 +28,7 @@ Office hours are scheduled at the start of classes; or make an appointment!
   - 🇬🇧 Tutorial
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
   - 🇨🇿 Czech lecture
-  - 🇨🇿 Czech tutorial
+  - 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
 

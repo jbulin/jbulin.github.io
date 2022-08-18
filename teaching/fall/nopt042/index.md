@@ -17,7 +17,7 @@ title: "NOPT042 Constraint programming"
 ## Tutorial schedule
 
 #### First tutorial
-* *Program:* Overview of Picat
+* **Program:** Overview of Picat
 
 
 ## Getting started with Picat

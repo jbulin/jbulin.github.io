@@ -4,7 +4,7 @@ title: "NAIL062 Propositional and predicate logic"
 
 # NAIL062 Výroková a predikátová logika
 
-Zde najdete informace o mé přednášce. Konzultační hodiny domluvíme 
+Zde najdete informace o mé přednášce. Konzultační hodiny upřesníme začátkem semestru.
 
 
 ## Program přednášek 
@@ -13,8 +13,8 @@ Zápisky z přednášky jsou v přípravě, prozatím je budu zveřejňovat po �
 
 #### První přednáška
 
-* *Program:* Úvod do logiky, neformální představení výrokové a predikátové logiky.
-* *Materiály:* [Kapitola 1 - Úvod do logiky](files/1-uvod-do-logiky.pdf)
+* **Program:** Úvod do logiky, neformální představení výrokové a predikátové logiky.
+* **Materiály:** [Kapitola 1 - Úvod do logiky](files/1-uvod-do-logiky.pdf)
 
 
 ## Užitečné odkazy
