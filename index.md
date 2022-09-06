@@ -19,17 +19,15 @@ I am one of the logicians in [this picture](files/me.jpg).
 
 Office hours are scheduled at the start of classes; or make an appointment!
 
-
 # Teaching
-
 
 ### Fall 2022
 
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/) 
-  - 🇬🇧 Tutorial
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
+  * 🇬🇧 Tutorial
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
-  - 🇨🇿 Czech lecture
-  - 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
+  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
+  * 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
 
@@ -37,7 +35,6 @@ My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fa
 ### Theses and projects
 
 I can offer theses in theoretical computer science as well as several research software projects. Informal inquiries are most welcome!
-
 
 # Research
 

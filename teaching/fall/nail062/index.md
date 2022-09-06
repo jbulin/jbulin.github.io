@@ -6,16 +6,14 @@ title: "NAIL062 Propositional and predicate logic"
 
 Zde najdete informace o mé přednášce. Konzultační hodiny upřesníme začátkem semestru.
 
-
-## Program přednášek 
+## Program přednášek
 
 Zápisky z přednášky jsou v přípravě, prozatím je budu zveřejňovat po částech jako materiály k jednotlivým přednáškám.
 
-#### První přednáška
+### První přednáška
 
 * **Program:** Úvod do logiky, neformální představení výrokové a predikátové logiky.
 * **Materiály:** [Kapitola 1 - Úvod do logiky](files/1-uvod-do-logiky.pdf)
-
 
 ## Užitečné odkazy
 
@@ -24,16 +22,15 @@ Zápisky z přednášky jsou v přípravě, prozatím je budu zveřejňovat po �
 * [Moje cvičení](cviceni/), kde najdete příklady k procvičení. Informace o vašem cvičení vám poskytne váš cvičící.
 * Přehled potřebných [matematických pojmů](http://ktiml.mff.cuni.cz/~gregor/logika/VPLdodatek.pdf) (prezentace doc. Gregora); většinu byste už měli znát (k těm méně obvyklým se ještě vrátíme, až je budeme potřebovat).
 
-
 ## Informace o zkouškách
 
 Budou upřesněny koncem semestru. Formát zkoušky se výrazně změní, písemná část bude podstatně kratší, a bude zaměřena převážně na teorii.
 
-
-# Často kladené dotazy
+## Často kladené dotazy
 
 * _Co mám dělat, pokud mám otázku k přednášce?_ -- Podívejte se sem do ČKD. Pokud nenajdete odpověď, napište mi email; do předmětu zprávy, prosím, napište "nail062".
 
+* _Bude přednáška nahrávána? -- Ne, ale [v SISu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL062&skr=2022&fak=11320) najdete záznamy přednášky doc. Gregora z minulých let, které lze využít jako doplňkový studijní materiál.
 
 <!--
 ## Přednáška
