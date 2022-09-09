@@ -6,10 +6,13 @@ title: "NAIL062 Propositional and predicate logic: tutorial"
 
 Zde najdete informace k mému cvičení. Konzultační hodiny domluvíme na prvním cvičení, jinak se na konzultaci objednejte (po cvičení nebo emailem).
 
-
 ## Program cvičení
 
-TBA
+
+### 0. cvičení
+
+* **Program:** Úvod. Vyjadřování různých vlastností ve výrokové a predikátové logice. Připomenutí matematických pojmů.
+* **Materiály:** [cviceni0.pdf](files/cviceni0.pdf)
 
 
 ## Užitečné odkazy
@@ -20,9 +23,12 @@ TBA
 a detailů
 
 
-## Požadavky na zápočet
+## Zápočet
 
-TBA
+* [Podmínky pro získání zápočtu](files/zapocet.txt)
+* předběžný termín 1. zápočtového testu (výroková logika): 18.11.
+* předběžný termín 2. zápočtového testu (predikátová logika): 6.1.
+* předběžný termín opravného testu: v prvních dvou týdnech zkouškového období
 
 
 ## Často kladené dotazy

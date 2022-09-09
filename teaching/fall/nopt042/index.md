@@ -18,7 +18,7 @@ title: "NOPT042 Constraint programming"
 
 #### Before the first tutorial
 
-* Install Picat and try it out. See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf). 
+* Install Picat and try it out. (See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).)
 * Solve the [test assignment](https://classroom.github.com/a/1ZJRMLa6). Push your solution to the repo, and check if it passed the tests.
 
 #### First tutorial
