@@ -19,8 +19,7 @@ Zde najdete informace k mému cvičení. Konzultační hodiny domluvíme na prvn
 
 * [Přednáška](https://jbulin.github.io/teaching/fall/nail062/) a [loňská přednáška doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika/index.html)
 
-* Cvičení [doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika2019/cviceni.html), [dr. Vomlelové](http://ktiml.mff.cuni.cz/~marta/logika.html), a [dr. Hrice](http://ktiml.mff.cuni.cz/~hric/vyuka/prikl_vpl.htm).
-a detailů
+* Cvičení [doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika2019/cviceni.html), [dr. Vomlelové](http://ktiml.mff.cuni.cz/~marta/logika.html), a [dr. Hrice](http://ktiml.mff.cuni.cz/~hric/vyuka/prikl_vpl.htm)
 
 
 ## Zápočet
