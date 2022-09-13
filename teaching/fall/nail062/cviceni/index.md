@@ -14,6 +14,10 @@ Zde najdete informace k mému cvičení. Konzultační hodiny domluvíme na prvn
 * **Program:** Úvod. Vyjadřování různých vlastností ve výrokové a predikátové logice. Připomenutí matematických pojmů.
 * **Materiály:** [cviceni0.pdf](files/cviceni0.pdf)
 
+### 1. cvičení
+* **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek.
+* **Materiály:** [cviceni1.pdf](files/cviceni1.pdf)
+
 
 ## Užitečné odkazy
 
@@ -25,8 +29,8 @@ Zde najdete informace k mému cvičení. Konzultační hodiny domluvíme na prvn
 ## Zápočet
 
 * [Podmínky pro získání zápočtu](files/zapocet.txt)
-* předběžný termín 1. zápočtového testu (výroková logika): 18.11.
-* předběžný termín 2. zápočtového testu (predikátová logika): 6.1.
+* předběžný termín 1. zápočtového testu (výroková logika): 18.11. [Vzorový test: výroková logika](files/vzorovy-test-vyrokova-logika.pdf)
+* předběžný termín 2. zápočtového testu (predikátová logika): 6.1. [Vzorový test: predikátová logika](files/vzorovy-test-predikatova-logika.pdf)
 * předběžný termín opravného testu: v prvních dvou týdnech zkouškového období
 
 
