@@ -4,7 +4,7 @@ title: "NAIL062 Propositional and predicate logic"
 
 # NAIL062 Výroková a predikátová logika
 
-Zde najdete informace o mé přednášce. Konzultační hodiny upřesníme začátkem semestru.
+Zde najdete informace o mé přednášce.
 
 ## Program přednášek
 
@@ -29,6 +29,8 @@ Budou upřesněny koncem semestru. Formát zkoušky se výrazně změní, písem
 ## Často kladené dotazy
 
 * _Co mám dělat, pokud mám otázku k přednášce?_ -- Podívejte se sem do ČKD. Pokud nenajdete odpověď, napište mi email; do předmětu zprávy, prosím, napište "nail062".
+
+ _Co mám dělat, pokud chci konzultaci?_ -- Domluvte se se mnou po cvičení, přijďte na rozvržené konzultační hodiny, nebo si domluvme termín konzultace emailem.
 
 * _Bude přednáška nahrávána?_ -- Ne, ale [v SISu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL062&skr=2022&fak=11320) najdete záznamy přednášky doc. Gregora z minulých let, které lze využít jako doplňkový studijní materiál.
 

@@ -5,25 +5,24 @@ title: "NOPT042 Constraint programming"
 # NOPT042 Constraint programming
 
 > In the tutorial we will be modeling constraint problems in the logic-based multi-paradigm language Picat 
-    (<span style="color:fuchsia">**P**</span>attern-matching, 
-    <span style="color:fuchsia">**I**</span>ntuitive, 
-    <span style="color:fuchsia">**C**</span>onstraints, 
-    <span style="color:fuchsia">**A**</span>ctors, 
+    (<span style="color:fuchsia">**P**</span>attern-matching,
+    <span style="color:fuchsia">**I**</span>ntuitive,
+    <span style="color:fuchsia">**C**</span>onstraints,
+    <span style="color:fuchsia">**A**</span>ctors,
     <span style="color:fuchsia">**T**</span>abling).
 
 * [GitHub Classroom](https://classroom.github.com/classrooms/111507671-nopt042-tutorial) for classwork and homework assignments
 
-
 ## Tutorial schedule
 
-#### Before the first tutorial
+### Before the first tutorial
 
 * Install Picat and try it out. (See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).)
 * Solve the [test assignment](https://classroom.github.com/a/1ZJRMLa6). Push your solution to the repo, and check if it passed the tests.
 
-#### First tutorial
-* **Program:** Overview of Picat
+### First tutorial
 
+* **Program:** Overview of Picat
 
 ## Resources
 
@@ -38,12 +37,11 @@ title: "NOPT042 Constraint programming"
 * [Previous tutorial by R. Barták in SICStus Prolog](https://ktiml.mff.cuni.cz/~bartak/podminky/#cviceni)
 * [Previous tutorial by me in MiniZinc](https://dl1.cuni.cz/course/view.php?id=10544)
 
-
 ## Credit requirements
 
 There will be 12 homework assignments each of which is worth 1 point. In order to get the credit, you must gain at least 8 points, out of which at least 4 points must be from the second half of the semester (assignments 7-). Expect increasing complexity of the assignments as the semester progresses. There will be an additional option to get at most 4 points after the end of classes for solving somewhat harder problems.
 
-
 ## Frequently asked questions (FAQ)
-* _What should I do if I have a question?_ -- Check the FAQ. If you don't see the answer here email me putting "nopt042" in the subject.
-* _What if I want a consultation?_ -- Talk to me after class or email me to schedule an appointment.
+
+* _What should I do if I have a question?_ --- Check the FAQ. If you don't see the answer here email me putting "nopt042" in the subject.
+* _What if I want a consultation?_ --- Talk to me after class, come to the scheduled office hours, or email me to arrange an appointment.

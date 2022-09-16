@@ -4,7 +4,7 @@ title: "NAIL062 Propositional and predicate logic: tutorial"
 
 # NAIL062 Výroková a predikátová logika: cvičení
 
-Zde najdete informace k mému cvičení. Konzultační hodiny domluvíme na prvním cvičení, jinak se na konzultaci objednejte (po cvičení nebo emailem).
+Zde najdete informace k mému cvičení.
 
 ## Program cvičení
 
