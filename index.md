@@ -17,14 +17,14 @@ I am one of the logicians in [this picture](files/me.jpg).
 * phone: (+420) (95155) 4463
 * pronouns: he/him
 
-Office hours are scheduled at the start of classes; or make an appointment!
+Office hours: scheduled for Friday 10:40am; or make an appointment!
 
 # Teaching
 
 ### Fall 2022
 
 * [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 Tutorial
+  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
   * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
   * 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)

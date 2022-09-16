@@ -38,3 +38,4 @@ Zde najdete informace k mému cvičení. Konzultační hodiny domluvíme na prvn
 
 * _Co mám dělat, pokud mám otázku ke cvičení?_ -- Podívejte se sem do ČKD. Pokud nenajdete odpověď, napište mi email; do předmětu zprávy, prosím, napište "nail062" a 
 "cvičení".
+* _Co mám dělat, pokud chci konzultaci?_ -- Domluvte se se mnou po cvičení, přijďte na rozvržené konzultační hodiny, nebo si domluvme termín konzultace emailem.
