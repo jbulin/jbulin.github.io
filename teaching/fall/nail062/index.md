@@ -5,7 +5,7 @@ title: "NAIL062 Propositional and predicate logic"
 # NAIL062 Výroková a predikátová logika
 
 * 🇬🇧 [English lecture](https://ktiml.mff.cuni.cz/~gregor/logics/): Information about the English lecture by Petr Gregor is under [this link](https://ktiml.mff.cuni.cz/~gregor/logics/).
-* 🇨🇿 [Česká přednáška](/): Zde najdete informace o české přednášce Jakuba Bulína.
+* 🇨🇿 [Česká přednáška](): Zde najdete informace o české přednášce Jakuba Bulína.
 
 ## Program přednášek
 
@@ -21,7 +21,7 @@ Zápisky z přednášky jsou v přípravě, prozatím je budu zveřejňovat po �
 * [Informace o předmětu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL062&skr=2022&fak=11320) v SISu. Najdete tam mj. sylabus, literaturu, a po přihlášení i záznamy přednášek doc. Gregora z minulých let.
 * [Přednáška doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika/index.html) z minulých let. Obsah se shoduje z ~85% s naší přednáškou, najdete zde prezentace, a mnoho příkladů (z předchozích zkoušek, formát zkoušky se ale změní).
 * [Moje cvičení](cviceni/), kde najdete příklady k procvičení. Informace o vašem cvičení vám poskytne váš cvičící.
-* Přehled potřebných [matematických pojmů](http://ktiml.mff.cuni.cz/~gregor/logika/VPLdodatek.pdf) (prezentace doc. Gregora); většinu byste už měli znát (k těm méně obvyklým se ještě vrátíme, až je budeme potřebovat).
+* Přehled potřebných [matematických pojmů](http://ktiml.mff.cuni.cz/~gregor/logika/VPLdodatek.pdf) (prezentace doc. Gregora); většinu byste už měli znát, k těm méně obvyklým se ještě vrátíme, až je budeme potřebovat.
 
 ## Informace o zkouškách
 
