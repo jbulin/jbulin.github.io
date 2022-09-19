@@ -4,9 +4,8 @@ title: "NAIL062 Propositional and predicate logic"
 
 # NAIL062 Výroková a predikátová logika
 
+* 🇬🇧 The English lecture of NAIL062 by Petr Gregor is under [this link](https://ktiml.mff.cuni.cz/~gregor/logics/).
 * 🇨🇿 Zde najdete informace o české přednášce Jakuba Bulína.
-* 🇬🇧 The English lecture by Petr Gregor is under [this link](https://ktiml.mff.cuni.cz/~gregor/logics/).
-
 
 ## Program přednášek
 
