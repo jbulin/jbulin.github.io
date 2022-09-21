@@ -42,7 +42,7 @@ Budou upřesněny koncem semestru. Formát zkoušky se výrazně změní, písem
 
 * _Co mám dělat, pokud chci konzultaci?_ -- Domluvte se se mnou po cvičení, přijďte na rozvržené konzultační hodiny, nebo si domluvme termín konzultace emailem.
 
-* _Bude přednáška nahrávána?_ -- Ne, ale [v SISu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL062&skr=2022&fak=11320) najdete záznamy přednášky doc. Gregora z minulých let, které lze využít jako doplňkový studijní materiál.
+* _Bude přednáška přenášena online nebo nahrávána?_ -- Ne, ale [v SISu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL062&skr=2022&fak=11320) najdete záznamy přednášky doc. Gregora z minulých let, které lze využít jako doplňkový studijní materiál.
 
 <!--
 ## Přednáška
