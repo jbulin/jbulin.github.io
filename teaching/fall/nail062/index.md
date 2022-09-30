@@ -10,7 +10,7 @@ title: "NAIL062 Propositional and predicate logic"
 ## Program přednášek
 
 Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude průběžně aktualizována:
-* [Zápisky z přednášky](files/lecture-notes.pdf) (aktualizováno 19. 09.)
+* [Zápisky z přednášky](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf) (aktualizováno 30. 09.)
 
 ### První přednáška (3. 10.)
 
