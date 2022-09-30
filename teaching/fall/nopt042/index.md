@@ -11,7 +11,16 @@ title: "NOPT042 Constraint programming"
     <span style="color:fuchsia">**A**</span>ctors,
     <span style="color:fuchsia">**T**</span>abling).
 
+<!--
 * [GitHub Classroom](https://classroom.github.com/classrooms/111507671-nopt042-tutorial) for classwork and homework assignments
+-->
+
+* [Github repository](https://github.com/jbulin-mff-uk/nopt042) for the tutorial
+* Homework assignments on Github Classroom:
+    - [test assignment](https://classroom.github.com/a/1ZJRMLa6) (not graded)
+    - [Homework 1: leaves](https://classroom.github.com/a/SR6S7hUf) (due date extended by one week, until 2pm on Oct 14)
+    - Homework 2: TBA (due date 2pm on Oct 14)
+
 
 ## Tutorial schedule
 
@@ -22,7 +31,8 @@ title: "NOPT042 Constraint programming"
 
 ### First tutorial
 
-* **Program:** Overview of Picat
+* **Program:** Overview of Picat.
+* **Homework:** [leaves](https://classroom.github.com/a/SR6S7hUf)
 
 ## Resources
 
