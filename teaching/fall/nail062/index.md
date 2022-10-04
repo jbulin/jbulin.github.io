@@ -10,20 +10,20 @@ title: "NAIL062 Propositional and predicate logic"
 ## Program přednášek
 
 Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude průběžně aktualizována:
-* [Zápisky z přednášky](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf) (aktualizováno 30. 09.)
+* [Zápisky z přednášky](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf) (aktualizováno nedávno)
 
 ### První přednáška (3. 10.)
 
-* **Program:** Úvod do logiky, neformální představení výrokové a predikátové logiky.
-* **Materiály:** [Kapitola 1 - Úvod do logiky](files/chapter1.pdf)
+* **Program:** Úvod do logiky, neformální představení výrokové a predikátové logiky. Syntaxe výrokové logiky.
+* **Materiály:** Kapitola 1; Sekce 2.1.1-2.1.2 z Kapitoly 2
 
 ### Druhá přednáška (10. 10.)
 * **Program:** Syntaxe a sémantika výrokové logiky. Normální formy (CNF, DNF). Vlastnosti teorií.
-* **Materiály:** [Kapitola 2 - Syntaxe a sémantika výrokové logiky](files/chapter2.pdf)
+* **Materiály:** Sekce 2.1.3-2.4 z Kapitoly 2 
 
 ### Třetí přednáška (17. 10.)
 * **Program:** Algebra výroků. Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL
-* **Materiály:** Sekce 2.5, [Kapitola 3 - Problém splnitelnosti](files/chapter3.pdf)
+* **Materiály:** Sekce 2.5 z Kapitoly 2; Kapitola 3
 
 ## Užitečné odkazy
 
