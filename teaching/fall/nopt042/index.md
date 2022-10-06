@@ -19,7 +19,7 @@ title: "NOPT042 Constraint programming"
 * Homework assignments on Github Classroom:
     - [test assignment](https://classroom.github.com/a/1ZJRMLa6) (not graded)
     - [Homework 1: leaves](https://classroom.github.com/a/SR6S7hUf) (due date extended by one week, until 2pm on Oct 14)
-    - Homework 2: TBA (due date 2pm on Oct 14)
+    - [Homework 2: crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t) (due date 2pm on Oct 14)
 
 
 ## Tutorial schedule
@@ -29,10 +29,17 @@ title: "NOPT042 Constraint programming"
 * Install Picat and try it out. (See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).)
 * Solve the [test assignment](https://classroom.github.com/a/1ZJRMLa6). Push your solution to the repo, and check if it passed the tests.
 
-### First tutorial
+### 1st tutorial
 
 * **Program:** Overview of Picat.
 * **Homework:** [leaves](https://classroom.github.com/a/SR6S7hUf)
+
+### 2nd tutorial
+
+* **Program:** Intro to CP.
+* **Homework:** [crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t)
+
+
 
 ## Resources
 
