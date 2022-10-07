@@ -41,6 +41,7 @@ title: "NOPT042 Constraint programming"
 
 
 
+
 ## Resources
 
 * [Picat homepage](https://picat-lang.org)

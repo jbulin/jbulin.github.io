@@ -9,14 +9,34 @@ Zde najdete informace k mému cvičení.
 ## Program cvičení
 
 
-### 0. cvičení
+### 0. cvičení (30.9.)
 
 * **Program:** Úvod. Vyjadřování různých vlastností ve výrokové a predikátové logice. Připomenutí matematických pojmů.
 * **Materiály:** [cviceni0.pdf](files/cviceni0.pdf)
 
-### 1. cvičení
+### 1. cvičení (7.10.)
 * **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek.
 * **Materiály:** [cviceni1.pdf](files/cviceni1.pdf)
+
+### 2. cvičení (14.10.)
+* **Program:** Syntaxe a sémantika výrokové logiky, převod do CNF a DNF.
+* **Materiály:** [cviceni2.pdf](files/cviceni2.pdf)
+
+### 3. cvičení (21.10.)
+* **Program:** Počítání výroků až na ekvivalenci (Lindenbaum-Tarského algebra). 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
+* **Materiály:** [cviceni3.pdf](files/cviceni3.pdf)
+
+### 5. cvičení (4.11.)
+* **Program:** Tablo metoda ve výrokové logice. 
+* **Materiály:** [cviceni5.pdf](files/cviceni5.pdf)
+
+### 6. cvičení (11.11.)
+* **Program:** Rezoluce ve výrokové logice. Aplikace věty o kompaktnosti. Hilbertův kalkulus.
+* **Materiály:** [cviceni6.pdf](files/cviceni6.pdf)
+
+### 7. cvičení (18.11.)
+* **1. zápočtový test**
+* **Program:** Syntaxe a sémantika predikátové logiky.
 
 
 ## Užitečné odkazy
