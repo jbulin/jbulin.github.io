@@ -18,12 +18,12 @@ Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude 
 * **Materiály:** Kapitola 1; Sekce 2.1.1-2.1.2 z Kapitoly 2
 
 ### Druhá přednáška (10. 10.)
-* **Program:** Syntaxe a sémantika výrokové logiky. Normální formy (CNF, DNF). Vlastnosti teorií.
-* **Materiály:** Sekce 2.1.3-2.4 z Kapitoly 2 
+* **Program:** Syntaxe a sémantika výrokové logiky. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií.
+* **Materiály:** Sekce 2.1.3-2.4.1 z Kapitoly 2 
 
 ### Třetí přednáška (17. 10.)
-* **Program:** Algebra výroků. Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL
-* **Materiály:** Sekce 2.5 z Kapitoly 2; Kapitola 3
+* **Program:** Extenze teorií. Algebra výroků. Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL
+* **Materiály:** Sekce 2.4.2 a 2.5 z Kapitoly 2; Kapitola 3
 
 ## Užitečné odkazy
 
