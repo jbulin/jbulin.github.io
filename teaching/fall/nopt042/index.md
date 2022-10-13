@@ -20,6 +20,8 @@ title: "NOPT042 Constraint programming"
     - [test assignment](https://classroom.github.com/a/1ZJRMLa6) (not graded)
     - [Homework 1: leaves](https://classroom.github.com/a/SR6S7hUf) (due date extended by one week, until 2pm on Oct 14)
     - [Homework 2: crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t) (due date 2pm on Oct 14)
+    - [Homework 3: boardomino](https://classroom.github.com/a/grmdbx-S) (due date 2pm on Oct 21)
+    
 
 
 ## Tutorial schedule
@@ -38,6 +40,11 @@ title: "NOPT042 Constraint programming"
 
 * **Program:** Intro to CP.
 * **Homework:** [crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t)
+
+### 3rd tutorial
+
+* **Program:** Improving models, symmetry breaking, solvers.
+* **Homework:** [boardomino](https://classroom.github.com/a/grmdbx-S)
 
 
 
