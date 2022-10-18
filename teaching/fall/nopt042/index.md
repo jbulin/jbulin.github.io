@@ -21,8 +21,8 @@ title: "NOPT042 Constraint programming"
     - [Homework 1: leaves](https://classroom.github.com/a/SR6S7hUf) (due date extended by one week, until 2pm on Oct 14)
     - [Homework 2: crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t) (due date 2pm on Oct 14)
     - [Homework 3: boardomino](https://classroom.github.com/a/grmdbx-S) (due date 2pm on Oct 21)
+    - [Homework 4: knapsack](https://classroom.github.com/a/vZFFbU1t) (due date 2pm on Nov 4)
     
-
 
 ## Tutorial schedule
 
@@ -45,6 +45,12 @@ title: "NOPT042 Constraint programming"
 
 * **Program:** Improving models, symmetry breaking, solvers.
 * **Homework:** [boardomino](https://classroom.github.com/a/grmdbx-S)
+
+
+### 4th tutorial
+
+* **Program:** Search space, search strategies.
+* **Homework:** [knapsack](https://classroom.github.com/a/vZFFbU1t) - due on Nov 4 (Oct 28 is a national holiday)
 
 
 
