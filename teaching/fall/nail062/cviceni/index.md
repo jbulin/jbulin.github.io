@@ -24,7 +24,7 @@ Zde najdete informace k mému cvičení.
 
 ### 3. cvičení (21.10.)
 * **Program:** Počítání výroků až na ekvivalenci (Lindenbaum-Tarského algebra). 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
-* **Materiály:** [cviceni3.pdf](files/cviceni3.pdf)
+* **Materiály:** [cviceni3.pdf](files/cviceni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/tutorial/sat-solving.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup)
 
 ### 5. cvičení (4.11.)
 * **Program:** Tablo metoda ve výrokové logice. 

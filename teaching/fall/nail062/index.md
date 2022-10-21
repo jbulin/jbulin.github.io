@@ -18,12 +18,30 @@ Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude 
 * **Materiály:** Kapitola 1; Sekce 2.1.1-2.1.2 z Kapitoly 2
 
 ### Druhá přednáška (10. 10.)
+
 * **Program:** Syntaxe a sémantika výrokové logiky. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií.
 * **Materiály:** Sekce 2.1.3-2.4.1 z Kapitoly 2 
 
 ### Třetí přednáška (17. 10.)
+
 * **Program:** Extenze teorií. Algebra výroků. Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL
 * **Materiály:** Sekce 2.4.2 a 2.5 z Kapitoly 2; Kapitola 3
+
+### Čtvrtá přednáška (24. 10.)
+
+* **Program:** Úvod do metody analytického tabla. Pojem tablo důkazu. Věta o korektnosti a úplnosti a jejich důsledky.
+* **Materiály:** Sekce 4.1-4.6
+
+### Pátá přednáška (31. 10.)
+
+* **Program:** Věta o kompaktnosti a její důsledky. Hilbertovský kalkulus. Rezoluční metoda, korektnost, úplnost.
+* **Materiály:** Sekce 4.7-4.8, 5.1-5.3
+
+### Šestá přednáška (7. 11.)
+
+* **Program:** LI-rezoluce, rezoluce v Prologu. Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky.
+* **Materiály:** Sekce 5.4-5.5, 6.1-6.4
+
 
 ## Užitečné odkazy
 
