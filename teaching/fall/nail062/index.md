@@ -42,6 +42,40 @@ Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude 
 * **Program:** LI-rezoluce, rezoluce v Prologu. Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky.
 * **Materiály:** Sekce 5.4-5.5, 6.1-6.4
 
+### Sedmá přednáška (14. 11.)
+
+* **Program:** Vlastnosti teorií. Podstruktury, expanze a redukty. Věta o konstantách. Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky.
+* **Materiály:** Sekce 6.5-6.9
+
+### Osmá přednáška (21. 11.)
+
+* **Program:** Tablo metoda v predikátové logice, jazyky s rovností, korektnost, kanonický model, úplnost.
+* **Materiály:** Sekce 7.1-7.4
+
+### Devátá přednáška (28. 11.)
+
+* **Program:** Löwenheim-Skolemova věta, věta o kompaktnosti. Hilbertovský kalkulus. Úvod do rezoluce v predikátové logice.
+* **Materiály:** Sekce 7.5-8.1
+
+### Desátá přednáška (5. 12.)
+
+* **Program:** Ekvisplnitelnost, převod do PNF, Skolemizace. Grounding,  Herbrandův model, Herbrandova věta. Unifikace.
+* **Materiály:** Sekce 8.2-8.4
+
+### Jedenáctá přednáška (12. 12.)
+
+* **Program:** Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce. LI-rezoluce, Prolog.
+* **Materiály:** Sekce 8.5-8.7
+
+### Dvanáctá přednáška (19. 12.)
+
+* **Program:** Elementární ekvivalence. Důsledky Löwenheim-Skolemovy věty. Izomorfismus a konečné modely. Definovatelnost a automorfismy. Omega-kategoricita a úplnost.
+* **Materiály:** Kapitola 9
+
+### Třináctá přednáška (2. 1.)
+
+* **Program:** * Rozhodnutelnost. Rekurzivní axiomatizovatelnost. Rozhodnutelné teorie: příklady. Aritmetické teorie (Robinson, Peano), Hilbertův 10. problém. Nerozhodnutelnost predikátové logiky. Gödelovy věty o neúplnosti.
+* **Materiály:** Kapitola 10
 
 ## Užitečné odkazy
 

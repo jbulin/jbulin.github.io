@@ -22,6 +22,7 @@ title: "NOPT042 Constraint programming"
     - [Homework 2: crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t) (due date 2pm on Oct 14)
     - [Homework 3: boardomino](https://classroom.github.com/a/grmdbx-S) (due date 2pm on Oct 21)
     - [Homework 4: knapsack](https://classroom.github.com/a/vZFFbU1t) (due date 2pm on Nov 4)
+    - [Homework 5: stable-marriage](https://classroom.github.com/a/hB1TlTnz) (due date 2pm on Nov 11)
     
 
 ## Tutorial schedule
@@ -31,29 +32,58 @@ title: "NOPT042 Constraint programming"
 * Install Picat and try it out. (See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).)
 * Solve the [test assignment](https://classroom.github.com/a/1ZJRMLa6). Push your solution to the repo, and check if it passed the tests.
 
-### 1st tutorial
+### 1st tutorial (Sep 30)
 
 * **Program:** Overview of Picat.
 * **Homework:** [leaves](https://classroom.github.com/a/SR6S7hUf)
 
-### 2nd tutorial
+### 2nd tutorial (Oct 7)
 
 * **Program:** Intro to CP.
 * **Homework:** [crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t)
 
-### 3rd tutorial
+### 3rd tutorial (Oct 14)
 
 * **Program:** Improving models, symmetry breaking, solvers.
 * **Homework:** [boardomino](https://classroom.github.com/a/grmdbx-S)
 
-
-### 4th tutorial
+### 4th tutorial (Oct 21)
 
 * **Program:** Search space, search strategies.
 * **Homework:** [knapsack](https://classroom.github.com/a/vZFFbU1t) - due on Nov 4 (Oct 28 is a national holiday)
 
+### 5th tutorial (Nov 4)
+* **Program:** Dual modeling, channeling. Assignment. Modeling functions.
+* **Homework:** [stable-marriage](https://classroom.github.com/a/hB1TlTnz) due on Nov 11
 
+### 6th tutorial (Nov 11)
+* **Program:** Scheduling, the cummulative constraint
+* **Homework:** TBA due Nov 18
 
+### 7th tutorial (Nov 18)
+* **Program:** Rostering
+* **Homework:** TBA due Nov 25
+
+### 8th tutorial (Nov 25 )
+* **Program:** Modeling with sets
+* **Homework:** TBA due Dec 2
+
+### 9th tutorial (Dec 2)
+* **Program:** Implicit constraints
+* **Homework:** TBA due Dec 9
+
+### th tutorial (Dec 9)
+* **Program:** Tabling
+* **Homework:** TBA  due Dec 16
+
+### th tutorial (Dec 16)
+* **Program:** Planning
+* **Homework:** TBA due Jan 6
+
+### th tutorial (Jan 6)
+* **Program:** The last tutorial, modeling with MiniZinc in Picat
+* **Homework:** TBA due Jan 20
+* **Additional homework problems:** TBA due end of March
 
 ## Resources
 
