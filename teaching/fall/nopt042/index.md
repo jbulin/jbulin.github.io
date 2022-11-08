@@ -65,22 +65,22 @@ title: "NOPT042 Constraint programming"
 * **Homework:** TBA due Nov 25
 
 ### 8th tutorial (Nov 25 )
-* **Program:** Modeling with sets
+* **Program:** Routing
 * **Homework:** TBA due Dec 2
 
 ### 9th tutorial (Dec 2)
-* **Program:** Implicit constraints
+* **Program:** Modeling with sets, Implicit constraints
 * **Homework:** TBA due Dec 9
 
-### th tutorial (Dec 9)
+### 10th tutorial (Dec 9)
 * **Program:** Tabling
 * **Homework:** TBA  due Dec 16
 
-### th tutorial (Dec 16)
+### 11th tutorial (Dec 16)
 * **Program:** Planning
 * **Homework:** TBA due Jan 6
 
-### th tutorial (Jan 6)
+### 12th tutorial (Jan 6)
 * **Program:** The last tutorial, modeling with MiniZinc in Picat
 * **Homework:** TBA due Jan 20
 * **Additional homework problems:** TBA due end of March

@@ -39,13 +39,13 @@ Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude 
 
 ### Šestá přednáška (7. 11.)
 
-* **Program:** LI-rezoluce, rezoluce v Prologu. Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky.
-* **Materiály:** Sekce 5.4-5.5, 6.1-6.4
+* **Program:** LI-rezoluce, rezoluce v Prologu. Úvod do predikátové logiky. Syntaxe predikátové logiky.
+* **Materiály:** Sekce 5.4-5.5, 6.1-6.3
 
 ### Sedmá přednáška (14. 11.)
 
-* **Program:** Vlastnosti teorií. Podstruktury, expanze a redukty. Věta o konstantách. Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky.
-* **Materiály:** Sekce 6.5-6.9
+* **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Věta o konstantách. Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky.
+* **Materiály:** Sekce 6.4-6.9
 
 ### Osmá přednáška (21. 11.)
 
