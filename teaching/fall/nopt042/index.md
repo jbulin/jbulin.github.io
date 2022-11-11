@@ -23,8 +23,8 @@ title: "NOPT042 Constraint programming"
     - [Homework 3: boardomino](https://classroom.github.com/a/grmdbx-S) (due date 2pm on Oct 21)
     - [Homework 4: knapsack](https://classroom.github.com/a/vZFFbU1t) (due date 2pm on Nov 4)
     - [Homework 5: stable-marriage](https://classroom.github.com/a/hB1TlTnz) (due date 2pm on Nov 11)
+    - [Homework 6: moving](https://classroom.github.com/a/_Y3A7opJ) (due date 2pm on Nov 18)
     
-
 ## Tutorial schedule
 
 ### Before the first tutorial
@@ -53,34 +53,42 @@ title: "NOPT042 Constraint programming"
 * **Homework:** [knapsack](https://classroom.github.com/a/vZFFbU1t) - due on Nov 4 (Oct 28 is a national holiday)
 
 ### 5th tutorial (Nov 4)
-* **Program:** Dual modeling, channeling. Assignment. Modeling functions.
+
+* **Program:** Dual modeling, channeling. Assignment.
 * **Homework:** [stable-marriage](https://classroom.github.com/a/hB1TlTnz) due on Nov 11
 
 ### 6th tutorial (Nov 11)
-* **Program:** Scheduling, the cummulative constraint
-* **Homework:** TBA due Nov 18
+
+* **Program:** Modeling functions. Scheduling, the cummulative constraint
+* **Homework:** [moving](https://classroom.github.com/a/_Y3A7opJ) due on Nov 18
 
 ### 7th tutorial (Nov 18)
+
 * **Program:** Rostering
 * **Homework:** TBA due Nov 25
 
 ### 8th tutorial (Nov 25 )
+
 * **Program:** Routing
 * **Homework:** TBA due Dec 2
 
 ### 9th tutorial (Dec 2)
+
 * **Program:** Modeling with sets, Implicit constraints
 * **Homework:** TBA due Dec 9
 
 ### 10th tutorial (Dec 9)
+
 * **Program:** Tabling
 * **Homework:** TBA  due Dec 16
 
 ### 11th tutorial (Dec 16)
+
 * **Program:** Planning
 * **Homework:** TBA due Jan 6
 
 ### 12th tutorial (Jan 6)
+
 * **Program:** The last tutorial, modeling with MiniZinc in Picat
 * **Homework:** TBA due Jan 20
 * **Additional homework problems:** TBA due end of March
