@@ -24,6 +24,7 @@ title: "NOPT042 Constraint programming"
     - [Homework 4: knapsack](https://classroom.github.com/a/vZFFbU1t) (due date 2pm on Nov 4)
     - [Homework 5: stable-marriage](https://classroom.github.com/a/hB1TlTnz) (due date 2pm on Nov 11)
     - [Homework 6: moving](https://classroom.github.com/a/_Y3A7opJ) (due date 2pm on Nov 18)
+    - [Homework 7: feast](https://classroom.github.com/a/MjThrY8R) (due date 2pm on Nov 25)
     
 ## Tutorial schedule
 
@@ -65,7 +66,7 @@ title: "NOPT042 Constraint programming"
 ### 7th tutorial (Nov 18)
 
 * **Program:** Rostering
-* **Homework:** TBA due Nov 25
+* **Homework:** [feast](https://classroom.github.com/a/MjThrY8R) due Nov 25
 
 ### 8th tutorial (Nov 25 )
 
