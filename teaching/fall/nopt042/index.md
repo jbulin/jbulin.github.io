@@ -25,6 +25,7 @@ title: "NOPT042 Constraint programming"
     - [Homework 5: stable-marriage](https://classroom.github.com/a/hB1TlTnz) (due date 2pm on Nov 11)
     - [Homework 6: moving](https://classroom.github.com/a/_Y3A7opJ) (due date 2pm on Nov 18)
     - [Homework 7: feast](https://classroom.github.com/a/MjThrY8R) (due date 2pm on Nov 25)
+    - [Homework 8: routing](https://classroom.github.com/a/YPJdXoSh) (due date 2pm on Dec 2)
     
 ## Tutorial schedule
 
@@ -71,7 +72,7 @@ title: "NOPT042 Constraint programming"
 ### 8th tutorial (Nov 25 )
 
 * **Program:** Routing
-* **Homework:** TBA due Dec 2
+* **Homework:** [routing](https://classroom.github.com/a/YPJdXoSh) due Dec 2
 
 ### 9th tutorial (Dec 2)
 

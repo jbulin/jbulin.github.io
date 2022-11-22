@@ -44,18 +44,18 @@ Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude 
 
 ### Sedmá přednáška (14. 11.)
 
-* **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Věta o konstantách. Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky.
-* **Materiály:** Sekce 6.4-6.9
+* **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Věta o konstantách. 
+* **Materiály:** Sekce 6.4-6.6
 
 ### Osmá přednáška (21. 11.)
 
-* **Program:** Tablo metoda v predikátové logice, jazyky s rovností, korektnost, kanonický model, úplnost.
-* **Materiály:** Sekce 7.1-7.4
+* **Program:** Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Tablo metoda v predikátové logice, jazyky s rovností.
+* **Materiály:** Sekce 6.7-7.3
 
 ### Devátá přednáška (28. 11.)
 
-* **Program:** Löwenheim-Skolemova věta, věta o kompaktnosti. Hilbertovský kalkulus. Úvod do rezoluce v predikátové logice.
-* **Materiály:** Sekce 7.5-8.1
+* **Program:** Korektnost tablo metody, kanonický model, úplnost. Löwenheim-Skolemova věta, věta o kompaktnosti. Hilbertovský kalkulus. Úvod do rezoluce v predikátové logice.
+* **Materiály:** Sekce 7.4-8.1
 
 ### Desátá přednáška (5. 12.)
 
