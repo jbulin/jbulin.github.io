@@ -26,6 +26,11 @@ title: "NOPT042 Constraint programming"
     - [Homework 6: moving](https://classroom.github.com/a/_Y3A7opJ) (due date 2pm on Nov 18)
     - [Homework 7: feast](https://classroom.github.com/a/MjThrY8R) (due date 2pm on Nov 25)
     - [Homework 8: routing](https://classroom.github.com/a/YPJdXoSh) (due date 2pm on Dec 2)
+    - [Homework 9: life](https://classroom.github.com/a/gYNSo8NO) (due date 2pm on Dec 9)
+    - [Homework 10: golfers](https://classroom.github.com/a/NCxkvoPf) (due date 2pm on Dec 16)
+    - [Homework 11: triangle](https://classroom.github.com/a/6t1247tM) (due date 2pm on Jan 6)
+    - [Homework 12: farmer](https://classroom.github.com/a/9HmbOiKX) (due date 2pm on Jan 13)
+
     
 ## Tutorial schedule
 
@@ -76,23 +81,23 @@ title: "NOPT042 Constraint programming"
 
 ### 9th tutorial (Dec 2)
 
-* **Program:** Modeling with sets, Implicit constraints
-* **Homework:** TBA due Dec 9
+* **Program:** Implicit constraints
+* **Homework:** [life](https://classroom.github.com/a/gYNSo8NO) due Dec 9
 
 ### 10th tutorial (Dec 9)
 
-* **Program:** Tabling
-* **Homework:** TBA  due Dec 16
+* **Program:** Modeling with sets
+* **Homework:** [golfers](https://classroom.github.com/a/NCxkvoPf) due Dec 16
 
 ### 11th tutorial (Dec 16)
 
-* **Program:** Planning
-* **Homework:** TBA due Jan 6
+* **Program:** Tabling
+* **Homework:** [triangle](https://classroom.github.com/a/6t1247tM) due Jan 6
 
 ### 12th tutorial (Jan 6)
 
-* **Program:** The last tutorial, modeling with MiniZinc in Picat
-* **Homework:** TBA due Jan 20
+* **Program:** Planning
+* **Homework:** [farmer](https://classroom.github.com/a/9HmbOiKX) due Jan 13
 * **Additional homework problems:** TBA due end of March
 
 ## Resources
