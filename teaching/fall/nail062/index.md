@@ -59,13 +59,13 @@ Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude 
 
 ### Desátá přednáška (5. 12.)
 
-* **Program:** Ekvisplnitelnost, převod do PNF, Skolemizace. Grounding,  Herbrandův model, Herbrandova věta. Unifikace.
-* **Materiály:** Sekce 8.2-8.4
+* **Program:** Ekvisplnitelnost, převod do PNF, Skolemizace. Grounding,  Herbrandův model, Herbrandova věta. Skládání substitucí.
+* **Materiály:** Sekce 8.2-8.4.1
 
 ### Jedenáctá přednáška (12. 12.)
 
-* **Program:** Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce. LI-rezoluce, Prolog.
-* **Materiály:** Sekce 8.5-8.7
+* **Program:** Unifikační algoritmus. Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce. LI-rezoluce, Prolog.
+* **Materiály:** Sekce 8.4.2-8.7
 
 ### Dvanáctá přednáška (19. 12.)
 

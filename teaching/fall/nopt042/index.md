@@ -30,6 +30,7 @@ title: "NOPT042 Constraint programming"
     - [Homework 10: golfers](https://classroom.github.com/a/NCxkvoPf) (due date 2pm on Dec 16)
     - [Homework 11: triangle](https://classroom.github.com/a/6t1247tM) (due date 2pm on Jan 6)
     - [Homework 12: farmer](https://classroom.github.com/a/9HmbOiKX) (due date 2pm on Jan 13)
+    - [Additional homework assignments for extra points: packing, mcsp, digest, hanoi](https://classroom.github.com/a/OGh06sW9) (due by end of March)
 
     
 ## Tutorial schedule
@@ -98,7 +99,7 @@ title: "NOPT042 Constraint programming"
 
 * **Program:** Planning
 * **Homework:** [farmer](https://classroom.github.com/a/9HmbOiKX) due Jan 13
-* **Additional homework problems:** TBA due end of March
+* **Additional homework problems:** [packing, mcsp, digest, hanoi](https://classroom.github.com/a/OGh06sW9) due end of March
 
 ## Resources
 
