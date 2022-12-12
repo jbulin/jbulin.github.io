@@ -86,7 +86,9 @@ Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude 
 
 ## Informace o zkouškách
 
-Budou upřesněny koncem semestru. Formát zkoušky se výrazně změní, písemná část bude podstatně kratší, a bude zaměřena převážně na teorii.
+Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek, najdete v tomto PDF:
+
+* [Informace o zkouškách](files/info-o-zkouskach.pdf)
 
 ## Často kladené dotazy
 
