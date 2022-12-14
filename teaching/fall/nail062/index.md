@@ -15,8 +15,8 @@ Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otá
 
 ## Program přednášek
 
-Zápisky z přednášky jsou v přípravě, zde je pracovní verze, která bude průběžně aktualizována:
-* [Zápisky z přednášky](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf) (aktualizováno nedávno)
+Zápisky z přednášky, pro tento semestr už neočekávám zásadní změny, jen opravy chyb:
+* [Zápisky z přednášky](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf) (aktualizováno 14.12.)
 
 ### První přednáška (3. 10.)
 
