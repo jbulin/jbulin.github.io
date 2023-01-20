@@ -17,17 +17,30 @@ I am one of the logicians in [this picture](files/me.jpg).
 * phone: (+420) (95155) 4463
 * pronouns: he/him
 
-Office hours: scheduled for Friday 10:40am; or make an appointment!
+Office hours: as scheduled at the beginning of each semester; or make an appointment!
 
 # Teaching
 
+
+### Spring 2023
+
+* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
+  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
+  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
+
+* [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/index.md)
+  * 🇬🇧 [Lecture](teaching/fall/nopt042/)
+
+
 ### Fall 2022
 
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
   * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
   * 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
+
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
+  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
+
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
 
@@ -43,7 +56,7 @@ I can offer theses in theoretical computer science as well as several research s
 
 ### Selected publications
 
-1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*, [arXiv.2205.07528](https://doi.org/10.48550/arXiv.2205.07528) (May 2022)
+1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*, to appear in Constraints. [arXiv.2205.07528](https://doi.org/10.48550/arXiv.2205.07528) (May 2022)
 
 2. L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages. DOI
 
