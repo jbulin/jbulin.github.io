@@ -12,4 +12,4 @@ Poté se zapište do skupiny odpovídající vašemu cvičení (musí být stejn
 
 * [Výběr skupiny](https://dl1.cuni.cz/mod/groupselect/view.php?id=481401)
 
-Sledujte informace a Moodle zprávy. Kdykoliv to bude možné, pokládejte dotazy (mimo třídu) v diskuzním fóru, jinak mi napište Moodle zprávu. (V případě, že mi potřebujete napsat na email, napište do předmětu "ntin071" a "cviceni".)
+Sledujte informace a Moodle zprávy. Kdykoliv to bude možné, pokládejte dotazy (mimo třídu) v diskuzním fóru, jinak mi napište Moodle zprávu. (V případě, že není možné poslat Moodle zprávu a potřebujete mi napsat na email, napište do předmětu "ntin071" a "cviceni".)

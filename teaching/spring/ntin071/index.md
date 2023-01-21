@@ -11,6 +11,6 @@ This is the webpage of the English lecture taught by Jakub Bulín.
 * 🇨🇿 Česká přednáška Marty Vomlelové sídlí [zde](https://dl1.cuni.cz/course/view.php?id=5119).
 
 All course material will be available on the e-learning platform Moodle (link below). Please register and join our class. 
-Please follow all updates and Moodle messages, and use the discussion forum (whenever possible) and Moodle messages (otherwise) to ask questions outside of class. (In case you need to write me an email, please put "ntin071" in the subject.)
+Please follow all updates and Moodle messages, and use the discussion forum (whenever possible) and Moodle messages (otherwise) to ask questions outside of class. (If sending a Moodle message is not an option and you need to write me an email, please put "ntin071" in the subject line.)
 
 * [English class on Moodle](https://dl1.cuni.cz/course/view.php?id=12005)
