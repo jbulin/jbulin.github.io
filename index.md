@@ -28,8 +28,8 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
   * 🇬🇧 [English lecture](teaching/spring/ntin071/)
   * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
 
-* [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/index.md)
-  * 🇬🇧 [Lecture](teaching/fall/nopt042/)
+* [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
+  * 🇬🇧 [Lecture](teaching/spring/nopt059/)
 
 
 ### Fall 2022

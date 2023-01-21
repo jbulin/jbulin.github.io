@@ -10,7 +10,7 @@ The course will be scheduled in the beginning of the semester (probably during t
 
 The aim of course is to introduce the main principles of various exact optimization methods based on linear programming and combinatorial optimization with emphasis on large-scale instances. Moreover, during the accompanying tutorial you will gain experience in applying these methods in practice.
 
-We expect you to be somewhat familiar with linear programming. A recommended prerequisite is the course [NOPT048 Linear programming and combinatorial optimization](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT048).
+We expect you to be somewhat familiar with linear programming. Although certainly not necessary, a recommended prerequisite is the course [NOPT048 Linear programming and combinatorial optimization](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT048).
 
 The course is taught bi-yearly, alternating with the course [NOPT061 Large-scale optimization: Metaheuristics](https://www.is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT061).
     
@@ -43,5 +43,5 @@ The exam is oral with written preparation. Requirements for the exam correspond 
 
 * _I am interested in this course!_ --- That's not a question. But email me!
 * _Where and when is the first class?_ --- The course will start in the second week of the semester. We will agree on the where and when by email during the first week.
-* _What should I do if I have a question?_ --- Check the FAQ. If you don't see the answer here email me putting "nopt042" in the subject.
+* _What should I do if I have a question?_ --- Check the FAQ. If you don't see the answer here email me putting "nopt059" in the subject.
 * _What if I want a consultation?_ --- Talk to me after class, come to the scheduled office hours, or email me to arrange an appointment.
