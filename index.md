@@ -26,6 +26,7 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 * [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
   * 🇬🇧 [English lecture](teaching/spring/ntin071/)
+  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/)
   * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
 
 * [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
@@ -36,7 +37,7 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
   * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
-  * 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
+  * 🇨🇿 [Czech tutorial x1](teaching/fall/nail062/cviceni/)
 
 * [NOPT042 Constraint Programming](teaching/fall/nopt042/)
   * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
