@@ -57,7 +57,7 @@ I can offer theses in theoretical computer science as well as several research s
 
 ### Selected publications
 
-1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*, to appear in Constraints. [arXiv.2205.07528](https://doi.org/10.48550/arXiv.2205.07528) (May 2022)
+1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*,  Constraints (online first), 1–33 (March 2023). DOI: 10.1007/s10601-023-09341-8.
 
 2. L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages. DOI
 
