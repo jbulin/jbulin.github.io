@@ -2,7 +2,7 @@
 title: "NOPT061 Large-scale optimization: Metaheuristics"
 ---
 
-# NOPT059 Large-scale optimization: Metaheuristics
+# NOPT061 Large-scale optimization: Metaheuristics
 
 The course is taught bi-yearly (in even-numbered years), alternating with the course [NOPT059 Large-scale optimization: Exact methods](https://www.is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT059).
 

@@ -32,7 +32,7 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 ## Resources
 
 * [Webpage of the tutorial](https://ktiml.mff.cuni.cz/~fink/teaching/) (taught by Jirka Fink)
-* [This course in the SIS](https://is.cuni.cz/studium/eng/predmety/index.php?id=6f7ce010ae7b77faf147ab619b06a669&tid=&do=predmet&kod=NOPT059)
+* [This course in the SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT059)
 * [The book](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.oth1) that covers a majority of the course material: Laurence Wolsey, Integer programming, 2nd edition. Wiley 2020.
 
 ## Exam requirements
