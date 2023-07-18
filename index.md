@@ -57,7 +57,7 @@ I can offer theses in theoretical computer science as well as several research s
 
 ### Selected publications
 
-0. J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Arxiv e-prints arXiv:2305.01984 [cs.LO] (May 2023)
+0. J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Accepted for publication in MFCS 2023. Arxiv e-prints arXiv:2305.01984 [cs.LO] (May 2023)
 
 1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*,  Constraints (online first), 1–33 (March 2023). DOI: 10.1007/s10601-023-09341-8.
 
