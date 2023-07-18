@@ -57,16 +57,16 @@ I can offer theses in theoretical computer science as well as several research s
 
 ### Selected publications
 
-0. J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Accepted for publication in MFCS 2023. Arxiv e-prints arXiv:2305.01984 [cs.LO] (May 2023)
+* J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Accepted for publication in MFCS 2023. Arxiv e-prints arXiv:2305.01984 [cs.LO] (May 2023)
 
-1. M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*,  Constraints (online first), 1–33 (March 2023). DOI: 10.1007/s10601-023-09341-8.
+* M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*,  Constraints (online first), 1–33 (March 2023). DOI: 10.1007/s10601-023-09341-8.
 
-2. L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages. DOI
+* L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages.
 
-3. J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
+* J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
 
-4. L. Barto and J. Bulín. *Deciding absorption in relational structures*, Algebra Universalis 78(1), 3–18 (2017)
+* L. Barto and J. Bulín. *Deciding absorption in relational structures*, Algebra Universalis 78(1), 3–18 (2017)
 
-5. J. Bulín, D. Delić, M. Jackson, and T. Niven. *A finer reduction of constraint problems to digraphs*, Logical Methods in Computer Science 11(4:18), 1–33 (2015)
+* J. Bulín, D. Delić, M. Jackson, and T. Niven. *A finer reduction of constraint problems to digraphs*, Logical Methods in Computer Science 11(4:18), 1–33 (2015)
 
 My papers on [Google Scholar](https://scholar.google.com/citations?user=pEMTqcMAAAAJ), on [ArXiv](https://arxiv.org/a/bulin_j_1), and my [ORCID](https://orcid.org/0000-0001-5235-8715) page.
