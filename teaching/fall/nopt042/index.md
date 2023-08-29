@@ -2,7 +2,7 @@
 title: "NOPT042 Constraint programming"
 ---
 
-# NOPT042 Constraint programming
+# NOPT042 Constraint programming (Fall 2023)
 
 > In the tutorial we will be modeling constraint problems in the logic-based multi-paradigm language Picat 
     (<span style="color:fuchsia">**P**</span>attern-matching,
@@ -33,73 +33,78 @@ title: "NOPT042 Constraint programming"
     - [Additional homework assignments for extra points: packing, mcsp, digest, hanoi](https://classroom.github.com/a/OGh06sW9) (due by end of March)
 
     
-## Tutorial schedule
+## Tutorial schedule (preliminary)
 
 ### Before the first tutorial
 
 * Install Picat and try it out. (See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).)
 * Solve the [test assignment](https://classroom.github.com/a/1ZJRMLa6). Push your solution to the repo, and check if it passed the tests.
 
-### 1st tutorial (Sep 30)
+### 1st tutorial (Oct 2)
 
 * **Program:** Overview of Picat.
 * **Homework:** [leaves](https://classroom.github.com/a/SR6S7hUf)
 
-### 2nd tutorial (Oct 7)
+### 2nd tutorial (Oct 9)
 
 * **Program:** Intro to CP.
 * **Homework:** [crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t)
 
-### 3rd tutorial (Oct 14)
+### 3rd tutorial (Oct 16)
 
 * **Program:** Improving models, symmetry breaking, solvers.
 * **Homework:** [boardomino](https://classroom.github.com/a/grmdbx-S)
 
-### 4th tutorial (Oct 21)
+### 4th tutorial (Oct 23)
 
 * **Program:** Search space, search strategies.
 * **Homework:** [knapsack](https://classroom.github.com/a/vZFFbU1t) - due on Nov 4 (Oct 28 is a national holiday)
 
-### 5th tutorial (Nov 4)
+### 5th tutorial (Oct 30)
 
 * **Program:** Dual modeling, channeling. Assignment.
 * **Homework:** [stable-marriage](https://classroom.github.com/a/hB1TlTnz) due on Nov 11
 
-### 6th tutorial (Nov 11)
+### 6th tutorial (Nov 6)
 
 * **Program:** Modeling functions. Scheduling, the cummulative constraint
 * **Homework:** [moving](https://classroom.github.com/a/_Y3A7opJ) due on Nov 18
 
-### 7th tutorial (Nov 18)
+### 7th tutorial (Nov 13)
 
 * **Program:** Rostering
 * **Homework:** [feast](https://classroom.github.com/a/MjThrY8R) due Nov 25
 
-### 8th tutorial (Nov 25 )
+### 8th tutorial (Nov 20)
 
 * **Program:** Routing
 * **Homework:** [routing](https://classroom.github.com/a/YPJdXoSh) due Dec 2
 
-### 9th tutorial (Dec 2)
+### 9th tutorial (Nov 27)
 
 * **Program:** Implicit constraints
 * **Homework:** [life](https://classroom.github.com/a/gYNSo8NO) due Dec 9
 
-### 10th tutorial (Dec 9)
+### 10th tutorial (Dec 4)
 
 * **Program:** Modeling with sets
 * **Homework:** [golfers](https://classroom.github.com/a/NCxkvoPf) due Dec 16
 
-### 11th tutorial (Dec 16)
+### 11th tutorial (Dec 11)
 
 * **Program:** Tabling
 * **Homework:** [triangle](https://classroom.github.com/a/6t1247tM) due Jan 6
 
-### 12th tutorial (Jan 6)
+### 12th tutorial (Dec 18)
 
 * **Program:** Planning
 * **Homework:** [farmer](https://classroom.github.com/a/9HmbOiKX) due Jan 13
+
+
+### 13th tutorial (Jan 8)
+* **Program:** Homework help
 * **Additional homework problems:** [packing, mcsp, digest, hanoi](https://classroom.github.com/a/OGh06sW9) due end of March
+
 
 ## Resources
 

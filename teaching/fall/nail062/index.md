@@ -2,83 +2,83 @@
 title: "NAIL062 Propositional and predicate logic"
 ---
 
-# NAIL062 Výroková a predikátová logika
+# NAIL062 Výroková a predikátová logika (Podzim 2023)
 
 * 🇬🇧 The English lecture of NAIL062 by Petr Gregor is under [this link](https://ktiml.mff.cuni.cz/~gregor/logics/).
 * 🇨🇿 Zde najdete informace o české přednášce Jakuba Bulína.
 
 ## Informace o zkouškách
 
-Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek, najdete v tomto PDF:
+Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek, budou upřesněny v průběhu semestru. Prozatím se můžete podívat na informace z minulého roku, očekávejte ale drobné až větší změny:
 
-* [Informace o zkouškách](files/info-o-zkouskach.pdf)
+* [Zastaralé informace o zkouškách](files/info-o-zkouskach.pdf)
 
 ## Program přednášek
 
-Zápisky z přednášky, pro tento semestr už neočekávám zásadní změny, jen opravy chyb:
+Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
 * [Zápisky z přednášky](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf)
 
-### První přednáška (3. 10.)
+### První přednáška (2. 10.)
 
 * **Program:** Úvod do logiky, neformální představení výrokové a predikátové logiky. Syntaxe výrokové logiky.
 * **Materiály:** Kapitola 1; Sekce 2.1.1-2.1.2 z Kapitoly 2
 
-### Druhá přednáška (10. 10.)
+### Druhá přednáška (9. 10.)
 
 * **Program:** Syntaxe a sémantika výrokové logiky. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií.
 * **Materiály:** Sekce 2.1.3-2.4.1 z Kapitoly 2 
 
-### Třetí přednáška (17. 10.)
+### Třetí přednáška (16. 10.)
 
 * **Program:** Extenze teorií. Algebra výroků. Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL
 * **Materiály:** Sekce 2.4.2 a 2.5 z Kapitoly 2; Kapitola 3
 
-### Čtvrtá přednáška (24. 10.)
+### Čtvrtá přednáška (23. 10.)
 
 * **Program:** Úvod do metody analytického tabla. Pojem tablo důkazu. Věta o korektnosti a úplnosti a jejich důsledky.
 * **Materiály:** Sekce 4.1-4.6
 
-### Pátá přednáška (31. 10.)
+### Pátá přednáška (30. 10.)
 
 * **Program:** Věta o kompaktnosti a její důsledky. Hilbertovský kalkulus. Rezoluční metoda, korektnost, úplnost.
 * **Materiály:** Sekce 4.7-4.8, 5.1-5.3
 
-### Šestá přednáška (7. 11.)
+### Šestá přednáška (6. 11.)
 
 * **Program:** LI-rezoluce, rezoluce v Prologu. Úvod do predikátové logiky. Syntaxe predikátové logiky.
 * **Materiály:** Sekce 5.4-5.5, 6.1-6.3
 
-### Sedmá přednáška (14. 11.)
+### Sedmá přednáška (13. 11.)
 
 * **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Věta o konstantách. 
 * **Materiály:** Sekce 6.4-6.6
 
-### Osmá přednáška (21. 11.)
+### Osmá přednáška (20. 11.)
 
 * **Program:** Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Tablo metoda v predikátové logice, jazyky s rovností.
 * **Materiály:** Sekce 6.7-7.3
 
-### Devátá přednáška (28. 11.)
+### Devátá přednáška (27. 11.)
 
 * **Program:** Korektnost tablo metody, kanonický model, úplnost. Löwenheim-Skolemova věta, věta o kompaktnosti. Hilbertovský kalkulus. Úvod do rezoluce v predikátové logice.
 * **Materiály:** Sekce 7.4-8.1
 
-### Desátá přednáška (5. 12.)
+### Desátá přednáška (4. 12.)
 
 * **Program:** Ekvisplnitelnost, převod do PNF, Skolemizace. Grounding,  Herbrandův model, Herbrandova věta. Skládání substitucí.
 * **Materiály:** Sekce 8.2-8.4.1
 
-### Jedenáctá přednáška (12. 12.)
+### Jedenáctá přednáška (11. 12.)
 
 * **Program:** Unifikační algoritmus. Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce. LI-rezoluce, Prolog.
 * **Materiály:** Sekce 8.4.2-8.7
 
-### Dvanáctá přednáška (19. 12.)
+### Dvanáctá přednáška (18. 12.)
 
 * **Program:** Elementární ekvivalence. Důsledky Löwenheim-Skolemovy věty. Izomorfismus a konečné modely. Definovatelnost a automorfismy. Omega-kategoricita a úplnost.
 * **Materiály:** Kapitola 9
 
-### Třináctá přednáška (2. 1.)
+### Třináctá přednáška (8. 1.)
 
 * **Program:** * Rozhodnutelnost. Rekurzivní axiomatizovatelnost. Rozhodnutelné teorie: příklady. Aritmetické teorie (Robinson, Peano), Hilbertův 10. problém. Nerozhodnutelnost predikátové logiky. Gödelovy věty o neúplnosti.
 * **Materiály:** Kapitola 10

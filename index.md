@@ -12,7 +12,7 @@ I am one of the logicians in [this picture](files/me.jpg).
 ### Get in touch
 
 * email: `jakub.bulin (at) mff.cuni.cz`
-* office: S124 (floor 1, next to lecture room S8)
+* office: S124 (soon moving to S303)
 * address: KTIML MFF UK, Malostranské nám. 2/25, 18100 Praha 1, Czechia
 * phone: (+420) (95155) 4463
 * pronouns: he/him
@@ -20,6 +20,16 @@ I am one of the logicians in [this picture](files/me.jpg).
 Office hours: as scheduled at the beginning of each semester; or make an appointment!
 
 # Teaching
+
+
+### Fall 2023
+
+* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
+  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
+  * 🇨🇿 [Czech tutorial x1](teaching/fall/nail062/cviceni/)
+
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
+  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
 
 
 ### Spring 2023
@@ -31,16 +41,6 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 * [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
   * 🇬🇧 [Lecture](teaching/spring/nopt059/)
-
-
-### Fall 2022
-
-* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
-  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
-  * 🇨🇿 [Czech tutorial x1](teaching/fall/nail062/cviceni/)
-
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
 
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
@@ -57,11 +57,11 @@ I can offer theses in theoretical computer science as well as several research s
 
 ### Selected publications
 
-* J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Accepted for publication in MFCS 2023. Arxiv e-prints arXiv:2305.01984 [cs.LO] (May 2023)
+* J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science (MFCS 2023) Vol. 272, 28:1–28:15 (2023)
 
-* M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*,  Constraints (online first), 1–33 (March 2023). DOI: 10.1007/s10601-023-09341-8.
+* M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*,  Constraints 28/2, 105–137 (2023)
 
-* L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68, 4, Article 28 (August 2021), 66 pages.
+* L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68/4, 28:1–28:66  (2021)
 
 * J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
 
