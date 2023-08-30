@@ -21,17 +21,17 @@ Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
 ### První přednáška (2. 10.)
 
 * **Program:** Úvod do logiky, neformální představení výrokové a predikátové logiky. Syntaxe výrokové logiky.
-* **Materiály:** Kapitola 1; Sekce 2.1.1-2.1.2 z Kapitoly 2
+* **Materiály:** Kapitola 1; Sekce 2.1 z Kapitoly 2
 
 ### Druhá přednáška (9. 10.)
 
-* **Program:** Syntaxe a sémantika výrokové logiky. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií.
-* **Materiály:** Sekce 2.1.3-2.4.1 z Kapitoly 2 
+* **Program:** Sémantika výrokové logiky. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií.
+* **Materiály:** Sekce 2.2-2.4 z Kapitoly 2
 
 ### Třetí přednáška (16. 10.)
 
 * **Program:** Extenze teorií. Algebra výroků. Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL
-* **Materiály:** Sekce 2.4.2 a 2.5 z Kapitoly 2; Kapitola 3
+* **Materiály:** Sekce 2.5 z Kapitoly 2; Kapitola 3
 
 ### Čtvrtá přednáška (23. 10.)
 
