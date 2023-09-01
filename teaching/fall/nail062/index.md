@@ -86,7 +86,7 @@ Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
 ## Užitečné odkazy
 
 * [Informace o předmětu](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL062&skr=2022&fak=11320) v SISu. Najdete tam mj. sylabus, literaturu, a po přihlášení i záznamy přednášek doc. Gregora z minulých let.
-* [Přednáška doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika/index.html) z minulých let. Obsah se shoduje z ~85% s naší přednáškou, najdete zde prezentace, a mnoho příkladů (z předchozích zkoušek, formát zkoušky se ale změní).
+* [Přednáška doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika/index.html) z minulých let. Obsah se shoduje z ~85% s naší přednáškou, najdete zde prezentace, a mnoho příkladů (z předchozích zkoušek, formát zkoušky se ale změnil).
 * [Moje cvičení](cviceni/), kde najdete příklady k procvičení. Informace o vašem cvičení vám poskytne váš cvičící.
 * Přehled potřebných [matematických pojmů](http://ktiml.mff.cuni.cz/~gregor/logika/VPLdodatek.pdf) (prezentace doc. Gregora); většinu byste už měli znát, k těm méně obvyklým se ještě vrátíme, až je budeme potřebovat.
 
