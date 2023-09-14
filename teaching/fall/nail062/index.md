@@ -8,9 +8,11 @@ title: "NAIL062 Propositional and predicate logic"
 * 🇨🇿 Zde najdete informace o české přednášce Jakuba Bulína.
 
 Konzultační hodiny:
+
 * Pondělí 12:20 v S303
 * Čtvrtek 18:50 v N1
-nebo individuálně po předchozí domluvě emailem
+
+nebo individuálně po předchozí domluvě emailem.
 
 ## Informace o zkouškách
 

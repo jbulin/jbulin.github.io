@@ -6,9 +6,89 @@ title: "NAIL062 Propositional and predicate logic: tutorial"
 
 Zde najdete informace k mému cvičení (Pondělí 10:40 v S7).
 
+Konzultační hodiny:
+
+* Pondělí 12:20 v S303
+* Čtvrtek 18:50 v N1
+
+nebo individuálně po předchozí domluvě emailem.
+
 ## Program cvičení (bude aktualizováno)
 
+### 1. cvičení (2. 10.)
 
+* **Program:** Úvod. Vyjadřování různých vlastností ve výrokové a predikátové logice. Připomenutí matematických pojmů.
+* **Materiály:** [cviceni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni1.pdf)
+
+### 2. cvičení (9. 10.)
+
+* **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek.
+* **Materiály:** [cviceni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni2.pdf)
+
+### 3. cvičení (16. 10.)
+
+* **Program:** Syntaxe a sémantika výrokové logiky, převod do CNF a DNF.
+* **Materiály:** [cviceni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni3.pdf)
+
+### 4. cvičení (23. 10.)
+
+* **Program:** Počítání výroků až na ekvivalenci (Lindenbaum-Tarského algebra). 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
+* **Materiály:** [cviceni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni4.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/tutorial/sat-solving.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup)
+
+### 5. cvičení (30. 10.)
+
+* **Program:** Tablo metoda ve výrokové logice. 
+* **Materiály:** [cviceni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni5.pdf)
+
+### 6. cvičení (6. 11.)
+
+* **Program:** Rezoluce ve výrokové logice. Aplikace věty o kompaktnosti. Hilbertův kalkulus.
+* **Materiály:** [cviceni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni6.pdf)
+
+
+### 7. cvičení (13. 11.)
+
+* **Program:** Syntaxe a sémantika predikátové logiky.
+* **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni7.pdf)
+* zadání prvního domácího úkolu (datum odevzdání: 20. 11.)
+
+### 8. cvičení (20. 11.)
+
+* **Program:** Struktury a podstruktury. Extenze teorií, extenze o definice. Definovatelné množiny.
+* **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni8.pdf)
+* nezapomeňte odevzdat první domácí úkol
+
+### 9. cvičení (27. 11.)
+
+* **1. zápočtový test**
+* **Program:** Tablo metoda v predikátové logice, jazyky s rovností.
+* **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni9.pdf)
+
+### 10. cvičení (4. 12.)
+
+* **Program:** Aplikace věty o kompaktnosti. Převod do PNF. Skolemizace. Herbrandova věta.
+* **Materiály:** [cviceni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni10.pdf)
+
+### 11. cvičení (11. 12.)
+
+* **Program:** Unifikace. Rezoluce v predikátové logice.
+* **Materiály:** [cviceni11.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni11.pdf)
+* zadání druhého domácího úkolu (datum odevzdání: 18. 12.)
+
+### 12. cvičení (18. 12.)
+
+* **Program:** Vybraná témata z teorie modelů
+* **Materiály:** [cviceni12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni12.pdf)
+* nezapomeňte odevzdat druhý domácí úkol
+
+### 13. cvičení (8. 1.)
+
+* **2. zápočtový test**
+* **Program:** Vybraná témata z teorie modelů
+* **Materiály:** [cviceni13.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni13.pdf)
+
+
+<!--
 ### 1. cvičení (2. 10.)
 * **Program:** Úvod. Vyjadřování různých vlastností ve výrokové a predikátové logice. Připomenutí matematických pojmů.
 * **Materiály:** [cviceni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni1.pdf)
@@ -62,11 +142,11 @@ Zde najdete informace k mému cvičení (Pondělí 10:40 v S7).
 * **2. zápočtový test**
 * **Program:** Vybraná témata z teorie modelů
 * **Materiály:** [cviceni13.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni13.pdf)
-
+-->
 
 ## Užitečné odkazy
 
-* [Přednáška](https://jbulin.github.io/teaching/fall/nail062/) a [loňská přednáška doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika/index.html)
+* [Přednáška](https://jbulin.github.io/teaching/fall/nail062/) a [stará přednáška doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika/index.html)
 
 * Cvičení [doc. Gregora](http://ktiml.mff.cuni.cz/~gregor/logika2019/cviceni.html), [dr. Vomlelové](http://ktiml.mff.cuni.cz/~marta/logika.html), a [dr. Hrice](http://ktiml.mff.cuni.cz/~hric/vyuka/prikl_vpl.htm)
 
