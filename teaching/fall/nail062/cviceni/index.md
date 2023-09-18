@@ -4,7 +4,7 @@ title: "NAIL062 Propositional and predicate logic: tutorial"
 
 # NAIL062 Výroková a predikátová logika: cvičení (Podzim 2023)
 
-Zde najdete informace k mému cvičení (Pondělí 10:40 v S7).
+Zde najdete informace k mému cvičení (Pondělí 10:40 v S7, nebo možná v S4?).
 
 Konzultační hodiny:
 
@@ -18,11 +18,11 @@ nebo individuálně po předchozí domluvě emailem.
 ### 1. cvičení (2. 10.)
 
 * **Program:** Úvod. Vyjadřování různých vlastností ve výrokové a predikátové logice. Připomenutí matematických pojmů.
-* **Materiály:** [cviceni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni1.pdf)
+* **Materiály:** [cviceni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni1.pdf), případně také [přehled matematických pojmů](https://ktiml.mff.cuni.cz/~gregor/logika/VPLdodatek.pdf)
 
 ### 2. cvičení (9. 10.)
 
-* **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek.
+* **Program:** Formalizace ve výrokové logice. Syntaxe a sémantika výrokové logiky. Ukázka tablo metody a rezoluční metody.
 * **Materiály:** [cviceni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni2.pdf)
 
 ### 3. cvičení (16. 10.)

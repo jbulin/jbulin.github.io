@@ -12,7 +12,7 @@ I am one of the logicians in [this picture](files/me.jpg).
 ### Get in touch
 
 * email: `jakub.bulin (at) mff.cuni.cz`
-* office: S124 (soon moving to S303)
+* office: S303
 * address: KTIML MFF UK, Malostranské nám. 2/25, 18100 Praha 1, Czechia
 * phone: (+420) (95155) 4463
 * pronouns: he/him

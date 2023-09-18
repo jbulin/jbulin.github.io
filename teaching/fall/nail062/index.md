@@ -41,7 +41,8 @@ Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
 
 * **Program:** Algebra výroků. Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL
 * **Materiály:** Sekce 2.5 z Kapitoly 2, Kapitola 3
-* **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf)
+* **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), ukázka SAT solveru: [sat-solving.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving.zip)
+
 
 ### Čtvrtá přednáška (26. 10.)
 
