@@ -27,36 +27,38 @@ nebo individuálně po předchozí domluvě emailem.
 
 ### 3. cvičení (16. 10.)
 
-* **Program:** Syntaxe a sémantika výrokové logiky, převod do CNF a DNF.
+* **Program:** Syntaxe a sémantika výrokové logiky. Převod do CNF a DNF. Univerzálnost logických spojek.
 * **Materiály:** [cviceni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni3.pdf)
 
 ### 4. cvičení (23. 10.)
 
-* **Program:** Počítání výroků až na ekvivalenci (Lindenbaum-Tarského algebra). 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
+* **Program:** Vlastnosti a extenze teorií. Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. 
 * **Materiály:** [cviceni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni4.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/tutorial/sat-solving.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup)
 
 ### 5. cvičení (30. 10.)
 
-* **Program:** Tablo metoda ve výrokové logice. 
+* **Program:** Algoritmus DPLL. Kódování problémů do SAT. Tablo metoda ve výrokové logice. 
 * **Materiály:** [cviceni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni5.pdf)
 
 ### 6. cvičení (6. 11.)
 
-* **Program:** Rezoluce ve výrokové logice. Aplikace věty o kompaktnosti. Hilbertův kalkulus.
+* **Program:** Ještě tablo metoda: aplikace a pokročilejší problémy. Ukázka rezoluční metody.
 * **Materiály:** [cviceni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni6.pdf)
 
 
 ### 7. cvičení (13. 11.)
 
-* **Program:** Syntaxe a sémantika predikátové logiky.
+* **Program:** Rezoluce ve výrokové logice. Aplikace věty o kompaktnosti. Hilbertův kalkulus.
+* **Domácí úkol** Zadání ještě není hotové. Datum odevzdání: 20.11. 
 * **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni7.pdf)
-* zadání prvního domácího úkolu (datum odevzdání: 20. 11.)
 
+<!-- TODO -->
 ### 8. cvičení (20. 11.)
 
-* **Program:** Struktury a podstruktury. Extenze teorií, extenze o definice. Definovatelné množiny.
-* **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni8.pdf)
+* **Program:** Syntaxe a sémantika predikátové logiky. Struktury a podstruktury. Extenze teorií, extenze o definice. Definovatelné množiny.
 * nezapomeňte odevzdat první domácí úkol
+* **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni8.pdf)
+
 
 ### 9. cvičení (27. 11.)
 
