@@ -11,99 +11,103 @@ title: "NOPT042 Constraint programming"
     <span style="color:fuchsia">**A**</span>ctors,
     <span style="color:fuchsia">**T**</span>abling).
 
-<!--
-* [GitHub Classroom](https://classroom.github.com/classrooms/111507671-nopt042-tutorial) for classwork and homework assignments
--->
 
-* [Github repository](https://github.com/jbulin-mff-uk/nopt042) for the tutorial
-* Homework assignments on Github Classroom:
-    - [test assignment](https://classroom.github.com/a/1ZJRMLa6) (not graded)
-    - [Homework 1: leaves](https://classroom.github.com/a/SR6S7hUf) (due date 2pm on Oct 9)
-    - [Homework 2: crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t) (due date 2pm on Oct 16)
-    - [Homework 3: boardomino](https://classroom.github.com/a/grmdbx-S) (due date 2pm on Oct 23)
-    - [Homework 4: knapsack](https://classroom.github.com/a/vZFFbU1t) (due date 2pm on Oct 30)
-    - [Homework 5: stable-marriage](https://classroom.github.com/a/hB1TlTnz) (due date 2pm on Nov 6)
-    - [Homework 6: moving](https://classroom.github.com/a/_Y3A7opJ) (due date 2pm on Nov 13)
-    - [Homework 7: feast](https://classroom.github.com/a/MjThrY8R) (due date 2pm on Nov 20)
-    - [Homework 8: routing](https://classroom.github.com/a/YPJdXoSh) (due date 2pm on Nov 27)
-    - [Homework 9: life](https://classroom.github.com/a/gYNSo8NO) (due date 2pm on Dec 4)
-    - [Homework 10: golfers](https://classroom.github.com/a/NCxkvoPf) (due date 2pm on Dec 11)
-    - [Homework 11: triangle](https://classroom.github.com/a/6t1247tM) (due date 2pm on Dec 18)
-    - [Homework 12: farmer](https://classroom.github.com/a/9HmbOiKX) (due date 2pm on Jan 8)
-    - [Additional homework assignments for extra points: packing, mcsp, digest, hanoi](https://classroom.github.com/a/OGh06sW9) (due by end of March)
+## Credit requirements
 
+There will be 12 homework assignments each of which is worth 1 point. In order to get the credit, you must gain at least 8 points, out of which at least 4 points must be from the second half of the semester (assignments 7-). Expect increasing complexity of the assignments as the semester progresses. There will be an additional option to get at most 4 points after the end of classes for solving somewhat harder problems.
+
+The solutions to the homework assignments must be 100% your own work. Do not discuss them with anyone but me, do not search for solutions on the internet, and do not share your code.
+
+## ReCodEx and GitHub
+
+Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). The deadlines will be set to the beginning of the next tutorial, unless stated otherwise. Materials from the tutorial are posted below as PDFs. The source codes and live notebooks are available on [GitHub](https://github.com/jbulin-mff-uk/nopt042).
     
-## Tutorial schedule (preliminary)
+## Tutorial schedule
 
 ### Before the first tutorial
 
 * Install Picat and try it out. (See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).)
-* Solve the [test assignment](https://classroom.github.com/a/1ZJRMLa6). Push your solution to the repo, and check if it passed the tests.
+* Join our ReCodEx group. 
+* Solve the (ungraded) "Hello, world!" assignment.
+* Let me know if you encounter any issues!
 
 ### 1st tutorial (Oct 2)
 
 * **Program:** Overview of Picat.
-* **Homework:** [leaves](https://classroom.github.com/a/SR6S7hUf)
+* **Notebook:** [tutorial1.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.pdf)
+* **Homework:** Leaves (deadline extended by one week, until 2pm on Oct 16)
+
 
 ### 2nd tutorial (Oct 9)
 
 * **Program:** Intro to CP.
-* **Homework:** [crypt-arithmetic](https://classroom.github.com/a/vu6gMI8t)
+* **Notebook:** [tutorial2.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial2/tutorial2.pdf)
+* **Homework:** Crypt-arithmetic
 
 ### 3rd tutorial (Oct 16)
 
 * **Program:** Improving models, symmetry breaking, solvers.
-* **Homework:** [boardomino](https://classroom.github.com/a/grmdbx-S)
+* **Notebook:** [tutorial3.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial3/tutorial3.pdf)
+* **Homework:** Boardomino
 
 ### 4th tutorial (Oct 23)
 
 * **Program:** Search space, search strategies.
-* **Homework:** [knapsack](https://classroom.github.com/a/vZFFbU1t) - due on Nov 4 (Oct 28 is a national holiday)
+* **Notebook:** [tutorial4.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial4/tutorial4.pdf)
+* **Homework:** Knapsack
 
 ### 5th tutorial (Oct 30)
 
 * **Program:** Dual modeling, channeling. Assignment.
-* **Homework:** [stable-marriage](https://classroom.github.com/a/hB1TlTnz) due on Nov 11
+* **Notebook:** [tutorial5.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial5/tutorial5.pdf)
+* **Homework:** Stable marriage
 
 ### 6th tutorial (Nov 6)
 
 * **Program:** Modeling functions. Scheduling, the cummulative constraint
-* **Homework:** [moving](https://classroom.github.com/a/_Y3A7opJ) due on Nov 18
+* **Notebook:** [tutorial6.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial6/tutorial6.pdf)
+* **Homework:** Moving
 
 ### 7th tutorial (Nov 13)
 
 * **Program:** Rostering
-* **Homework:** [feast](https://classroom.github.com/a/MjThrY8R) due Nov 25
+* **Notebook:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.pdf)
+* **Homework:** Feast
 
 ### 8th tutorial (Nov 20)
 
 * **Program:** Routing
-* **Homework:** [routing](https://classroom.github.com/a/YPJdXoSh) due Dec 2
+* **Notebook:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial8/tutorial8.pdf)
+* **Homework:** Routing
 
 ### 9th tutorial (Nov 27)
 
 * **Program:** Implicit constraints
-* **Homework:** [life](https://classroom.github.com/a/gYNSo8NO) due Dec 9
+* **Notebook:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial9/tutorial9.pdf)
+* **Homework:** Life
 
 ### 10th tutorial (Dec 4)
 
 * **Program:** Modeling with sets
-* **Homework:** [golfers](https://classroom.github.com/a/NCxkvoPf) due Dec 16
+* **Notebook:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial10/tutorial10.pdf)
+* **Homework:** Golfers
 
 ### 11th tutorial (Dec 11)
 
 * **Program:** Tabling
-* **Homework:** [triangle](https://classroom.github.com/a/6t1247tM) due Jan 6
+* **Notebook:** [tutorial11.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial11/tutorial11.pdf)
+* **Homework:** Triangle
 
 ### 12th tutorial (Dec 18)
 
 * **Program:** Planning
-* **Homework:** [farmer](https://classroom.github.com/a/9HmbOiKX) due Jan 13
+* **Notebook:** [tutorial12.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial12/tutorial12.pdf)
+* **Homework:** Farmer
 
 
 ### 13th tutorial (Jan 8)
 * **Program:** Homework help
-* **Additional homework problems:** [packing, mcsp, digest, hanoi](https://classroom.github.com/a/OGh06sW9) due end of March
+* **Additional homework problems:** Packing, MCSP, Digest, Hanoi (due end of March)
 
 
 ## Resources
@@ -119,11 +123,6 @@ title: "NOPT042 Constraint programming"
 * [Previous tutorial by R. Barták in SICStus Prolog](https://ktiml.mff.cuni.cz/~bartak/podminky/#cviceni)
 * [Previous tutorial by me in MiniZinc](https://dl1.cuni.cz/course/view.php?id=10544)
 
-## Credit requirements
-
-There will be 12 homework assignments each of which is worth 1 point. In order to get the credit, you must gain at least 8 points, out of which at least 4 points must be from the second half of the semester (assignments 7-). Expect increasing complexity of the assignments as the semester progresses. There will be an additional option to get at most 4 points after the end of classes for solving somewhat harder problems.
-
-The solutions to the homework assignments must be 100% your own work. Do not discuss them with anyone but me, do not search for solutions on the internet, and do not share your code.
 
 ## Frequently asked questions (FAQ)
 
