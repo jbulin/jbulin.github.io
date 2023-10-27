@@ -153,7 +153,7 @@ nebo individuálně po předchozí domluvě emailem.
 ## Zápočet
 
 * [Podmínky pro získání zápočtu](files/zapocet.txt)
-* předběžný termín 1. zápočtového testu (výroková logika): 13. 11. [Vzorový test: výroková logika](files/vzorovy-test-vyrokova-logika.pdf)
+* předběžný termín 1. zápočtového testu (výroková logika): 27. 11. [Vzorový test: výroková logika](files/vzorovy-test-vyrokova-logika.pdf)
 * předběžný termín 2. zápočtového testu (predikátová logika): 8. 1. [Vzorový test: predikátová logika](files/vzorovy-test-predikatova-logika.pdf)
 * předběžný termín opravného testu: v prvních dvou týdnech zkouškového období
 
