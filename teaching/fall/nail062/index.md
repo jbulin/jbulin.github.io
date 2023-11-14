@@ -17,9 +17,9 @@ nebo individuálně po předchozí domluvě emailem.
 
 ## Informace o zkouškách
 
-Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek, budou upřesněny v průběhu semestru. Prozatím se můžete podívat na informace z minulého roku, očekávejte ale drobné až větší změny:
+Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek (aktualizované pro ZS 2023/2024):
 
-* [Zastaralé informace o zkouškách](files/info-o-zkouskach.pdf)
+* [Informace o zkouškách](files/info-o-zkouskach.pdf)
 
 ## Program přednášek
 
