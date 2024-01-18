@@ -21,6 +21,15 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 # Teaching
 
+### Spring 2024
+
+* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
+  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
+  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/tutorial/)
+  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
+
+* [NOPT059 Large-scale optimization: Metaheuristics](teaching/spring/nopt061/)
+  * 🇬🇧 [Lecture](teaching/spring/nopt061/)
 
 ### Fall 2023
 
@@ -30,17 +39,6 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 * [NOPT042 Constraint Programming](teaching/fall/nopt042/)
   * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
-
-
-### Spring 2023
-
-* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
-  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
-  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/)
-  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
-
-* [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
-  * 🇬🇧 [Lecture](teaching/spring/nopt059/)
 
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
@@ -70,3 +68,7 @@ I can offer theses in theoretical computer science as well as several research s
 * J. Bulín, D. Delić, M. Jackson, and T. Niven. *A finer reduction of constraint problems to digraphs*, Logical Methods in Computer Science 11(4:18), 1–33 (2015)
 
 My papers on [Google Scholar](https://scholar.google.com/citations?user=pEMTqcMAAAAJ), on [ArXiv](https://arxiv.org/a/bulin_j_1), and my [ORCID](https://orcid.org/0000-0001-5235-8715) page.
+
+My coauthors: [Libor Barto](https://www.karlin.mff.cuni.cz/~barto/), [Manuel Bodirsky](https://tu-dresden.de/mn/math/algebra/bodirsky?set_language=en), [Dejan Delić](https://www.torontomu.ca/math/our-people/dejan-delic/), [Marcel Jackson](https://scholars.latrobe.edu.au/mgjackson), [Michael Kompatscher](https://www.karlin.mff.cuni.cz/~kompatscher/), [Andrei Krokhin](https://www.durham.ac.uk/staff/andrei-krokhin/), [Todd Niven](https://scholar.google.com/citations?user=Qa1Bd6EAAAAJ&hl=en), [Jakub Opršal](https://jakub-oprsal.info/), [Florian Starke](https://scholar.google.de/citations?user=5ZGBasMAAAAJ&hl=en), [Michael Wernthaler](https://github.com/WhatDothLife).
+
+My Erdős number: 3

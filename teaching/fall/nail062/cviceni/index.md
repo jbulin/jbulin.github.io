@@ -1,10 +1,10 @@
 ---
-title: "NAIL062 Propositional and predicate logic: tutorial"
+title: "NAIL062 Výroková a predikátová logika: cvičení"
 ---
 
 # NAIL062 Výroková a predikátová logika: cvičení (Podzim 2023)
 
-Zde najdete informace k mému cvičení (Pondělí 10:40 v S7, nebo možná v S4?).
+Zde najdete informace k mému cvičení (Pondělí 10:40 v S4).
 
 Konzultační hodiny:
 
@@ -153,8 +153,8 @@ nebo individuálně po předchozí domluvě emailem.
 ## Zápočet
 
 * [Podmínky pro získání zápočtu](https://raw.githubusercontent.com/jbulin-mff-uk/nail062/main/tutorial/zapocet.txt)
-* předběžný termín 1. zápočtového testu (výroková logika): 27. 11. [Vzorový test: výroková logika](files/vzorovy-test-vyrokova-logika.pdf)
-* předběžný termín 2. zápočtového testu (predikátová logika): 8. 1. [Vzorový test: predikátová logika](files/vzorovy-test-predikatova-logika.pdf)
+* předběžný termín 1. zápočtového testu (výroková logika): 27. 11. [Vzorový test: výroková logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf)
+* předběžný termín 2. zápočtového testu (predikátová logika): 8. 1. [Vzorový test: predikátová logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf)
 * předběžný termín opravného testu: v prvních dvou týdnech zkouškového období
 
 

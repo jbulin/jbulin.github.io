@@ -1,15 +1,95 @@
 ---
-title: "NTIN071 Automata and Grammars: tutorial"
+title: "NTIN071 Automaty a gramatiky: cvičení"
 ---
 
-# NTIN071 Automaty a gramatiky: cvičení
+# NTIN071 Automaty a gramatiky: cvičení (Jaro 2024)
 
-Výuka probíhá prezenčně. Studijní materiály a domácí úkoly budou k dispozici na e-learningové platformě Moodle. Prosím, registrujte se a přihlašte se do tohoto kurzu:
+Zde najdete informace k mým českým cvičením (Pondělí 9:00 v S7 a 10:40 v S6).
 
-* [Moodle kurz pro (českou) přednášku i obě moje cvičení](https://dl1.cuni.cz/course/view.php?id=5119)
+Konzultační hodiny:
 
-Poté se zapište do skupiny odpovídající vašemu cvičení (musí být stejná, jakou máte zapsanou v SISu), tím získáte přístup k materiálům:
+* budou rozvrženy začátkem semestru
 
-* [Výběr skupiny](https://dl1.cuni.cz/mod/groupselect/view.php?id=481401)
+nebo individuálně po předchozí domluvě emailem.
 
-Sledujte informace a Moodle zprávy. Kdykoliv to bude možné, pokládejte dotazy (mimo třídu) v diskuzním fóru, jinak mi napište Moodle zprávu. (V případě, že není možné poslat Moodle zprávu a potřebujete mi napsat na email, napište do předmětu "ntin071" a "cviceni".)
+## Zápočet
+
+* Podmínky pro získání zápočtu: budou upřesněny začátkem semestru
+
+## Program cvičení (bude aktualizováno)
+
+### 1. cvičení (19. 2.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 2. cvičení (26. 2.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 3. cvičení (4. 3.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 4. cvičení (11. 3.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 5. cvičení (18. 3.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 6. cvičení (25. 3.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 7. cvičení (8. 4.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 8. cvičení (15. 4.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 9. cvičení (22. 4.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 10. cvičení (29. 4.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 11. cvičení (6. 5.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 12. cvičení (13. 5.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+### 13. cvičení (20. 5.)
+
+* **Program:** TBA
+* **Materiály:** TBA
+
+## Užitečné odkazy
+
+* [Turing Machine Simulator](https://turingmachinesimulator.com/)
+* [Finite State Machine designer](http://madebyevan.com/fsm/)
+
+## Často kladené dotazy
+
+* _Co mám dělat, pokud mám otázku ke cvičení?_ -- Podívejte se sem do ČKD. Pokud nenajdete odpověď, napište mi email; do předmětu zprávy, prosím, napište "ntin071" a "cvičení".
+
+* _Co mám dělat, pokud chci konzultaci?_ -- Domluvte se se mnou po cvičení, přijďte na rozvržené konzultační hodiny, nebo si domluvme termín konzultace emailem.

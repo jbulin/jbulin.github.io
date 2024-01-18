@@ -6,16 +6,15 @@ title: "NOPT061 Large-scale optimization: Metaheuristics"
 
 The course is taught bi-yearly (in even-numbered years), alternating with the course [NOPT059 Large-scale optimization: Exact methods](https://www.is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT059).
 
-The course will be scheduled in the beginning of the semester (probably during the first week). If you are interested, please email me your time constraints.
+The course will be scheduled in the beginning of the semester (probably during the first week). Classes start from the second week. If you are interested, please email me your time constraints.
 
 ## About this course
 
 The aim of course is to introduce the main principles of various heuristic optimization methods based on convex optimization and artificial intelligence, with emphasis on large-scale instances. Moreover, during the accompanying tutorial you will gain experience in applying these methods in practice.
 
-We expect you to be somewhat familiar with linear programming. Although certainly not necessary, a recommended prerequisite is the course [NOPT048 Linear programming and combinatorial optimization](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT048).
+We expect you to be somewhat familiar with linear programming. Although certainly not necessary, a useful prerequisite is the course [NOPT048 Linear programming and combinatorial optimization](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT048).
 
 
-    
 ## Tentative schedule
 
 TBA
