@@ -28,7 +28,7 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
   * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/tutorial/)
   * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
 
-* [NOPT059 Large-scale optimization: Metaheuristics](teaching/spring/nopt061/)
+* [NOPT061 Large-scale optimization: Metaheuristics](teaching/spring/nopt061/)
   * 🇬🇧 [Lecture](teaching/spring/nopt061/)
 
 ### Fall 2023
