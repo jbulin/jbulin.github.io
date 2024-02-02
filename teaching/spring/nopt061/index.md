@@ -4,6 +4,9 @@ title: "NOPT061 Large-scale optimization: Metaheuristics"
 
 # NOPT061 Large-scale optimization: Metaheuristics
 
+* Home of the [tutorial](https://ktiml.mff.cuni.cz/~fink/teaching/large_scale_optimization/) by Jirka Fink is [here](https://ktiml.mff.cuni.cz/~fink/teaching/large_scale_optimization/).
+
+
 The course is taught bi-yearly (in even-numbered years), alternating with the course [NOPT059 Large-scale optimization: Exact methods](https://www.is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT059).
 
 The course will be scheduled in the beginning of the semester (probably during the first week). Classes start from the second week. If you are interested, please email me your time constraints.
