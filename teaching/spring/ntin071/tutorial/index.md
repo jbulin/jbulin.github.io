@@ -8,25 +8,25 @@ This page contains information about my English tutorial class (Thursday 2pm in 
 
 Office hours:
 
-* schedule TBA
+* schedule to be determined at the beginning of the semester
 
 or individually by appointment.
 
 ## Credit requirements
 
-Will be specified in the beginning of the semester.
+Detailed requirements to obtain the credit are described [here](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/credit-requirements.txt).
 
-## Tentative schedule
+## Program
 
 ### 1st class (Feb 22)
 
-* **Program:** TBA
-* **Worksheet:** TBA
+* **Program:** Deterministic finite automaton, recognized language, regular languages
+* **Worksheet:** [tutorial1.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial1.pdf)
 
 ### 2nd class (Feb 29)
 
-* **Program:** TBA
-* **Worksheet:** TBA
+* **Program:** Pumping lemma, Myhill--Nerode theorem
+* **Worksheet:** [tutorial2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial2.pdf)
 
 ### 3rd class (Mar 7)
 

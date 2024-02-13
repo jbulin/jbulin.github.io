@@ -8,7 +8,7 @@ This is the webpage of the English lecture taught by Jakub Bulín.
 
 * 🇬🇧 The lecture is accompanied by a tutorial. The website for my tutorial class is [here](tutorial/). If you are enrolled in the tutorial class of [Vladislav Kuboň](https://ufal.mff.cuni.cz/vladislav-kubon), please direct all questions regarding the tutorial and the credit to him.
 * 🇨🇿 Informace o českých cvičeních Jakuba Bulína najdete [zde](cviceni/).
-* 🇨🇿 Česká přednáška Marty Vomlelové sídlí [zde](https://ktiml.mff.cuni.cz/~marta/AG).
+* 🇨🇿 Česká přednáška Marty Vomlelové sídlí [zde](https://dl1.cuni.cz/course/view.php?id=5119).
 
 
 Office hours:
@@ -27,13 +27,13 @@ The details will be specified later.
 
 ### Lecture 1 (Feb 19)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:**  Introduction, Deterministic Finite Automaton, Regular Languages, Pumping Lemma
+* **Slides:** [slides1.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides1.pdf)
 
 ### Lecture 2 (Feb 26)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Myhill–Nerode theorem, Equivalent and Minimal Representations
+* **Slides:** [slides2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides2.pdf)
 
 ### Lecture 3 (Mar 4)
 

@@ -14,19 +14,19 @@ nebo individuálně po předchozí domluvě emailem.
 
 ## Zápočet
 
-* Podmínky pro získání zápočtu: budou upřesněny začátkem semestru
+* Podmínky pro získání zápočtu jsou popsány [zde](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/zapocet.txt).
 
-## Program cvičení (bude aktualizováno)
+## Program cvičení
 
 ### 1. cvičení (19. 2.)
 
-* **Program:** TBA
-* **Materiály:** TBA
+* **Program:** Deterministický konečný automat, rozpoznávaný jazyk
+* **Materiály:** [cviceni1.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni1.pdf)
 
 ### 2. cvičení (26. 2.)
 
-* **Program:** TBA
-* **Materiály:** TBA
+* **Program:** Regulární jazyky, Pumping lemma
+* **Materiály:** [cviceni2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni2.pdf)
 
 ### 3. cvičení (4. 3.)
 
