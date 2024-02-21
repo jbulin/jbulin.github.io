@@ -37,8 +37,8 @@ The details will be specified later.
 
 ### Lecture 3 (Mar 4)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Nondeterminism, Closure properties
+* **Slides:** [slides3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides3.pdf)
 
 ### Lecture 4 (Mar 11)
 

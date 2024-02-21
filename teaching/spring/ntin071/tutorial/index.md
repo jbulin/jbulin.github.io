@@ -25,58 +25,58 @@ Detailed requirements to obtain the credit are described [here](https://github.c
 
 ### 2nd class (Feb 29)
 
-* **Program:** Pumping lemma, Myhill--Nerode theorem
+* **Program:** Pumping lemma, Myhill-Nerode theorem
 * **Worksheet:** [tutorial2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial2.pdf)
 
 ### 3rd class (Mar 7)
 
-* **Program:** TBA
-* **Worksheet:** TBA
+* **Program:** Equivalent and minimal representations, testing properties, nondeterminism, closure under operations
+* **Worksheet:** [tutorial3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial3.pdf)
 
 ### 4th class (Mar 14)
 
-* **Program:** TBA
-* **Worksheet:** TBA
+* **Program:** More on closure properties, regular expressions
+* **Worksheet:** [tutorial4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial4.pdf)
 
 ### 5th class (Mar 21)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
 
 ### 6th class (Mar 28)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial6.pdf)
 
 ### 7th class (Apr 4)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial7.pdf)
 
 ### 8th class (Apr 11)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial8.pdf)
 
 ### 9th class (Apr 18)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial9.pdf)
 
 ### 10th class (Apr 25)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
 
 ### 11th class (May 2)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
 
 ### 12th class (May 9)
 
 * **Program:** TBA
-* **Worksheet:** TBA
+* **Worksheet:** [tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)
 
 ### 13th class (May 16)
 
