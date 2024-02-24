@@ -6,11 +6,13 @@ title: "NTIN071 Automata and grammars: tutorial"
 
 This page contains information about my English tutorial class (Thursday 2pm in S11). If you are enrolled in Dr. Kuboň's class (Tuesday 9am in S11), refer to him for information about your class.
 
-Office hours:
+Office hours (in S303):
 
-* schedule to be determined at the beginning of the semester
+* Monday 12:20
+* Wednesday 14:00
+* Thursday 15:40
 
-or individually by appointment.
+or individually by appointment. (If you plan to come but expect to be late, please email me.)
 
 ## Credit requirements
 

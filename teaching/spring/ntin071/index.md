@@ -11,11 +11,13 @@ This is the webpage of the English lecture taught by Jakub Bulín.
 * 🇨🇿 Česká přednáška Marty Vomlelové sídlí [zde](https://dl1.cuni.cz/course/view.php?id=5119).
 
 
-Office hours:
+Office hours (in S303):
 
-* schedule TBA
+* Monday 12:20
+* Wednesday 14:00
+* Thursday 15:40
 
-or individually by appointment.
+or individually by appointment. (If you plan to come but expect to be late, please email me.)
 
 
 ## Info about exams
@@ -42,8 +44,9 @@ The details will be specified later.
 
 ### Lecture 4 (Mar 11)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Regular expressions, Kleene's theorem, string substitution
+* **Slides:** [slides4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides4.pdf)
+* **Addendum:** [2way-and-output-automata.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/2way-and-output-automata.pdf)
 
 ### Lecture 5 (Mar 18)
 
