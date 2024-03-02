@@ -50,8 +50,8 @@ The details will be specified later.
 
 ### Lecture 5 (Mar 18)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Grammars, regular and context-free grammars
+* **Slides:** [slides5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides5.pdf)
 
 ### Lecture 6 (Mar 25)
 
