@@ -40,7 +40,7 @@ Basic heuristic methods
 Metaheuristics
 - Greedy randomized adaptive search procedure (GRASP)
 - Iterated greedy algorithms
-- Iterated local search <!-- plus perturbation to escape local minima -->
+- Iterated local search
 - Simulated annealing
 - Tabu search
 - Variable neighborhood search (VNS)
@@ -63,8 +63,6 @@ Exact methods
 - Mixed integer programming (MIP) (review of LP, if necessary)
 - Constraint programming (CP)
 
-Why hybridization?
-
 #### Resources
 * [powerful] Subsection 1.2.8, Section 1.7
 * [handbook] Chapter 9 (An Accelerated Introduction to Memetic Algorithms)
@@ -81,7 +79,7 @@ Application: Generalized Minimum Spanning Tree
 - Initial solutions
 - Node set based VNS
 - Global edge set based VNS
-- Combined VNS 
+- Combined VNS
 
 #### Resources
 * [powerful] Chapter 2

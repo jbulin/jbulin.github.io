@@ -37,58 +37,58 @@ Detailed requirements to obtain the credit are described [here](https://github.c
 
 ### 4th class (Mar 14)
 
-* **Program:** More on closure properties, regular expressions
-* **Worksheet:** [tutorial4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial4.pdf)
+* **Program:** Finish leftovers from the previous class
+* **Worksheet:** Continue with [tutorial3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial3.pdf) <!--[tutorial4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial4.pdf)-->
 
 ### 5th class (Mar 21)
 
-* **Program:** TBA
+* **Program:** More on closure properties, regular expressions
 * **Worksheet:** [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
 
 ### 6th class (Mar 28)
 
-* **Program:** TBA
+* **Program:** Grammars, Regular and linear grammars
 * **Worksheet:** [tutorial6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial6.pdf)
 
 ### 7th class (Apr 4)
 
-* **Program:** TBA
+* **Program:** Context-free grammars
 * **Worksheet:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial7.pdf)
 
 ### 8th class (Apr 11)
 
-* **Program:** TBA
+* **Program:** Pushdown automata
 * **Worksheet:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial8.pdf)
 
 ### 9th class (Apr 18)
 
-* **Program:** TBA
+* **Program:** Chomsky normal form, Pumping lemma for context-free languages
 * **Worksheet:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial9.pdf)
 
 ### 10th class (Apr 25)
 
-* **Program:** TBA
+* **Program:** The CYK algorithm, Deterministic PDA.
 * **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
+* **Homework:** TBA, deadline in two weeks
 
 ### 11th class (May 2)
 
-* **Program:** TBA
+* **Program:** Turing machines
 * **Worksheet:** [tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
 
 ### 12th class (May 9)
 
-* **Program:** TBA
+* **Program:** Homework deadline. More about TMs, Leftovers.
 * **Worksheet:** [tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)
 
 ### 13th class (May 16)
 
-* **Program:** TBA
-* **Worksheet:** TBA
+* **Program:** The test!
 
 ### 14th class (May 23)
 
-* **Program:** TBA
-* **Worksheet:** TBA
+* **Program:** Intro to complexity theory
+* **Worksheet:** [tutorial14.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial14.pdf)
 
 ## Useful links
 

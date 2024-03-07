@@ -44,54 +44,54 @@ The details will be specified later.
 
 ### Lecture 4 (Mar 11)
 
-* **Program:** Regular expressions, Kleene's theorem, string substitution
+* **Program:** Regular expressions, Kleene's theorem, String substitution
 * **Slides:** [slides4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides4.pdf)
 * **Addendum:** [2way-and-output-automata.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/2way-and-output-automata.pdf)
 
 ### Lecture 5 (Mar 18)
 
-* **Program:** Grammars, regular and context-free grammars
+* **Program:** Grammars, Regular and context-free grammars
 * **Slides:** [slides5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides5.pdf)
 
 ### Lecture 6 (Mar 25)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Pushdown automata
+* **Slides:** [slides6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides6.pdf)
 
 ### Lecture 7 (Apr 8)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Chomsky normal form, Pumping lemma for context-free languages
+* **Slides:** [slides7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides7.pdf)
 
 ### Lecture 8 (Apr 15)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** The CYK algorithm, Deterministic PDA
+* **Slides:** [slides8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides8.pdf)
 
 ### Lecture 9 (Apr 22)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Closure properties of context-free languages, Intro to Computability theory
+* **Slides:** [slides9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides9.pdf)
 
 ### Lecture 10 (Apr 29)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Turing Machines, Linear-bounded automata
+* **Slides:** [slides10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides10.pdf)
 
 ### Lecture 11 (May 6)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Universal TM, Diagonal language, Post's theorem
+* **Slides:** [slides11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides11.pdf)
 
 ### Lecture 12 (May 13)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Undecidable problems, Post's correspondence problem
+* **Slides:** [slides12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides12.pdf)
 
 ### Lecture 13 (May 20)
 
-* **Program:** TODO
-* **Slides:** TODO
+* **Program:** Intro to Complexity theory
+* **Slides:** [slides13.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides13.pdf)
 
 
 ## Resources and useful links

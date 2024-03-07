@@ -47,43 +47,43 @@ nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít 
 
 ### 6. cvičení (25. 3.)
 
-* **Program:** TBA
+* **Program:** Gramatiky, regulární a lineární gramatiky
 * **Materiály:** [cviceni6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni6.pdf)
 
 ### 7. cvičení (8. 4.)
 
-* **Program:** TBA
+* **Program:** Bezkontextové gramatiky
 * **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni7.pdf)
 
 ### 8. cvičení (15. 4.)
 
-* **Program:** TBA
+* **Program:** Zásobníkové automaty
 * **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni8.pdf)
 
 ### 9. cvičení (22. 4.)
 
-* **Program:** TBA
+* **Program:** Chomského normální forma, Pumping lemma pro bezkontextové jazyky
 * **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni9.pdf)
+* **Domácí úkol:** zadání TBA, termín odevzdání za dva týdny
 
 ### 10. cvičení (29. 4.)
 
-* **Program:** TBA
+* **Program:** Algoritmus CYK, deterministické PDA
 * **Materiály:** [cviceni10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni10.pdf)
 
 ### 11. cvičení (6. 5.)
 
-* **Program:** TBA
+* **Program:** Termín odevzdání domácího úkolu. Turingovy stroje
 * **Materiály:** [cviceni11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni11.pdf)
 
 ### 12. cvičení (13. 5.)
 
-* **Program:** TBA
-* **Materiály:** TBA
+* **Program:** Zápočtový test!
 
 ### 13. cvičení (20. 5.)
 
-* **Program:** TBA
-* **Materiály:** TBA
+* **Program:** Více o Turingových strojích, úvod do výpočetní složitosti
+* **Materiály:** [cviceni13.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni13.pdf)
 
 ## Užitečné odkazy
 
