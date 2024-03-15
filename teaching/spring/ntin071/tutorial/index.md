@@ -52,22 +52,22 @@ Detailed requirements to obtain the credit are described [here](https://github.c
 
 ### 7th class (Apr 4)
 
-* **Program:** Grammars, Regular and linear grammars
+* **Program:** Formal grammars, regular and context-free grammars, bonus: 2-way automata
 * **Worksheet:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial7.pdf)
 
 ### 8th class (Apr 11)
 
-* **Program:** Context-free grammars
+* **Program:** Chomsky normal form, The CYK algorithm
 * **Worksheet:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial8.pdf)
 
 ### 9th class (Apr 18)
 
-* **Program:** Chomsky normal form, Pumping lemma for context-free languages
+* **Program:** Pumping lemma for context-free languages
 * **Worksheet:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial9.pdf)
 
 ### 10th class (Apr 25)
 
-* **Program:** The CYK algorithm, Pushdown automata.
+* **Program:** Pushdown automata.
 * **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
 * **Homework:** TBA, deadline in two weeks
 

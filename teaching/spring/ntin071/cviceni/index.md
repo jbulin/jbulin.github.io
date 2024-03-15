@@ -52,23 +52,23 @@ nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít 
 
 ### 7. cvičení (8. 4.)
 
-* **Program:** Gramatiky, regulární a lineární gramatiky
+* **Program:** Formální gramatiky, regulární a bezkontextové gramatiky, bonus: dvousměrné automaty
 * **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni7.pdf)
 
 ### 8. cvičení (15. 4.)
 
-* **Program:** Bezkontextové gramatiky, Chomského normální forma, 
+* **Program:** Chomského normální forma, Algoritmus CYK
 * **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni8.pdf)
 
 ### 9. cvičení (22. 4.)
 
-* **Program:** Pumping lemma pro bezkontextové jazyky, Algoritmus CYK, Zásobníkové automaty
+* **Program:** Pumping lemma pro bezkontextové jazyky
 * **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni9.pdf)
 * **Domácí úkol:** zadání TBA, termín odevzdání za dva týdny
 
 ### 10. cvičení (29. 4.)
 
-* **Program:** Ještě zásobníkové automaty, uzávěrové vlastnosti
+* **Program:** Zásobníkové automaty
 * **Materiály:** [cviceni10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni10.pdf)
 
 ### 11. cvičení (6. 5.)
