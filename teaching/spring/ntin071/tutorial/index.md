@@ -42,22 +42,22 @@ Detailed requirements to obtain the credit are described [here](https://github.c
 
 ### 5th class (Mar 21)
 
-* **Program:** More on closure properties, regular expressions
-* **Worksheet:** [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
+* **Program:** More on closure properties.
+* **Worksheet:** the rest of the previous worksheet and Problem 1 in [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
 
 ### 6th class (Mar 28)
 
-* **Program:** Grammars, Regular and linear grammars
-* **Worksheet:** [tutorial6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial6.pdf)
+* **Program:** Regular expressions 
+* **Worksheet:** problems 2-6 from [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
 
 ### 7th class (Apr 4)
 
-* **Program:** Context-free grammars
+* **Program:** Grammars, Regular and linear grammars
 * **Worksheet:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial7.pdf)
 
 ### 8th class (Apr 11)
 
-* **Program:** Pushdown automata
+* **Program:** Context-free grammars
 * **Worksheet:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial8.pdf)
 
 ### 9th class (Apr 18)
@@ -67,7 +67,7 @@ Detailed requirements to obtain the credit are described [here](https://github.c
 
 ### 10th class (Apr 25)
 
-* **Program:** The CYK algorithm, Deterministic PDA.
+* **Program:** The CYK algorithm, Pushdown automata.
 * **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
 * **Homework:** TBA, deadline in two weeks
 

@@ -42,33 +42,33 @@ nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít 
 
 ### 5. cvičení (18. 3.)
 
-* **Program:** Regulární výrazy
-* **Materiály:** [cviceni5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni5.pdf)
+* **Program:** Uzavřenost na operace
+* **Materiály:** zbylé příklady z [cviceni4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni4.pdf)
 
 ### 6. cvičení (25. 3.)
 
-* **Program:** Gramatiky, regulární a lineární gramatiky
+* **Program:** Regulární výrazy
 * **Materiály:** [cviceni6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni6.pdf)
 
 ### 7. cvičení (8. 4.)
 
-* **Program:** Bezkontextové gramatiky
+* **Program:** Gramatiky, regulární a lineární gramatiky
 * **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni7.pdf)
 
 ### 8. cvičení (15. 4.)
 
-* **Program:** Zásobníkové automaty
+* **Program:** Bezkontextové gramatiky, Chomského normální forma, 
 * **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni8.pdf)
 
 ### 9. cvičení (22. 4.)
 
-* **Program:** Chomského normální forma, Pumping lemma pro bezkontextové jazyky
+* **Program:** Pumping lemma pro bezkontextové jazyky, Algoritmus CYK, Zásobníkové automaty
 * **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni9.pdf)
 * **Domácí úkol:** zadání TBA, termín odevzdání za dva týdny
 
 ### 10. cvičení (29. 4.)
 
-* **Program:** Algoritmus CYK, deterministické PDA
+* **Program:** Ještě zásobníkové automaty, uzávěrové vlastnosti
 * **Materiály:** [cviceni10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni10.pdf)
 
 ### 11. cvičení (6. 5.)
