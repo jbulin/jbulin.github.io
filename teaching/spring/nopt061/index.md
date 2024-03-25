@@ -23,6 +23,9 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 * [emerging] Blum et al - Hybrid Metaheuristics: An Emerging Approach to Optimization
 * [handbook] Gendreau, Potvin - Handbook of Metaheuristics (3rd edition)
 * [comparing-memetic] Jiaojiao, Gulyás, Botzheim - Comparing Lamarckian and Baldwinian Approaches in Memetic Optimization
+* [multi-depot-scheduling] Otsuki, Aihara - New variable depth local search for multiple depot vehicle scheduling problems
+* [algorithms-for-optimization] Kochenderfer, Wheeler - Algorithms for Optimization
+* [search-methodologies] Burke, Kendall - Search Methodologies: Introductory Tutorials in Optimization and Decision Support Techniques
 
 ## Tentative schedule
 
@@ -97,7 +100,91 @@ Application: Minimum Common String Partition
 * [powerful] Chapter 3
 
 
-### Lectures 5-12: TBA
+### Lecture 5 - Large Neighborhood Search
+
+MIP-based Large neighborhood search
+
+Application: Minimum Weight Dominating Set
+- initial solution (greedy heuristic)
+- partial destruction of solutions
+
+Application: Generalized Minimum Spanning Tree
+- global subtree optimization neighborhood
+
+#### Resources
+* [powerful] Chapter 4
+
+
+### Lecture 6 - Multi-depot Vehicle Scheduling
+
+Single-depot vs. Multi-depot vehicle schedulig problem
+SDVSP as a decoder
+Variable descent search for MDVSP
+
+#### Resources
+* [multi-depot-scheduling] Sections 1, 2.1-2.5
+
+
+### Lecture 7 - Parallel Non-independent Construction
+
+General idea
+Beam Search
+Beam-ACO: Beam search + Ant Colony Optimization
+
+Application: Multidimensional Knapsack (MK)
+- greedy heuristic
+- beam serach for MK
+- pure-ACO approach to MK
+- Beam-ACO for MK
+
+#### Resources
+* [powerful] Chapter 5
+
+
+### Lecture 8 - Construction and Constraint Programming
+
+Hybrids of constructive metaheuristics and constraint programming
+Ant-Colony optimization + constraint programming integration
+Application: Machine Scheduling with Sequence-dependent Setup Times
+
+#### Resources
+*[emerging] Paper 6
+
+
+### Lecture 9 - Complete solution archives
+
+General idea
+Trie-based archive
+Application: Generalized Minimum Spanning Tree (GMST)
+- Archive-Enhanced Evolutionary Algorithm for GMST
+<!-- plus another application? -->
+
+#### Resources
+* [powerful] Chapter 6, Sections 6.1 & 6.3
+
+
+### Lecture 10 - Surrogate models
+
+Surrogate models
+Probabilistic surrogate models
+Surrogate optimization
+
+#### Resources
+* [algorithms-for-optimization] Chapters 14-16
+
+
+### Lecture 11 - Hyper-heuristics
+
+Introduction
+Hyper-heuristics for
+* Boolean Satisfiability
+* Timetabling
+* Packing
+
+#### Resources
+* [search-methodologies] Chapter 20
+
+
 
 
 ## Exam requirements
