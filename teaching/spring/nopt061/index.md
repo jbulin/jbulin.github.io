@@ -117,9 +117,9 @@ Application: Generalized Minimum Spanning Tree
 
 ### Lecture 6 - Multi-depot Vehicle Scheduling
 
-Single-depot vs. Multi-depot vehicle schedulig problem
+Single-depot vs. Multi-depot vehicle scheduling problem
 SDVSP as a decoder
-Variable descent search for MDVSP
+Variable depth local search for MDVSP
 
 #### Resources
 * [multi-depot-scheduling] Sections 1, 2.1-2.5
@@ -133,7 +133,7 @@ Beam-ACO: Beam search + Ant Colony Optimization
 
 Application: Multidimensional Knapsack (MK)
 - greedy heuristic
-- beam serach for MK
+- beam search for MK
 - pure-ACO approach to MK
 - Beam-ACO for MK
 
