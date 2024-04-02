@@ -118,7 +118,6 @@ Application: Generalized Minimum Spanning Tree
 ### Lecture 6 - Multi-depot Vehicle Scheduling
 
 Single-depot vs. Multi-depot vehicle scheduling problem
-SDVSP as a decoder
 Variable depth local search for MDVSP
 
 #### Resources

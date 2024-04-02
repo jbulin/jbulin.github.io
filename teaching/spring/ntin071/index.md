@@ -55,17 +55,17 @@ The details will be specified later.
 
 ### Lecture 6 (Mar 25)
 
-* **Program:** Chomsky normal form, Pumping lemma for context-free languages, the CYK algorithm
+* **Program:** Chomsky normal form, Pumping lemma for context-free languages
 * **Slides:** [slides6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides6.pdf)
 
 ### Lecture 7 (Apr 8)
 
-* **Program:** Pushdown automata
+* **Program:** The CYK algorithm, Pushdown automata
 * **Slides:** [slides7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides7.pdf)
 
 ### Lecture 8 (Apr 15)
 
-* **Program:** Deterministic PDA
+* **Program:** Equivalence of PDA and CFG, Deterministic PDA
 * **Slides:** [slides8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides8.pdf)
 
 ### Lecture 9 (Apr 22)
