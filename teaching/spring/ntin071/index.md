@@ -70,7 +70,7 @@ The details will be specified later.
 
 ### Lecture 9 (Apr 22)
 
-* **Program:** Closure properties of context-free languages, Intro to Computability theory
+* **Program:** Closure properties of context-free languages, Dyck languages
 * **Slides:** [slides9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides9.pdf)
 
 ### Lecture 10 (Apr 29)
@@ -80,7 +80,7 @@ The details will be specified later.
 
 ### Lecture 11 (May 6)
 
-* **Program:** Universal TM, Diagonal language, Post's theorem
+* **Program:** Intro to Computability theory, Universal TM, Diagonal language, Post's theorem
 * **Slides:** [slides11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides11.pdf)
 
 ### Lecture 12 (May 13)
