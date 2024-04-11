@@ -118,6 +118,7 @@ Application: Generalized Minimum Spanning Tree
 ### Lecture 6 - Multi-depot Vehicle Scheduling
 
 Single-depot vs. Multi-depot vehicle scheduling problem
+
 Variable depth local search for MDVSP
 
 #### Resources
@@ -143,7 +144,9 @@ Application: Multidimensional Knapsack (MK)
 ### Lecture 8 - Construction and Constraint Programming
 
 Hybrids of constructive metaheuristics and constraint programming
+
 Ant-Colony optimization + constraint programming integration
+
 Application: Machine Scheduling with Sequence-dependent Setup Times
 
 #### Resources
@@ -153,10 +156,13 @@ Application: Machine Scheduling with Sequence-dependent Setup Times
 ### Lecture 9 - Complete solution archives
 
 General idea
+
 Trie-based archive
+
 Application: Generalized Minimum Spanning Tree (GMST)
+
 - Archive-Enhanced Evolutionary Algorithm for GMST
-<!-- plus another application? -->
+
 
 #### Resources
 * [powerful] Chapter 6, Sections 6.1 & 6.3
@@ -165,7 +171,9 @@ Application: Generalized Minimum Spanning Tree (GMST)
 ### Lecture 10 - Surrogate models
 
 Surrogate models
+
 Probabilistic surrogate models
+
 Surrogate optimization
 
 #### Resources
@@ -175,6 +183,7 @@ Surrogate optimization
 ### Lecture 11 - Hyper-heuristics
 
 Introduction
+
 Hyper-heuristics for
 * Boolean Satisfiability
 * Timetabling

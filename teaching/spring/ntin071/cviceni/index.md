@@ -17,6 +17,9 @@ nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít 
 ## Zápočet
 
 * Podmínky pro získání zápočtu jsou popsány [zde](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/zapocet.txt).
+* **Domácí úkol:** termín odevzdání 6. 5. na začátku cvičení, zadání: [domaci-ukol.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/domaci-ukol.pdf)
+* **Zápočtový test:** termín 13. 5., [seznam-pozadavku.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/seznam-pozadavku.pdf), [vzorovy-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/vzorovy-test.pdf)
+
 
 ## Program cvičení
 
@@ -64,7 +67,6 @@ nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít 
 
 * **Program:** Pumping lemma pro bezkontextové jazyky
 * **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni9.pdf)
-* **Domácí úkol:** zadání TBA, termín odevzdání za dva týdny
 
 ### 10. cvičení (29. 4.)
 
@@ -73,7 +75,7 @@ nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít 
 
 ### 11. cvičení (6. 5.)
 
-* **Program:** Termín odevzdání domácího úkolu. Turingovy stroje
+* **Program:** Termín odevzdání domácího úkolu! Turingovy stroje
 * **Materiály:** [cviceni11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni11.pdf)
 
 ### 12. cvičení (13. 5.)
