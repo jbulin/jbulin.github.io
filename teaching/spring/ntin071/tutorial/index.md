@@ -17,8 +17,8 @@ or individually by appointment. (If you plan to come but expect to be late, plea
 ## Credit requirements
 
 * Detailed requirements to obtain the credit are described [here](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/credit-requirements.txt).
-* **Homework assignment:** due on May 9 at the beginninig of class, [homework.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/homework.pdf)
-* **Zápočtový test:** date: May 16, [list-of-requirements.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/list-of-requirements.pdf), [sample-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/sample-test.pdf)
+* **Homework assignment:** due on May 9 at the beginning of class, [homework.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/homework.pdf)
+* **Test:** the date is May 16, [list-of-requirements.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/list-of-requirements.pdf), [sample-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/sample-test.pdf)
 
 
 ## Program
