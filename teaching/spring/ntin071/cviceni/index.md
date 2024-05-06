@@ -85,7 +85,7 @@ nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít 
 ### 13. cvičení (20. 5.)
 
 * **Program:** Více o Turingových strojích, úvod do výpočetní složitosti
-* **Materiály:** [cviceni13.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni13.pdf)
+* **Materiály:** Pokračujeme v cviceni11.pdf <!--[cviceni13.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni13.pdf)-->
 
 ## Užitečné odkazy
 

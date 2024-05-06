@@ -75,17 +75,17 @@ The details will be specified later.
 
 ### Lecture 10 (Apr 29)
 
-* **Program:** Turing Machines, Linear-bounded automata
+* **Program:** Turing Machines
 * **Slides:** [slides10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides10.pdf)
 
 ### Lecture 11 (May 6)
 
-* **Program:** Intro to Computability theory, Universal TM, Diagonal language, Post's theorem
+* **Program:** TMs and Grammars, Linear-bounded automata and CFG, Intro to Computability theory
 * **Slides:** [slides11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides11.pdf)
 
 ### Lecture 12 (May 13)
 
-* **Program:** Undecidable problems, Post's correspondence problem
+* **Program:** Universal TM, Diagonal language, Post's theorem. Undecidable problems, Post's correspondence problem
 * **Slides:** [slides12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides12.pdf)
 
 ### Lecture 13 (May 20)

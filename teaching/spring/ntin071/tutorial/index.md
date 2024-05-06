@@ -70,18 +70,18 @@ or individually by appointment. (If you plan to come but expect to be late, plea
 
 ### 10th class (Apr 25)
 
-* **Program:** Pushdown automata.
+* **Program:** Pushdown automata
 * **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
 
 ### 11th class (May 2)
 
-* **Program:** Turing machines
-* **Worksheet:** [tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
+* **Program:** Coversion between PDA and CFG
+* **Worksheet:** Continue working on tutorial10.pdf, then[tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
 
 ### 12th class (May 9)
 
-* **Program:** Homework due date! More about TMs, Leftovers.
-* **Worksheet:** [tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)
+* **Program:** Homework due date! Turing Machines
+<* **Worksheet:** Continue working on tutorial11.pdf <!--[tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)-->
 
 ### 13th class (May 16)
 
@@ -89,8 +89,8 @@ or individually by appointment. (If you plan to come but expect to be late, plea
 
 ### 14th class (May 23)
 
-* **Program:** Intro to complexity theory
-* **Worksheet:** [tutorial14.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial14.pdf)
+* **Program:** More about TMs, Intro to complexity theory
+* **Worksheet:** Continue working on tutorial11.pdf <!--[tutorial14.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial14.pdf)-->
 
 ## Useful links
 
