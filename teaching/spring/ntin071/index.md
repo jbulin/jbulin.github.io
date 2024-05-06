@@ -22,10 +22,11 @@ or individually by appointment. (If you plan to come but expect to be late, plea
 
 ## Info about exams
 
-The details will be specified later.
+Information about exams, including a list of exam questions:
+
+* [about-exams-2024.pdf](about-exams-2024.pdf)
 
 ## Tentative schedule
-
 
 ### Lecture 1 (Feb 19)
 
