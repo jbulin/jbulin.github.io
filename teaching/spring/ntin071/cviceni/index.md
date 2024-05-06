@@ -6,13 +6,15 @@ title: "NTIN071 Automaty a gramatiky: cvičení"
 
 Zde najdete informace k mým českým cvičením (Pondělí 9:00 v S7 a 10:40 v S6).
 
-Konzultační hodiny (v S303):
+Konzultační hodiny během výuky (v S303):
 
 * pondělí 12:20
-* středa 14:00
+* středa 14:00 (22. května zrušeny z důvodu předtermínu)
 * čtvrtek 15:40
 
-nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít později, prosím napište.)
+nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít později, prosím napište.) 
+
+Konzultace během zkouškového období rozvrhujeme dle potřeby - napište mi v dostatečném předstihu své časové možnosti.
 
 ## Zápočet
 
