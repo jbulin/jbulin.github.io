@@ -4,6 +4,18 @@ title: "Teaching archive"
 
 # Teaching archive
 
+
+### Archive: Fall 2023
+
+* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
+  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
+  * 🇨🇿 [Czech tutorial x1](teaching/fall/nail062/cviceni/)
+
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
+  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
+
+
+
 ### Archive: Spring 2023
 
 * [NTIN071 Automata and Grammars](teaching/spring/ntin071/)

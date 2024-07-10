@@ -21,6 +21,15 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 # Teaching
 
+### Fall 2024
+
+* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
+  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
+  * 🇨🇿 [Czech tutorial x2](teaching/fall/nail062/cviceni/)
+
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
+  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
+
 ### Spring 2024
 
 * [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
@@ -30,16 +39,6 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 * [NOPT061 Large-scale optimization: Metaheuristics](teaching/spring/nopt061/)
   * 🇬🇧 [Lecture](teaching/spring/nopt061/)
-
-### Fall 2023
-
-* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
-  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
-  * 🇨🇿 [Czech tutorial x1](teaching/fall/nail062/cviceni/)
-
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
-
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
 
@@ -55,8 +54,6 @@ I can offer theses in theoretical computer science as well as several research s
 ### Current talks:
 
 * AAA105 ``Short definitions in constraint languages'' [presentation](talks/bulin-presentation.pdf), [handout](talks/bulin-handout.pdf)
-
-
 
 ### Selected publications
 
