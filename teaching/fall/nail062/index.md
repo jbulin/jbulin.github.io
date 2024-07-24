@@ -57,15 +57,15 @@ Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
 
 ### Pátá přednáška (4. 11.)
 
-* **Program:**  Rezoluční metoda, korektnost, úplnost. LI-rezoluce a Horn-SAT. Úvod do predikátové logiky.
-* **Materiály:** Sekce 5.1-5.3 z Kapitoly 5 (Sekci 5.4 zatím přeskočíme), Sekce 6.1-6.2 z Kapitoly 6
+* **Program:**  Rezoluční metoda, korektnost, úplnost. Úvod do predikátové logiky. Syntaxe predikátové logiky.
+* **Materiály:** Sekce 5.1-5.3 z Kapitoly 5 (Sekci 5.4 zatím přeskočíme), Sekce 6.1-6.3 z Kapitoly 6
 * **Prezentace:** [slides5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides5.pdf)
 
 
 ### Šestá přednáška (11. 11.)
 
-* **Program:** Syntaxe a sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Extenze teorií, extenze o definice.
-* **Materiály:** Sekce 6.3-6.7 z Kapitoly 6
+* **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Extenze teorií, extenze o definice.
+* **Materiály:** Sekce 6.4-6.7 z Kapitoly 6
 * **Prezentace:** [slides6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides6.pdf)
 
 ### Sedmá přednáška (18. 11.)
@@ -105,8 +105,6 @@ Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
 * **Prezentace:** [slides12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides12.pdf), [slides13.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides13.pdf)
 
 
-
-Löwenheim-Skolemova věta, 
 <!-- Fall 2023
 
 ### První přednáška (5. 10.)
