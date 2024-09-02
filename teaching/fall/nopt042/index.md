@@ -12,12 +12,12 @@ title: "NOPT042 Constraint programming"
     <span style="color:fuchsia">**T**</span>abling).
 
 
-## Office hours during the teaching period  (in S303):
+## Office hours during the teaching period:
 
-* Wednesday 3:30pm
-* Thursday 2pm (right after class)
+* Thursday 2pm in S303 (right after class)
+* Troja campus: Monday 3:30pm outside of N1
 
-or make an appointment (via email)
+or make an appointment (via email); two additional hours per week will be available.
 
 
 ## Credit requirements
@@ -30,7 +30,7 @@ The solutions to the homework assignments must be 100% your own work. Do not dis
 
 Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). The deadlines will be set to the beginning of the next tutorial, unless stated otherwise. Materials from the tutorial are posted below as PDFs. The source codes and live notebooks are available on [GitHub](https://github.com/jbulin-mff-uk/nopt042).
     
-## Tutorial schedule
+## Tutorial schedule (will be updated)
 
 ### Before the first tutorial
 

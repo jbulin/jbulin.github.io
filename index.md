@@ -51,9 +51,11 @@ I can offer theses in theoretical computer science as well as several research s
 
 > My primary research interests lie in the intersection of theoretical computer science, computational logic, and universal algebra. A majority of my work is concerned with the complexity of the constraint satisfaction problem. I am also interested in constraint modeling, automated theorem proving, and artificial intelligence.
 
+<!--
 ### Current talks:
 
 * AAA105 ``Short definitions in constraint languages'' [presentation](talks/bulin-presentation.pdf), [handout](talks/bulin-handout.pdf)
+-->
 
 ### Selected publications
 

@@ -1,0 +1,4 @@
+11-08-2022 Few subpowers and short definitions (KTIML pracovní seminář, velmi zkrácený)
+11-22-2022 Few subpowers and short definitions (AI seminar @matfyz)
+08-01-2023 UNCE Day: Short definitions in constraint languages (Midsummer Combinatorial Workshop XXVIII)
+06-02-2024 Short definitions in constraint languages (AAA105)

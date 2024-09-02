@@ -4,17 +4,18 @@ title: "NAIL062 Výroková a predikátová logika: cvičení"
 
 # NAIL062 Výroková a predikátová logika: cvičení (Podzim 2024)
 
-Zde najdete informace k mým cvičením (Pondělí 10:40 v S4).
+Zde najdete informace k mým cvičením
 
 Konzultační hodiny:
 
-* Pondělí 15:30 (po přednášce) v N1
-* Středa 15:40 v S303
-* Čtvrtek 14:00 V S303
+* Pondělí 15:30 (po přednášce) před N1
+* Čtvrtek 14:00 v S303
 
-nebo individuálně po předchozí domluvě (napište mi email).
+nebo individuálně po předchozí domluvě (napište mi email), budou k dispozici další dvě hodiny týdně.
 
 ## Program cvičení (bude aktualizováno)
+
+### 1. cvičení (3. 10.)
 
 <!--
 
@@ -156,6 +157,8 @@ nebo individuálně po předchozí domluvě (napište mi email).
 
 
 ## Zápočet
+
+Podmínky budou upřesněny.
 
 <!--
 * [Podmínky pro získání zápočtu](https://raw.githubusercontent.com/jbulin-mff-uk/nail062/main/tutorial/zapocet.txt)
