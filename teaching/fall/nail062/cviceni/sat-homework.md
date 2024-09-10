@@ -1,13 +1,46 @@
 ---
-title: NAIL062 Domácí úkol na použití SAT solveru"
+title: NAIL062 Domácí úkol: aplikace SAT solveru"
 ---
 
-# NAIL062 Domácí úkol na použití SAT solveru
+# NAIL062 Domácí úkol: aplikace SAT solveru
 
-Jde-li o optimalizační problém, řešte jeho rozhodovací variantu: "Má daná instance řešení, jehož objektivní funkce má alespoň/nejvýše danou hodnotu?"
+Vaším úkolem bude vytvořit systém pro řešení zadaného výpočetního problém za použití SAT solveru. Jde-li o optimalizační problém, řešte jeho rozhodovací variantu: "Má daná instance řešení, jehož objektivní funkce má alespoň/nejvýše danou hodnotu?" 
 
-Uveďte přesný popis problému, který řešíte, 
+## Zásady pro vypracování
 
+K řešení použijte programovací jazyk Python a SAT solver [Glucose 4.2](https://github.com/audemard/glucose/).
+
+Naprogramujte skript, který:
+
+* na vstupu přijme instanci problému (buď parametry, nebo cestu k souboru popisujícímu instanci, případně obojí),
+* zakóduje tuto instanci do SAT ve formátu [DIMACS CNF](https://jix.github.io/varisat/manual/0.2.0/formats/dimacs.html),
+* zavolá na CNF formuli SAT solver Glucose,
+* dekóduje nalezené ohodnocení proměnných (existuje-li) zpět na řešení daného problému,
+* toto řešení vypíše v nějakém rozumném, člověkem čitelném formátu.
+* Skript navíc volitelně vypíše zkonstruovanou CNF formuli v DIMACS CNF formátu, a statistiky o průběhu řešení SAT solveru.
+
+K řešení přiložte několik instancí, a to alespoň:
+
+* malou, člověkem analyzovatelnou splnitelnou instanci,
+* malou, člověkem analyzovatelnou nesplnitelnou instanci (existuje-li),
+* splnitelnou instanci, která poběží netriviálně dlouho (alespoň 10s), pokud se Vám ji nepodaří nalézt, popište proč.
+
+Dále musí být součástí řešení soubor README.md se stručná dokumentací obsahující:
+
+* přesný popis problému, který řešíte (parametry, rozhodovací proměnné, constrainty, aj.)
+* popis Vámi zvoleného zakódování do CNF, případně jeho alternativ
+* uživatelská dokumentace vašeho skriptu (vč. popisu formátu vstupu a výstupu)
+* popis přiložených instancí
+* popis experimentů, které jste prováděli (např. jak velké instance dokáže váš skript vyřešit v rozumném čase?)
+
+## Etická pravidla
+
+Při řešení musíte postupovat zcela samostatně. Není dovoleno řešení konzultovat s žádnou inteligencí kromě cvičícího. Můžete vyhledávat doplňující informace o daném problému (např. zajímavé instance nebo není-li vám jasné zadání problému), ale nesmí se týkat jeho zakódování do CNF nebo použití SAT solveru k jeho řešení. Nesmíte také číst žádný kód řešící daný (nebo příbuzný) problém. V případě nejasností jak postupovat se obraťte na cvičícího, který vám poskytne pomoc nebo nápovědu.
+
+
+## Ukázkové řešení
+
+Pro inspiraci si prohlédněte [ukázkové řešení problému 15 Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example), které laskavě vypracoval Dr. Jirka Švancara (kterému tímto děkuji).
 
 ## Seznam problémů
 
