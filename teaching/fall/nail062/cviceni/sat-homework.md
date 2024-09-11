@@ -8,8 +8,8 @@ Vaším úkolem bude vytvořit systém pro řešení zadaného výpočetního pr
 
 ## Termíny
 
-* vyjádření preferencí případně návrh vlastních problémů k řešení: *do 20. října*
-* odevzdání hotového projektu: *do 20. listopadu*
+* vyjádření preferencí případně návrh vlastních problémů k řešení: **do 20. října**
+* odevzdání hotového projektu: **do 20. listopadu**
 
 ## Zásady pro vypracování
 
