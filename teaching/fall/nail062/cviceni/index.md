@@ -17,81 +17,72 @@ nebo individuálně po předchozí domluvě (napište mi email), budou k dispozi
 
 ### 1. cvičení (3. 10.)
 
-<!--
+* **Program:** Úvod do výrokové logiky. Základy syntaxe a sémantiky výrokové logiky. Ukázka tablo metody a rezoluční metody.
+* **Materiály:** [priklady1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady1.pdf)
 
+### 2. cvičení (10. 10.)
 
-### 1. cvičení (2. 10.)
+* **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek. Převod do CNF a DNF. Vlastnosti a extenze teorií.
+* **Materiály:** [priklady2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady2.pdf)
 
-* **Program:** Úvod. Vyjadřování různých vlastností ve výrokové a predikátové logice. Připomenutí matematických pojmů.
-* **Materiály:** [cviceni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni1.pdf), případně také [přehled matematických pojmů](https://ktiml.mff.cuni.cz/~gregor/logika/VPLdodatek.pdf)
+### 3. cvičení (17. 10.)
 
-### 2. cvičení (9. 10.)
+* **Program:** Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
+* **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/tutorial/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup)
 
-* **Program:** Formalizace ve výrokové logice. Syntaxe a sémantika výrokové logiky. Ukázka tablo metody a rezoluční metody.
-* **Materiály:** [cviceni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni2.pdf)
+### 4. cvičení (24. 10.)
 
-### 3. cvičení (16. 10.)
+* **Program:** Tablo metoda ve výrokové logice. Věta o kompaktnosti a její aplikace.
+* **Materiály:** [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady4.pdf)
 
-* **Program:** Syntaxe a sémantika výrokové logiky. Převod do CNF a DNF. Univerzálnost logických spojek.
-* **Materiály:** [cviceni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni3.pdf)
+### 5. cvičení (31. 10.)
 
-### 4. cvičení (23. 10.)
+* **Program:** (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady)
+* **Materiály:** (pokračujeme v [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady4.pdf))
 
-* **Program:** Vlastnosti a extenze teorií. Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. 
-* **Materiály:** [cviceni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni4.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/tutorial/sat-solving.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup)
+### 6. cvičení (7. 11.)
 
-### 5. cvičení (30. 10.)
+* **Program:** Rezoluce ve výrokové logice.
+* **Materiály:** [priklady5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady5.pdf)
 
-* **Program:** Algoritmus DPLL. Kódování problémů do SAT. Tablo metoda ve výrokové logice.
-* **Materiály:** [cviceni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni5.pdf)
-
-### 6. cvičení (6. 11.)
-
-* **Program:** Ještě tablo metoda: aplikace a pokročilejší problémy. Ukázka rezoluční metody.
-* **První domácí úkol:** [du1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/du1.pdf). Termín odevzdání: 20. 11. v 10:40
-* **Materiály:** [cviceni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni6.pdf)
-
-### 7. cvičení (13. 11.)
-
-* **Program:** Rezoluce ve výrokové logice. Aplikace věty o kompaktnosti. Hilbertův kalkulus.
-* **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni7.pdf)
-
-### 8. cvičení (20. 11.)
-
-* **Program:** Syntaxe a sémantika predikátové logiky. 
-* **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni8.pdf)
-* nezapomeňte odevzdat první domácí úkol
-
-### 9. cvičení (27. 11.)
+### 7. cvičení (14. 11.)
 
 * **1. zápočtový test**
-* **Program:** Struktury a podstruktury. Extenze teorií.
-* **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni9.pdf)
+* **Program:** Úvod do predikátové logiky
+* **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf)
 
-### 10. cvičení (4. 12.)
+### 8. cvičení (21. 11.)
 
-* **Program:**  Extenze o definice. Definovatelné množiny. Tablo metoda v predikátové logice, jazyky s rovností.
-* **Druhý domácí úkol:** [du2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/du2.pdf). Termín odevzdání: 18. 12. v 10:40 
-* **Materiály:** [cviceni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni10.pdf)
+* **Program:** Syntaxe a sémantika predikátové logiky. Struktury a podstruktury.
+* **Materiály:** (pokračujeme v [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf))
 
-### 11. cvičení (11. 12.)
+### 9. cvičení (28. 11.)
 
-* **Program:** Aplikace Věty o kompaktnosti. Ještě tablo metoda. Převod do PNF. Skolemizace. Herbrandova věta.
-* **Materiály:** [cviceni11.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni11.pdf)
+* **Program:**  Extenze teorií. Extenze o definice. Definovatelné množiny.
+* **Materiály:** [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady7.pdf)
 
-### 12. cvičení (18. 12.)
+### 10. cvičení (5. 12.)
+
+* **Program:**   Tablo metoda v predikátové logice, jazyky s rovností.
+* **Materiály:** [priklady8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady8.pdf)
+
+### 11. cvičení (12. 12.)
+
+* **Program:** Aplikace Věty o kompaktnosti. Převod do PNF. Skolemizace. Herbrandova věta.
+* **Materiály:** [priklady9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady9.pdf)
+
+### 12. cvičení (19. 12.)
 
 * **Program:** Rezoluce v predikátové logice.
-* **Materiály:** [cviceni12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni12.pdf)
-* nezapomeňte odevzdat druhý domácí úkol
+* **Materiály:** [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf)
 
-### 13. cvičení (8. 1.)
+
+### 13. cvičení (9. 1.)
 
 * **2. zápočtový test**
 * **Program:** Vybraná témata z teorie modelů.
-* **Materiály:** [cviceni13.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/cviceni13.pdf)
+* **Materiály:** (pokračujeme v [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf))
 
--->
 
 <!-- podzim 2022
 ### 1. cvičení (2. 10.)
