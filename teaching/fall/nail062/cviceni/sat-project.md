@@ -42,13 +42,9 @@ Dále musí být součástí řešení soubor README.md se stručnou dokumentac�
 
 Při řešení musíte postupovat zcela samostatně. Není dovoleno řešení konzultovat s žádnou inteligencí kromě cvičícího. Můžete vyhledávat doplňující informace o daném problému (např. zajímavé instance nebo není-li vám jasné zadání problému), ale nesmí se týkat jeho zakódování do CNF nebo použití SAT solveru k jeho řešení. Nesmíte také číst žádný kód řešící daný (nebo příbuzný) problém. V případě nejasností jak postupovat se obraťte na cvičícího, který vám poskytne pomoc nebo nápovědu.
 
-## Bodové hodnocení
-
-Bude upřesněno. [TODO doplnit]
-
 ## Ukázkové řešení
 
-Pro inspiraci si prohlédněte [ukázkové řešení](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example) problému [15 Puzzle](https://en.wikipedia.org/wiki/15_puzzle), které laskavě vypracoval Dr. Jirka Švancara (kterému tímto děkuji). [TODO repozitář je zatím neveřejný, nahradit veřejným linkem]
+Pro inspiraci si prohlédněte [ukázkové řešení](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sat-project/logika_SAT_example-master.zip) problému [15 Puzzle](https://en.wikipedia.org/wiki/15_puzzle), které laskavě vypracoval Dr. Jirka Švancara (kterému tímto děkuji).
 
 ## Zadání
 
