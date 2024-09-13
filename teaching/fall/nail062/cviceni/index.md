@@ -41,7 +41,7 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 ### 1. cvičení (3. 10.)
 
 * **Program:** Úvod do výrokové logiky. Základy syntaxe a sémantiky výrokové logiky. Ukázka tablo metody a rezoluční metody.
-* **Materiály:** [priklady1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady1.pdf), [reseni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions/reseni1.pdf)
+* **Materiály:** [priklady1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady1.pdf), [reseni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni1.pdf)
 
 ### 2. cvičení (10. 10.)
 
