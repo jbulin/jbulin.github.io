@@ -72,7 +72,7 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 * **Termín odevzdání Domácího úkolu z výrokové logiky**
 * také se blíží termín odevzdání projektu na SAT solver
-* **Program:** Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky. Struktury a podstruktury.
+* **Program:** Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky. 
 * **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf)
 
 ### 8. cvičení (21. 11.)
@@ -83,17 +83,17 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 ### 9. cvičení (28. 11.)
 
-* **Program:**  Extenze teorií. Extenze o definice. Definovatelné množiny.
+* **Program:** Struktury a podstruktury. Extenze teorií. Extenze o definice. Definovatelné množiny.
 * **Materiály:** [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady7.pdf)
 
 ### 10. cvičení (5. 12.)
 
-* **Program:**   Tablo metoda v predikátové logice, jazyky s rovností.
+* **Program:**   Tablo metoda v predikátové logice, jazyky s rovností.  Aplikace Věty o kompaktnosti. 
 * **Materiály:** [priklady8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady8.pdf)
 
 ### 11. cvičení (12. 12.)
 
-* **Program:** Aplikace Věty o kompaktnosti. Převod do PNF. Skolemizace. Herbrandova věta. Unifikace.
+* **Program:** Převod do PNF. Skolemizace. Herbrandova věta. Unifikace.
 * **Materiály:** [priklady9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady9.pdf)
 
 ### 12. cvičení (19. 12.)
