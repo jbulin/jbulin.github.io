@@ -35,7 +35,7 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 * Domácí úkol z výrokové logiky: termín odevzdání  **14. 11.** do začátku cvičení, zadání: vyřešte [Vzorový test z výrokové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf) (Odevzdejte na papíře nebo emailem v jediném PDF souboru s bílým pozadím.)
 * Domácí úkol z predikátové logiky: termín odevzdání  **19. 12.** do začátku cvičení, zadání: vyřešte [Vzorový test z predikátové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf) (Odevzdejte na papíře nebo emailem v jediném PDF souboru s bílým pozadím. Část (c) prvního příkladu nebude hodnocena, nejspíše ještě nestihneme dostatečně procvičit. Doporučuji ale zkusit si vyřešit.)
-* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-homework.html), do **20. 10.** zašlete své preference a problémy, do **20. 11.** odevzdejte hotový projekt
+* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), do **20. 10.** zašlete své preference a problémy, do **20. 11.** odevzdejte hotový projekt
 
 ## Program cvičení (bude aktualizováno)
 
