@@ -15,7 +15,7 @@ nebo individuálně po předchozí domluvě (napište mi email), budou k dispozi
 
 ## Zápočet
 
-V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba v polovině semestru) bude pokrývat část přednášky _"Výroková logika"_, druhý (ke konci semestru) část přednášky _"Predikátová logika"_. Za každý z testů lze získat maximálně 100 bodů. Pro každý z testů budete mít nárok na dva opravné pokusy. Žádné další opravné možnosti nebudou. Kromě testů lze získat až 50 bodů za domácí úkoly:
+V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba v polovině semestru) bude pokrývat část přednášky _"Výroková logika"_, druhý (ke konci semestru) část přednášky _"Predikátová logika"_. Za každý z testů lze získat maximálně 100 bodů. Pro každý z testů budete mít nárok na jeden opravný pokus. Žádné další opravné možnosti nebudou. Kromě testů lze získat až 50 bodů za domácí úkoly:
 
 * 40 bodů za projekt na aplikaci SAT solveru
 * 5 bodů za domácí úkol z výrokové logiky
@@ -23,17 +23,18 @@ V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba 
 
 Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komunikovat s kýmkoliv kromě cvičícího. Řešení musí být 100% vaší vlastní prací, a je vaší povinností zajistit, že žádná další osoba nebude mít přístup k vašemu řešení.
 
-> K získání zápočtu je třeba získat celkem alespoň **150 bodů**, a zároveň alespoň **50 bodů z každého z testů**.
+> K získání zápočtu je třeba získat celkem alespoň **140 bodů**, a zároveň alespoň **40 bodů z každého z testů**.
 
 ## Zápočtové testy
+
 * termín zápočtového testu z výrokové logiky: **21. 11.** [Vzorový test: výroková logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf)
 * termín zápočtového testu z predikátové logiky: **9. 1.** [Vzorový test: predikátová logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf)
-* předběžný termín prvního pokusu o opravu testů (VL i PL): někdy v prvním týdnu zkouškového období (upřesníme dle počtu nezapočtených studentů)
-* předběžný termín druhého pokusu o opravu testů (VL i PL): druhý nebo třetí týden zkouškového období
+* předběžný termín opravných testů (VL i PL): v prvním týdnu zkouškového období (upřesníme dle počtu nezapočtených studentů)
 
 ## Domácí úkoly:
+
 * Domácí úkol z výrokové logiky: termín odevzdání  **14. 11.** do začátku cvičení, zadání: vyřešte [Vzorový test z výrokové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf) (Odevzdejte na papíře nebo emailem v jediném PDF souboru s bílým pozadím.)
-* Domácí úkol z predikátové logiky: termín odevzdání  **19. 12.** do začátku cvičení, zadání: vyřešte [Vzorový test z predikátové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf) (Odevzdejte na papíře nebo emailem v jediném PDF souboru s bílým pozadím. Část (c) prvního příkladu nebude hodnocena, nejspíše ještě nestihneme procvičit. Doporučuji ale zkusit si vyřešit.)
+* Domácí úkol z predikátové logiky: termín odevzdání  **19. 12.** do začátku cvičení, zadání: vyřešte [Vzorový test z predikátové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf) (Odevzdejte na papíře nebo emailem v jediném PDF souboru s bílým pozadím. Část (c) prvního příkladu nebude hodnocena, nejspíše ještě nestihneme dostatečně procvičit. Doporučuji ale zkusit si vyřešit.)
 * Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-homework.html), do **20. 10.** zašlete své preference a problémy, do **20. 11.** odevzdejte hotový projekt
 
 ## Program cvičení (bude aktualizováno)
@@ -71,18 +72,18 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 ### 7. cvičení (14. 11.)
 
 * **Termín odevzdání Domácího úkolu z výrokové logiky**
-* také se blíží termín odevzdání projektu na SAT solver
 * **Program:** Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky. 
 * **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf)
 
 ### 8. cvičení (21. 11.)
 
-* **1. zápočtový test**
+* **Zápočtový test z výrokové logiky**
 * **Program:**  (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady)
 * **Materiály:** (pokračujeme v [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf))
 
 ### 9. cvičení (28. 11.)
 
+* blíží termín odevzdání projektu na SAT solver
 * **Program:** Struktury a podstruktury. Extenze teorií. Extenze o definice. Definovatelné množiny.
 * **Materiály:** [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady7.pdf)
 
@@ -104,7 +105,7 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 ### 13. cvičení (9. 1.)
 
-* **2. zápočtový test**
+* **Zápočtový test z predikátové logiky**
 * **Program:** Vybraná témata z teorie modelů.
 * **Materiály:** (pokračujeme v [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf))
 
