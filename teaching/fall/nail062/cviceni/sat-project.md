@@ -44,7 +44,7 @@ Při řešení musíte postupovat zcela samostatně. Není dovoleno řešení ko
 
 ## Ukázkové řešení
 
-Pro inspiraci si prohlédněte [ukázkové řešení](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sat-project/logika_SAT_example-master.zip) problému [15 Puzzle](https://en.wikipedia.org/wiki/15_puzzle), které laskavě vypracoval Dr. Jirka Švancara (kterému tímto děkuji).
+Pro inspiraci si prohlédněte [ukázkové řešení](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example) ([.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sat-project/logika_SAT_example-master.zip)) problému [15 Puzzle](https://en.wikipedia.org/wiki/15_puzzle), které laskavě vypracoval Dr. Jirka Švancara (kterému tímto děkuji).
 
 ## Zadání
 
