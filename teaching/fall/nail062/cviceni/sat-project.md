@@ -8,6 +8,8 @@ Vaším úkolem bude vytvořit systém pro řešení zadaného výpočetního pr
 
 ## Termíny
 
+Neurčí-li váš cvičící jinak:
+
 * vyjádření preferencí případně návrh vlastních problémů k řešení: **do 20. října**
 * odevzdání hotového projektu: **do konce listopadu**
 
@@ -50,9 +52,13 @@ Pro inspiraci si prohlédněte [ukázkové řešení](https://gitlab.mff.cuni.cz
 
 Každý student v rámci jedné skupiny cvičení bude řešit jiný problém. Můžete si vybírat ze seznamu níže, nebo i navrhnout vlastní problém, který vás zajímá: V tom případě popište o jaký problém jde a proč vás zajímá (podléhá schválení cvičícím, musí být rozumně obtížný - proto raději uveďte i preference problémů ze seznamu).
 
+Neurčí-li váš cvičící jinak:
+
 Vaše preference pošlete cvičícímu emailem. Můžete napsat libovolné množství problémů, každý název problému na samostatný řádek dle pořadí preferencí. V případě, že o váš nejvíce preferovaný problém bude mít zájem více studentů, bude přidělen jednomu náhodně zvolenému, a dále se bude postupovat níže ve vašem seznamu preferencí. Bezproblémovým studentům budou nakonec přiřazeny nepřiřazené problémy náhodně.
 
 ## Odevzdání
+
+Neurčí-li váš cvičící jinak:
 
 Hotový projekt odevzdejte buď jako link na veřejný GitHub nebo GitLab repozitář, nebo v .zip souboru, jedno z toho zašlete emailem cvičícímu.
 
