@@ -47,7 +47,7 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 ### 2. cvičení (10. 10.)
 
 * **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek. Převod do CNF a DNF. Vlastnosti a extenze teorií.
-* **Materiály:** [priklady2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady2.pdf)
+* **Materiály:** [priklady2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady2.pdf), [reseni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni2.pdf)
 
 ### 3. cvičení (17. 10.)
 
