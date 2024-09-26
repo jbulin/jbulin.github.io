@@ -32,76 +32,76 @@ Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
 
 * **Program:** Úvod do logiky, neformální představení výrokové a predikátové logiky. Syntaxe výrokové logiky. Sémantika výrokové logiky (začátek)
 * **Materiály:** Kapitola 1, Sekce 2.1-2.2.4 z Kapitoly 2
-* **Prezentace:** [slides1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides1.pdf)
+* **Prezentace:** [slides1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides1.pdf), [handout1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout1.pdf)
 
 
 ### Druhá přednáška (7. 10.)
 
 * **Program:** Sémantika výrokové logiky (pokračování). Normální formy (CNF, DNF). Vlastnosti a důsledky teorií. Extenze teorií. Algebra výroků.
 * **Materiály:** Sekce 2.2.5-2.5 z Kapitoly 2
-* **Prezentace:** [slides2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides2.pdf)
+* **Prezentace:** [slides2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides2.pdf), [handout2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout2.pdf)
 
 ### Třetí přednáška (14. 10.)
 
 * **Program:** Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Úvod do metody analytického tabla.
 * **Materiály:** Kapitola 3, Sekce 4.1-4.2 z Kapitoly 4
-* **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), ukázka SAT solveru: [sat-solving.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving.zip)
+* **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), [handout3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout3.pdf), ukázka SAT solveru: [sat-solving.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving.zip)
 
 
 ### Čtvrtá přednáška (21. 10.)
 
 * **Program:** Pojem tablo důkazu. Věty o korektnosti a úplnosti a jejich důsledky. Věta o kompaktnosti a její důsledky.
 * **Materiály:** Sekce 4.3-4.7 z Kapitoly 4 (Sekci 4.8 zatím přeskočíme)
-* **Prezentace:** [slides4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides4.pdf)
+* **Prezentace:** [slides4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides4.pdf), [handout4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout4.pdf)
 
 ### Pátá přednáška (4. 11.)
 
 * **Program:**  Rezoluční metoda, korektnost, úplnost. Úvod do predikátové logiky. Syntaxe predikátové logiky.
 * **Materiály:** Sekce 5.1-5.3 z Kapitoly 5 (Sekci 5.4 zatím přeskočíme), Sekce 6.1-6.3 z Kapitoly 6
-* **Prezentace:** [slides5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides5.pdf)
+* **Prezentace:** [slides5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides5.pdf), [handout5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout5.pdf)
 
 
 ### Šestá přednáška (11. 11.)
 
 * **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Extenze teorií, extenze o definice.
 * **Materiály:** Sekce 6.4-6.7 z Kapitoly 6
-* **Prezentace:** [slides6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides6.pdf)
+* **Prezentace:** [slides6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides6.pdf), [handout6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout6.pdf)
 
 ### Sedmá přednáška (18. 11.)
 
 * **Program:**  Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Tablo metoda v predikátové logice, jazyky s rovností.
 * **Materiály:** Sekce 6.8-6.9 z Kapitoly 6, Sekce 7.1-7.3 z Kapitoly 7
-* **Prezentace:** [slides7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides7.pdf)
+* **Prezentace:** [slides7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides7.pdf), [handout7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout7.pdf)
 
 ### Osmá přednáška (25. 11.)
 
 * **Program:** Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti. Hilbertovský kalkulus.
 * **Materiály:** Sekce 7.4, 7.5.2-7.5.3, Sekce 7.6 (+ Sekce 4.8) z Kapitoly 7 (Podsekci 7.5.1 zatím přeskočíme)
-* **Prezentace:** [slides8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides8.pdf)
+* **Prezentace:** [slides8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides8.pdf), [handout8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout8.pdf)
 
 ### Devátá přednáška (2. 12.)
 
 * **Program:**   Úvod do rezoluce v predikátové logice, Skolemizace, Grounding, Herbrandova věta.
 * **Materiály:** Sekce 8.1-8.3 z Kapitoly 8
-* **Prezentace:** [slides9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides9.pdf)
+* **Prezentace:** [slides9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides9.pdf), [handout9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout9.pdf)
 
 ### Desátá přednáška (9. 12.)
 
 * **Program:**  Unifikace, unifikační algoritmus. Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce.
 * **Materiály:** Sekce 8.4-8.6 z Kapitoly 8
-* **Prezentace:** [slides10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides10.pdf)
+* **Prezentace:** [slides10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides10.pdf), [handout10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout10.pdf)
 
 ### Jedenáctá přednáška (16. 12.)
 
 * **Program:**  LI-rezoluce a Prolog. Elementární ekvivalence. Izomorfismus a konečné modely. Definovatelnost a automorfismy. Omega-kategoricita a úplnost.
 * **Materiály:** Sekce 8.7 (+ Sekce 5.4) z Kapitoly 8, Sekce 9.1 (+ Podsekce 7.5.1), Sekce 9.2-9.3 z Kapitoly 9
-* **Prezentace:** [slides11.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides11.pdf)
+* **Prezentace:** [slides11.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides11.pdf), [handout11.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout11.pdf)
 
 ### Dvanáctá přednáška (6. 1.)
 
 * **Program:**   Axiomatizovatelnost. Rekurzivní axiomatizace a rozhodnutelnost. Nerozhodnutelnost predikátové logiky. Gödelovy věty o neúplnosti.
 * **Materiály:** Sekce 9.4 z Kapitoly 9, Kapitola 10
-* **Prezentace:** [slides12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides12.pdf), [slides13.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides13.pdf)
+* **Prezentace:** [slides12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides12.pdf), [handout12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout12.pdf)
 
 
 <!-- Fall 2023
