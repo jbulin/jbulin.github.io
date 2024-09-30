@@ -49,7 +49,7 @@ Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). 
 
 * Install Picat and try it out. (See [Getting started with Picat](http://picat-lang.org/download/get_started.pdf).)
 * Join our ReCodEx group. 
-* Solve the (ungraded) "Hello, world!" assignment.
+* Solve the (ungraded) "Hello, World!" assignment.
 * Let me know if you encounter any issues!
 
 ### 1st tutorial (Oct 3)
