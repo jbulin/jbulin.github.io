@@ -29,6 +29,19 @@ The solutions to the homework assignments must be 100% your own work. Do not dis
 ## ReCodEx and GitHub
 
 Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). The deadlines will be set to the beginning of the next tutorial, unless stated otherwise. Materials from the tutorial are posted below as PDFs. The source codes and live notebooks are available on [GitHub](https://github.com/jbulin-mff-uk/nopt042).
+
+## Resources
+
+* [Picat homepage](https://picat-lang.org)
+* [Getting started with Picat](http://picat-lang.org/download/get_started.pdf)
+* [Constraint solving and planning with Picat](https://picat-lang.org/picatbook2015.html)
+* [Modeling and Solving AI Problems in Picat
+(tutorial by R. Barták and N. Zhou)](http://ktiml.mff.cuni.cz/~bartak/AAAI2017/)
+* [CSPLib: A problem library for constraints](https://www.csplib.org)
+* [Håkan Kjellerstrand's Picat page](https://hakank.org/picat)
+* [The lecture by R. Barták](https://ktiml.mff.cuni.cz/~bartak/podminky)
+* [Previous tutorial by R. Barták in SICStus Prolog](https://ktiml.mff.cuni.cz/~bartak/podminky/#cviceni)
+* [Previous tutorial by me in MiniZinc](https://dl1.cuni.cz/course/view.php?id=10544)
     
 ## Tutorial schedule (will be updated)
 
@@ -112,24 +125,10 @@ Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). 
 * **Notebook:** [tutorial12.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial12/tutorial12.pdf)
 * **Homework:** Farmer
 
-
 ### 13th tutorial (Jan 9)
+
 * **Program:** Homework help
 * **Additional homework problems:** Packing, MCSP, Digest, Hanoi (due end of March)
-
-
-## Resources
-
-* [Picat homepage](https://picat-lang.org)
-* [Getting started with Picat](http://picat-lang.org/download/get_started.pdf)
-* [Constraint solving and planning with Picat](https://picat-lang.org/picatbook2015.html)
-* [Modeling and Solving AI Problems in Picat
-(tutorial by R. Barták and N. Zhou)](http://ktiml.mff.cuni.cz/~bartak/AAAI2017/)
-* [CSPLib: A problem library for constraints](https://www.csplib.org)
-* [Håkan Kjellerstrand's Picat page](https://hakank.org/picat)
-* [The lecture by R. Barták](https://ktiml.mff.cuni.cz/~bartak/podminky)
-* [Previous tutorial by R. Barták in SICStus Prolog](https://ktiml.mff.cuni.cz/~bartak/podminky/#cviceni)
-* [Previous tutorial by me in MiniZinc](https://dl1.cuni.cz/course/view.php?id=10544)
 
 
 ## Frequently asked questions (FAQ)
