@@ -56,7 +56,7 @@ Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). 
 
 * **Program:** Overview of Picat.
 * **Notebook:** [tutorial1.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.pdf)
-* **Homework:** Leaves (deadline extended by one week, until 2pm on Oct 16)
+* **Homework:** Leaves
 
 
 ### 2nd tutorial (Oct 10)
