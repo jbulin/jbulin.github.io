@@ -26,9 +26,18 @@ There will be 12 homework assignments each of which is worth 1 point. In order t
 
 The solutions to the homework assignments must be 100% your own work. Do not discuss them with anyone but me, do not search for solutions on the internet, and do not share your code.
 
-## ReCodEx and GitHub
+## ReCodEx
 
-Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). The deadlines will be set to the beginning of the next tutorial, unless stated otherwise. Materials from the tutorial are posted below as PDFs. The source codes and live notebooks are available on [GitHub](https://github.com/jbulin-mff-uk/nopt042).
+Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). The deadlines will be set to the beginning of the next tutorial, unless stated otherwise.
+
+## GitHub and Binder
+
+The source codes and live notebooks are available on GitHub, and hosted on Binder:
+
+* [GitHub repository](https://github.com/jbulin-mff-uk/nopt042)
+* [Binder docker](https://mybinder.org/v2/gh/jbulin-mff-uk/nopt042/HEAD) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbulin-mff-uk/nopt042/HEAD)
+
+The individual notebooks are also posted below as PDFs and HTML slides.
 
 ## Resources
 
@@ -55,7 +64,7 @@ Homework assignments will be posted in [ReCodEx](https://recodex.mff.cuni.cz/). 
 ### 1st tutorial (Oct 3)
 
 * **Program:** Overview of Picat.
-* **Notebook:** [tutorial1.pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.pdf)
+* **Notebook:** [tutorial1.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.pdf), [html](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.slides.html))
 * **Homework:** Leaves
 
 
