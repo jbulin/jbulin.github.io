@@ -68,7 +68,7 @@ Hotový projekt odevzdejte buď jako link na veřejný GitHub nebo GitLab repozi
 * [Clique Cover](https://en.wikipedia.org/wiki/Clique_cover)
 * [Cubic Subgraph](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 26)
 * [Degree-constrained Spanning Tree](https://en.wikipedia.org/wiki/Degree-constrained_spanning_tree)
-* [Domatic Number](https://en.wikipedialorg/wiki/Domatic_number)
+* [Domatic Number](https://en.wikipedia.org/wiki/Domatic_number)
 * [Exact Cover](https://en.wikipedia.org/wiki/Exact_cover)
 * [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism_problem)
 * [Graph Partitioning](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 25)
