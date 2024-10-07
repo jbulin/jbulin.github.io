@@ -52,22 +52,26 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 ### 3. cvičení (17. 10.)
 
 * **Program:** Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
-* **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady3.pdf), [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/tutorial/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup)
+* **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady3.pdf), [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/tutorial/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup), viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example)
+
 
 ### 4. cvičení (24. 10.)
 
 * **Program:** Tablo metoda ve výrokové logice. Věta o kompaktnosti a její aplikace.
-* **Materiály:** [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady4.pdf)
+* **Materiály:** [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady4.pdf), [reseni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni4.pdf)
+
 
 ### 5. cvičení (31. 10.)
 
 * **Program:** (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady)
 * **Materiály:** (pokračujeme v [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady4.pdf))
 
+
 ### 6. cvičení (7. 11.)
 
 * **Program:** Rezoluce ve výrokové logice.
-* **Materiály:** [priklady5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady5.pdf)
+* **Materiály:** [priklady5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady5.pdf), [reseni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni5.pdf)
+
 
 ### 7. cvičení (14. 11.)
 

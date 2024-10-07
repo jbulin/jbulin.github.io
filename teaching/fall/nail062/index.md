@@ -48,7 +48,7 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 
 * **Program:** Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Úvod do metody analytického tabla.
 * **Materiály:** Kapitola 3, Sekce 4.1-4.2 z Kapitoly 4
-* **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), [handout3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout3.pdf), ukázka SAT solveru: [sat-solving.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving.zip)
+* **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), [handout3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout3.pdf), ukázka SAT solveru: [sat-solving-example.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) (viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example))
 
 
 ### Čtvrtá přednáška (21. 10.)
