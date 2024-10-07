@@ -52,7 +52,7 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 ### 3. cvičení (17. 10.)
 
 * **Program:** Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
-* **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady3.pdf), [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/blob/main/lecture/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup), viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example)
+* **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady3.pdf), [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup), viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example)
 
 
 ### 4. cvičení (24. 10.)
