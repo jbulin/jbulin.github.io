@@ -19,7 +19,7 @@ nebo individuálně po předchozí domluvě (napište mi email), budou k dispozi
 
 Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek (aktualizované pro ZS 2024/2025):
 
-* [Informace o zkouškách](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/informace-o-zkouskach.pdf)
+* [Informace o zkouškách](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
 
 
 ## Program přednášek (bude aktualizováno)
