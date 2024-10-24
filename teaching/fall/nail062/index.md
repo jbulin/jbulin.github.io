@@ -15,13 +15,12 @@ Konzultační hodiny:
 
 nebo individuálně po předchozí domluvě (napište mi email), budou k dispozici další dvě hodiny týdně.
 
-## Informace o zkouškách: budou zveřejněny později
+## Informace o zkouškách
 
-<!--
-Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek (aktualizované pro ZS 2023/2024):
+Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek (aktualizované pro ZS 2024/2025):
 
-* [Informace o zkouškách](files/info-o-zkouskach.pdf)
--->
+* [Informace o zkouškách](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/about-exams.pdf)
+
 
 ## Program přednášek (bude aktualizováno)
 

@@ -77,7 +77,7 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 * **Termín odevzdání Domácího úkolu z výrokové logiky**
 * **Program:** Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky. 
-* **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf)
+* **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf), [reseni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni6.pdf)
 
 ### 8. cvičení (21. 11.)
 
