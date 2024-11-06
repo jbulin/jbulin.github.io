@@ -65,20 +65,20 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 
 ### Šestá přednáška (11. 11.)
 
-* **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. Extenze teorií, extenze o definice.
-* **Materiály:** Sekce 6.4-6.7 z Kapitoly 6
+* **Program:** Sémantika predikátové logiky. Vlastnosti teorií. Podstruktury, expanze a redukty. 
+* **Materiály:** Sekce 6.4-6.6 z Kapitoly 6
 * **Prezentace:** [slides6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides6.pdf), [handout6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout6.pdf)
 
 ### Sedmá přednáška (18. 11.)
 
-* **Program:**  Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Tablo metoda v predikátové logice, jazyky s rovností.
-* **Materiály:** Sekce 6.8-6.9 z Kapitoly 6, Sekce 7.1-7.3 z Kapitoly 7
+* **Program:**  Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Tablo metoda v predikátové logice, jazyky s rovností.
+* **Materiály:** Sekce 6.7-6.9 z Kapitoly 6, Sekce 7.1-7.3 z Kapitoly 7
 * **Prezentace:** [slides7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides7.pdf), [handout7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout7.pdf)
 
 ### Osmá přednáška (25. 11.)
 
-* **Program:** Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti. Hilbertovský kalkulus.
-* **Materiály:** Sekce 7.4, 7.5.2-7.5.3, Sekce 7.6 (+ Sekce 4.8) z Kapitoly 7 (Podsekci 7.5.1 zatím přeskočíme)
+* **Program:** Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti, Löwenheim-Skolemova věta. Hilbertovský kalkulus.
+* **Materiály:** Sekce 7.4-7.6 (+ Sekce 4.8) z Kapitoly 7
 * **Prezentace:** [slides8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides8.pdf), [handout8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout8.pdf)
 
 ### Devátá přednáška (2. 12.)
