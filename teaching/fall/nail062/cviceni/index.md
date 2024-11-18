@@ -89,23 +89,23 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 * blíží termín odevzdání projektu na SAT solver
 * **Program:** Struktury a podstruktury. Extenze teorií. Extenze o definice. Definovatelné množiny.
-* **Materiály:** [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady7.pdf)
+* **Materiály:** [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady7.pdf), [reseni7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni7.pdf)
 
 ### 10. cvičení (5. 12.)
 
 * **Program:**   Tablo metoda v predikátové logice, jazyky s rovností.  Aplikace Věty o kompaktnosti. 
-* **Materiály:** [priklady8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady8.pdf)
+* **Materiály:** [priklady8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady8.pdf), [reseni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni8.pdf)
 
 ### 11. cvičení (12. 12.)
 
 * **Program:** Převod do PNF. Skolemizace. Herbrandova věta. Unifikace.
-* **Materiály:** [priklady9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady9.pdf)
+* **Materiály:** [priklady9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady9.pdf), [reseni9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni9.pdf)
 
 ### 12. cvičení (19. 12.)
 
 * **Termín odevzdání Domácího úkolu z predikátové logiky**
 * **Program:** Rezoluce v predikátové logice.
-* **Materiály:** [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf)
+* **Materiály:** [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf), [reseni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni10.pdf)
 
 ### 13. cvičení (9. 1.)
 
