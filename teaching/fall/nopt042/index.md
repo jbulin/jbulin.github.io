@@ -101,7 +101,7 @@ The individual notebooks are also posted below as PDFs and HTML slides.
 ### 7th tutorial (Nov 14)
 
 * **Program:** Rostering
-* **Notebook:** [tutorial7.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial8.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial7/tutorial7.slides.html))
+* **Notebook:** [tutorial7.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial7/tutorial7.slides.html))
 * **Homework:** Feast
 
 ### 8th tutorial (Nov 21)
