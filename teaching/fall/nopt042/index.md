@@ -94,43 +94,43 @@ The individual notebooks are also posted below as PDFs and HTML slides.
 
 ### 6th tutorial (Nov 7)
 
-* **Program:** Modeling functions. Scheduling, the cummulative constraint
+* **Program:** Modeling functions. Scheduling, the cummulative constraint.
 * **Notebook:** [tutorial6.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial6/tutorial6.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial6/tutorial6.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial6/tutorial6.slides.html))
 * **Homework:** Moving
 
 ### 7th tutorial (Nov 14)
 
-* **Program:** Rostering
+* **Program:** Rostering problems. Global constraints based on finite automata.
 * **Notebook:** [tutorial7.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial7/tutorial7.slides.html))
 * **Homework:** Feast
 
 ### 8th tutorial (Nov 21)
 
-* **Program:** Routing
+* **Program:** Global constraints. Routing.
 * **Notebook:** [tutorial8.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial8/tutorial8.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial8/tutorial8.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial8/tutorial8.slides.html))
 * **Homework:** Routing
 
 ### 9th tutorial (Nov 28)
 
-* **Program:** Implicit constraints
+* **Program:** Implicit constraints.
 * **Notebook:** [tutorial9.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial9/tutorial9.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial9/tutorial9.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial9/tutorial9.slides.html))
 * **Homework:** Life
 
 ### 10th tutorial (Dec 5)
 
-* **Program:** Modeling with sets
+* **Program:** Modeling with sets.
 * **Notebook:** [tutorial10.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial10/tutorial10.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial10/tutorial10.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial10/tutorial10.slides.html))
 * **Homework:** Golfers
 
 ### 11th tutorial (Dec 12)
 
-* **Program:** Tabling
+* **Program:** Tabling with Picat.
 * **Notebook:** [tutorial11.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial11/tutorial11.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial11/tutorial11.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial11/tutorial11.slides.html))
 * **Homework:** Triangle
 
 ### 12th tutorial (Dec 19)
 
-* **Program:** Planning
+* **Program:** Planning with Picat.
 * **Notebook:** [tutorial12.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial12/tutorial12.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial12/tutorial12.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial12/tutorial12.slides.html))
 * **Homework:** Farmer
 
