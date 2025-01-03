@@ -1,7 +1,6 @@
 ---
-title: "Home"
+title: "Personal academic website of Jakub Bulín"
 ---
-
 
 # About me
 
@@ -20,6 +19,10 @@ I am one of the logicians in [this picture](files/me.jpg).
 Office hours: as scheduled at the beginning of each semester; or make an appointment!
 
 # Teaching
+
+### Theses and projects
+
+I offer bachelor and master theses in theoretical computer science and/or artificial intelliegence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
 
 ### Fall 2024
 
@@ -42,14 +45,11 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
 
-
-### Theses and projects
-
-I can offer theses in theoretical computer science as well as several research software projects. Informal inquiries are most welcome!
-
 # Research
 
 > My primary research interests lie in the intersection of theoretical computer science, computational logic, and universal algebra. A majority of my work is concerned with the complexity of the constraint satisfaction problem. I am also interested in constraint modeling, automated theorem proving, and artificial intelligence.
+
+I am the PI of [COLA:ULOM](research/cola-ulom/), where we study constraint languages using logical methods under the Czech Science Foundation standard project 25-16324S.
 
 <!--
 ### Current talks:
