@@ -2,7 +2,7 @@
 title: "NTIN071 Automata and Grammars"
 ---
 
-# NTIN071 Automata and Grammars (Spring 2024)
+# NTIN071 Automata and Grammars (Spring 2025)
 
 This is the webpage of the English lecture taught by Jakub Bulín.
 
@@ -13,9 +13,7 @@ This is the webpage of the English lecture taught by Jakub Bulín.
 
 Office hours during the teaching period  (in S303):
 
-* Monday 12:20
-* Wednesday 14:00 (on May 22 cancelled due to the exam)
-* Thursday 15:40
+* TBA
 
 or individually by appointment. (If you plan to come but expect to be late, please email me.)
 
@@ -23,74 +21,77 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 
 ## Info about exams
 
+Will be specified later.
+<!--
 Information about exams, including a list of exam questions:
 
 * [about-exams-2024.pdf](about-exams-2024.pdf)
+-->
 
 ## Tentative schedule
 
-### Lecture 1 (Feb 19)
+### Lecture 1 (Feb 17)
 
 * **Program:**  Introduction, Deterministic Finite Automaton, Regular Languages, Pumping Lemma
 * **Slides:** [slides1.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides1.pdf)
 
-### Lecture 2 (Feb 26)
+### Lecture 2 (Feb 24)
 
 * **Program:** Myhill–Nerode theorem, Equivalent and Minimal Representations
 * **Slides:** [slides2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides2.pdf)
 
-### Lecture 3 (Mar 4)
+### Lecture 3 (Mar 3)
 
 * **Program:** Nondeterminism, Closure properties
 * **Slides:** [slides3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides3.pdf)
 
-### Lecture 4 (Mar 11)
+### Lecture 4 (Mar 10)
 
 * **Program:** Regular expressions, Kleene's theorem, String substitution
 * **Slides:** [slides4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides4.pdf)
 * **Addendum:** [2way-and-output-automata.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/2way-and-output-automata.pdf)
 
-### Lecture 5 (Mar 18)
+### Lecture 5 (Mar 17)
 
 * **Program:** Grammars, Regular and context-free grammars
 * **Slides:** [slides5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides5.pdf)
 
-### Lecture 6 (Mar 25)
+### Lecture 6 (Mar 24)
 
 * **Program:** Chomsky normal form, Pumping lemma for context-free languages
 * **Slides:** [slides6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides6.pdf)
 
-### Lecture 7 (Apr 8)
+### Lecture 7 (Mar 31)
 
 * **Program:** The CYK algorithm, Pushdown automata
 * **Slides:** [slides7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides7.pdf)
 
-### Lecture 8 (Apr 15)
+### Lecture 8 (Apr 7)
 
 * **Program:** Equivalence of PDA and CFG, Deterministic PDA
 * **Slides:** [slides8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides8.pdf)
 
-### Lecture 9 (Apr 22)
+### Lecture 9 (Apr 14)
 
 * **Program:** Closure properties of context-free languages, Dyck languages
 * **Slides:** [slides9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides9.pdf)
 
-### Lecture 10 (Apr 29)
+### Lecture 10 (Apr 28)
 
 * **Program:** Turing Machines
 * **Slides:** [slides10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides10.pdf)
 
-### Lecture 11 (May 6)
+### Lecture 11 (May 5)
 
 * **Program:** TMs and Grammars, Linear-bounded automata and CFG, Intro to Computability theory
 * **Slides:** [slides11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides11.pdf)
 
-### Lecture 12 (May 13)
+### Lecture 12 (May 12)
 
 * **Program:** Universal TM, Diagonal language, Post's theorem. Undecidable problems, Post's correspondence problem
 * **Slides:** [slides12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides12.pdf)
 
-### Lecture 13 (May 20)
+### Lecture 13 (May 19)
 
 * **Program:** Intro to Complexity theory
 * **Slides:** [slides13.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides13.pdf)

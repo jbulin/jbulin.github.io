@@ -2,15 +2,13 @@
 title: "NTIN071 Automata and grammars: tutorial"
 ---
 
-# NTIN071 Automata and grammars: tutorial (Spring 2024)
+# NTIN071 Automata and grammars: tutorial (Spring 2025)
 
-This page contains information about my English tutorial class (Thursday 2pm in S11). If you are enrolled in Dr. Kuboň's class (Tuesday 9am in S11), refer to him for information about your class.
+This page contains information about my English tutorial class (Monday 3:40pm in S11). If you are enrolled in Dr. Kuboň's class (Tuesday 2pm in S11), refer to him for information about your class.
 
 Office hours during the teaching period  (in S303):
 
-* Monday 12:20
-* Wednesday 14:00 (on May 22 cancelled due to the exam)
-* Thursday 15:40
+* TBA
 
 or individually by appointment. (If you plan to come but expect to be late, please email me.)
 
@@ -19,90 +17,85 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 ## Credit requirements
 
 * Detailed requirements to obtain the credit are described [here](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/credit-requirements.txt).
-* **Homework assignment:** due on May 9 at the beginning of class, [homework.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/homework.pdf)
-* **Test:** the date is May 16, [list-of-requirements.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/list-of-requirements.pdf), [sample-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/sample-test.pdf)
+* **Homework assignment:** due on May 5 at the beginning of class, [homework.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/homework.pdf)
+* **Test:** the date is May 12, [list-of-requirements.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/list-of-requirements.pdf), [sample-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/sample-test.pdf)
 
+## Program (will be updated)
 
-## Program
-
-### 1st class (Feb 22)
+### 1st class (Feb 17)
 
 * **Program:** Deterministic finite automaton, recognized language, regular languages
 * **Worksheet:** [tutorial1.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial1.pdf)
 
-### 2nd class (Feb 29)
+### 2nd class (Feb 24)
 
 * **Program:** Pumping lemma, Myhill-Nerode theorem
 * **Worksheet:** [tutorial2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial2.pdf)
 
-### 3rd class (Mar 7)
+### 3rd class (Mar 3)
 
 * **Program:** Equivalent and minimal representations, testing properties, nondeterminism, closure under operations
 * **Worksheet:** [tutorial3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial3.pdf)
 
-### 4th class (Mar 14)
+### 4th class (Mar 10)
 
 * **Program:** Finish leftovers from the previous class
 * **Worksheet:** Continue with [tutorial3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial3.pdf) <!--[tutorial4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial4.pdf)-->
 
-### 5th class (Mar 21)
+### 5th class (Mar 17)
 
 * **Program:** More on closure properties.
 * **Worksheet:** the rest of the previous worksheet and Problem 1 in [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
 
-### 6th class (Mar 28)
+### 6th class (Mar 24)
 
-* **Program:** Regular expressions 
+* **Program:** Regular expressions
 * **Worksheet:** problems 2-6 from [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
 
-### 7th class (Apr 4)
+### 7th class (Mar 31)
 
 * **Program:** Formal grammars, regular and context-free grammars, bonus: 2-way automata
 * **Worksheet:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial7.pdf)
 
-### 8th class (Apr 11)
+### 8th class (Apr 7)
 
 * **Program:** Chomsky normal form, The CYK algorithm
 * **Worksheet:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial8.pdf)
 
-### 9th class (Apr 18)
+### 9th class (Apr 14)
 
 * **Program:** Pumping lemma for context-free languages
 * **Worksheet:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial9.pdf)
 
-### 10th class (Apr 25)
+### 10th class (Apr 28)
 
 * **Program:** Pushdown automata
 * **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
 
-### 11th class (May 2)
+### 11th class (May 5)
 
+* **Program:** Homework due date!
 * **Program:** Coversion between PDA and CFG
 * **Worksheet:** Continue working on tutorial10.pdf, then[tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
 
-### 12th class (May 9)
-
-* **Program:** Homework due date! Turing Machines
-<* **Worksheet:** Continue working on tutorial11.pdf <!--[tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)-->
-
-### 13th class (May 16)
+### 12th class (May 12)
 
 * **Program:** The test!
+<!--* **Worksheet:** Continue working on tutorial11.pdf <!--[tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)-->
 
-### 14th class (May 23)
+### 13th class (May 19)
 
-* **Program:** More about TMs, Intro to complexity theory
+* **Program:** Turing Machines, Intro to complexity theory
 * **Worksheet:** Continue working on tutorial11.pdf <!--[tutorial14.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial14.pdf)-->
 
 ## Useful links
 
+* [The lecture](../)
 * [Turing Machine Simulator](https://turingmachinesimulator.com/)
 * [Finite State Machine designer](http://madebyevan.com/fsm/)
-
 
 ## Frequently asked questions (FAQ)
 
 * _What should I do if I have a question?_ --- Check the FAQ. If you don't see the answer here email me putting "ntin071" and "tutorial" in the subject.
 * _What if I want a consultation?_ --- Talk to me after class, come to the scheduled office hours, or email me to arrange an appointment.
 * _Are the tutorials streamed or recorded?_ --- No, but a plenty of office hours time is available for those who miss a class. Use it!
-
