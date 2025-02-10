@@ -4,9 +4,9 @@ title: "NTIN071 Automata and Grammars"
 
 # NTIN071 Automata and Grammars (Spring 2025)
 
-This is the webpage of the English lecture taught by Jakub Bulín.
+This is the webpage of the English lecture (Monday, 12:20pm in S3) taught by Jakub Bulín.:
 
-* 🇬🇧 The lecture is accompanied by a tutorial. The website for my tutorial class is [here](tutorial/). If you are enrolled in the tutorial class of [Vladislav Kuboň](https://ufal.mff.cuni.cz/vladislav-kubon), please direct all questions regarding the tutorial and the credit to him.
+* 🇬🇧 The lecture is accompanied by a tutorial. The website for my tutorial class (Monday, 3:40pm in S11) is [here](tutorial/). If you are enrolled in the tutorial class of [Vladislav Kuboň](https://ufal.mff.cuni.cz/vladislav-kubon), (Tuesday, 2pm in S11), please direct all questions regarding the tutorial and the credit to him.
 * 🇨🇿 Informace o českých cvičeních Jakuba Bulína najdete [zde](cviceni/).
 * 🇨🇿 Česká přednáška Marty Vomlelové sídlí [zde](https://dl1.cuni.cz/course/view.php?id=5119).
 
@@ -22,10 +22,13 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 ## Info about exams
 
 Will be specified later.
+
 <!--
+
 Information about exams, including a list of exam questions:
 
 * [about-exams-2024.pdf](about-exams-2024.pdf)
+
 -->
 
 ## Tentative schedule
