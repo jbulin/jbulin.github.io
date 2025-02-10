@@ -25,12 +25,12 @@ Konzultace během zkouškového období rozvrhujeme dle potřeby - napište mi v
 
 ### 1. cvičení (21. 2.)
 
-* **Program:** Deterministický konečný automat, rozpoznávaný jazyk
+* **Program:** Deterministický konečný automat, rozpoznávaný jazyk, regulární jazyky
 * **Materiály:** [cviceni1.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni1.pdf)
 
 ### 2. cvičení (28. 2.)
 
-* **Program:** Regulární jazyky, Pumping lemma
+* **Program:** Pumping lemma, Myhill-Nerodeova věta
 * **Materiály:** [cviceni2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni2.pdf)
 
 ### 3. cvičení (7. 3.)
