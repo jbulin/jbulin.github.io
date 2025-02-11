@@ -29,64 +29,63 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 
 ### 2nd class (Feb 24)
 
-* **Program:** Pumping lemma, Myhill-Nerode theorem
+* **Program:** Pumping Lemma, Myhill-Nerode theorem
 * **Worksheet:** [tutorial2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial2.pdf)
 
 ### 3rd class (Mar 3)
 
-* **Program:** Equivalent and minimal representations, testing properties, nondeterminism, closure under operations
+* **Program:** Equivalent and minimal representations, testing properties, nondeterminism, subset construction
 * **Worksheet:** [tutorial3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial3.pdf)
 
 ### 4th class (Mar 10)
 
-* **Program:** Finish leftovers from the previous class
-* **Worksheet:** Continue with [tutorial3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial3.pdf) <!--[tutorial4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial4.pdf)-->
+* **Program:** Closure properties of regular languages
+* **Worksheet:** [tutorial4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial4.pdf)
 
 ### 5th class (Mar 17)
 
-* **Program:** More on closure properties.
-* **Worksheet:** the rest of the previous worksheet and Problem 1 in [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
+* **Program:** Regular expressions (bonus: 2-way automata)
+* **Worksheet:** [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
 
 ### 6th class (Mar 24)
 
-* **Program:** Regular expressions
-* **Worksheet:** problems 2-6 from [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
+* **Program:** Formal grammars, regular and context-free grammars
+* **Worksheet:** [tutorial6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial6.pdf)
 
 ### 7th class (Mar 31)
 
-* **Program:** Formal grammars, regular and context-free grammars, bonus: 2-way automata
+* **Program:** Chomsky normal form, The CYK algorithm
 * **Worksheet:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial7.pdf)
 
 ### 8th class (Apr 7)
 
-* **Program:** Chomsky normal form, The CYK algorithm
+* **Program:** Pumping lemma for context-free languages
 * **Worksheet:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial8.pdf)
 
 ### 9th class (Apr 14)
 
-* **Program:** Pumping lemma for context-free languages
+* **Program:** Pushdown automata
 * **Worksheet:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial9.pdf)
 
 ### 10th class (Apr 28)
 
-* **Program:** Pushdown automata
+* **Program:** Coversion between PDA and context-free grammars
 * **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
 
 ### 11th class (May 5)
 
-* **Program:** Homework due date!
-* **Program:** Coversion between PDA and CFG
-* **Worksheet:** Continue working on tutorial10.pdf, then[tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
+* **Homework due date!**
+* **Program:** Turing Machines
+* **Worksheet:** [tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
 
 ### 12th class (May 12)
 
-* **Program:** The test!
-<!--* **Worksheet:** Continue working on tutorial11.pdf <!--[tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)-->
+* **The test!**
 
 ### 13th class (May 19)
 
-* **Program:** Turing Machines, Intro to complexity theory
-* **Worksheet:** Continue working on tutorial11.pdf <!--[tutorial14.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial14.pdf)-->
+* **Program:** Intro to complexity theory
+* **Worksheet:** [tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)
 
 ## Useful links
 

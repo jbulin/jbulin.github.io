@@ -35,57 +35,58 @@ Konzultace během zkouškového období rozvrhujeme dle potřeby - napište mi v
 
 ### 3. cvičení (7. 3.)
 
-* **Program:** Myhill-Nerodeova věta, ekvivalentní a minimální reprezentace, testování vlastností
+* **Program:** Ekvivalentní a minimální reprezentace, testování vlastností, nedeterminismus, podmnožinová konstrukce
 * **Materiály:** [cviceni3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni3.pdf)
 
 ### 4. cvičení (14. 3.)
 
-* **Program:** Nedeterminismus, uzavřenost na operace
+* **Program:** Uzávěrové vlastnosti regulárních jazyků
 * **Materiály:** [cviceni4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni4.pdf)
 
 ### 5. cvičení (21. 3.)
 
-* **Program:** Uzavřenost na operace
-* **Materiály:** zbylé příklady z [cviceni4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni4.pdf)
+* **Program:** Regulární výrazy (bonus: dvousměrné automaty)
+* **Materiály:** [cviceni5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni5.pdf)
 
 ### 6. cvičení (28. 3.)
 
-* **Program:** Regulární výrazy
+* **Program:** Formální gramatiky, regulární a bezkontextové gramatiky
 * **Materiály:** [cviceni6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni6.pdf)
 
 ### 7. cvičení (4. 4.)
 
-* **Program:** Formální gramatiky, regulární a bezkontextové gramatiky, bonus: dvousměrné automaty
+* **Program:** Chomského normální forma, Algoritmus CYK 
 * **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni7.pdf)
 
 ### 8. cvičení (11. 4.)
 
-* **Program:** Chomského normální forma, Algoritmus CYK
+* **Program:** Pumping lemma pro bezkontextové jazyky
 * **Materiály:** [cviceni8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni8.pdf)
 
 ### 9. cvičení (25. 4.)
 
-* **Program:** Pumping lemma pro bezkontextové jazyky
+* **Program:** Zásobníkové automaty
 * **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni9.pdf)
 
 ### 10. cvičení (2. 5.)
 
-* **Program:** Zásobníkové automaty
+* **Program:** Převod mezi PDA a bezkontextovými gramatikami
 * **Materiály:** [cviceni10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni10.pdf)
 
 ### 11. cvičení (9. 5.)
 
-* **Program:** Termín odevzdání domácího úkolu! Turingovy stroje
+* **Termín odevzdání domácího úkolu!**
+* **Program:** Turingovy stroje
 * **Materiály:** [cviceni11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni11.pdf)
 
 ### 12. cvičení (16. 5.)
 
-* **Program:** Zápočtový test!
+* **Zápočtový test!**
 
 ### 13. cvičení (23. 5.)
 
-* **Program:** Více o Turingových strojích, úvod do výpočetní složitosti
-* **Materiály:** Pokračujeme v cviceni11.pdf <!--[cviceni13.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni13.pdf)-->
+* **Program:** Úvod do výpočetní složitosti
+* **Materiály:** [cviceni12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni12.pdf)
 
 ## Užitečné odkazy
 
