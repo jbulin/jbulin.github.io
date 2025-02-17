@@ -13,7 +13,8 @@ This is the webpage of the English lecture (Monday, 12:20pm in S3) taught by Jak
 
 Office hours during the teaching period  (in S303):
 
-* TBA
+* Monday 2pm
+* Friday 12:20pm
 
 or individually by appointment. (If you plan to come but expect to be late, please email me.)
 

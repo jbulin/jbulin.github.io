@@ -8,7 +8,8 @@ This page contains information about my English tutorial class (Monday 3:40pm in
 
 Office hours during the teaching period  (in S303):
 
-* TBA
+* Monday 2pm
+* Friday 12:20pm
 
 or individually by appointment. (If you plan to come but expect to be late, please email me.)
 

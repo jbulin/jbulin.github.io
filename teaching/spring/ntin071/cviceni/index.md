@@ -8,9 +8,10 @@ Zde najdete informace k mým českým cvičením (Pátek 9:00 a 10:40 v S6).
 
 Konzultační hodiny během výuky (v S303):
 
-* určíme začátkem semestru (po rozvržení výběrovek)
+* pondělí 14:00
+* pátek 12:20
 
-nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít později, prosím napište.) 
+nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít později, prosím napište.)
 
 Konzultace během zkouškového období rozvrhujeme dle potřeby - napište mi v dostatečném předstihu své časové možnosti.
 
@@ -19,7 +20,6 @@ Konzultace během zkouškového období rozvrhujeme dle potřeby - napište mi v
 * Podmínky pro získání zápočtu jsou popsány [zde](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/zapocet.txt).
 * **Domácí úkol:** termín odevzdání 9. 5. na začátku cvičení, zadání: [domaci-ukol.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/domaci-ukol.pdf)
 * **Zápočtový test:** termín 16. 5., [seznam-pozadavku.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/seznam-pozadavku.pdf), [vzorovy-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/vzorovy-test.pdf)
-
 
 ## Program cvičení
 
@@ -55,7 +55,7 @@ Konzultace během zkouškového období rozvrhujeme dle potřeby - napište mi v
 
 ### 7. cvičení (4. 4.)
 
-* **Program:** Chomského normální forma, Algoritmus CYK 
+* **Program:** Chomského normální forma, Algoritmus CYK
 * **Materiály:** [cviceni7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni7.pdf)
 
 ### 8. cvičení (11. 4.)

@@ -16,7 +16,7 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 
 ## Tentative schedule
 
-* Lecture 1: Introduction. Modeling using Integer programming. 
+* Lecture 1: Introduction. Modeling using Integer programming.
 * Lecture 2: Linear programming basics, the simplex method, duality, complementary slackness.
 * Lecture 3: Branch and bound
 * Lecture 4: Cutting plane algorithms, lazy constraint generation
@@ -27,7 +27,6 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 * Lecture 9: Column generation 2
 * Lecture 10: Branch-cut-and-price
 * Lecture 11: Multi-objective optimization
-
 
 ## Resources
 
