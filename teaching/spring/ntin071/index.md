@@ -105,7 +105,7 @@ Information about exams, including a list of exam questions:
 
 * [Online copy of Hopcroft's textbook](https://sfx.is.cuni.cz/sfxlcl3?sid=shorturl&isbn=978-1-292-05616-6) "Introduction to Automata Theory, Languages, and Computation" (3rd edition); several physical copies are available in the library as well.
 * [Sipser's textbook](https://cuni.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990018965740106986&context=L&vid=420CKIS_INST:UKAZ&lang=cs&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Everything&query=any,contains,sipser&sortby=date_d&facet=frbrgroupid,include,9006766773593542102&mode=basic&offset=0) "Introduction to the theory of computation" (3rd edition), a physical copy is in the library
-* [NTIN071 in the SIS](https://is.cuni.cz/studium/eng/)
+* [NTIN071 in the SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NTIN071)
 * [Turing Machine Simulator](https://turingmachinesimulator.com/)
 * [Finite State Machine designer](http://madebyevan.com/fsm/)
 
