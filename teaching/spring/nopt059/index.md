@@ -14,25 +14,109 @@ The aim of course is to introduce the main principles of various exact optimizat
 
 We expect you to be somewhat familiar with linear programming. Although certainly not necessary, a recommended prerequisite is the course [NOPT048 Linear programming and combinatorial optimization](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT048).
 
-## Tentative schedule
-
-* Lecture 1: Introduction. Modeling using Integer programming.
-* Lecture 2: Linear programming basics, the simplex method, duality, complementary slackness.
-* Lecture 3: Branch and bound
-* Lecture 4: Cutting plane algorithms, lazy constraint generation
-* Lecture 5: Strong valid inequalities
-* Lecture 6: Lagrangian duality 1
-* Lecture 7: Lagrangian duality 2
-* Lecture 8: Column generation 1
-* Lecture 9: Column generation 2
-* Lecture 10: Branch-cut-and-price
-* Lecture 11: Multi-objective optimization
-
 ## Resources
 
 * [Webpage of the tutorial](https://ktiml.mff.cuni.cz/~fink/teaching/) (taught by Jirka Fink)
 * [This course in the SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT059)
-* [The book](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.oth1) that covers a majority of the course material: Laurence Wolsey, Integer programming, 2nd edition. Wiley 2020.
+* [wolsey](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.oth1) The book __Laurence Wolsey, Integer programming, 2nd edition, Wiley 2020__ covers a majority of the course material
+* [matousek](https://link.springer.com/book/10.1007/978-3-540-30717-4) If you need a referecne for basics of Linear programming theory, you can refer to, for example, __Jiří Matoušek, Bernd Gärtner, Understanding and Using Linear Programming, Springer 2007__
+
+
+## Tentative schedule
+
+
+### Lecture 0 - Linear programming basics.
+
+Linear programs
+
+- systems of linear equations vs. linear programs
+- canonical and equational form
+- geometry of linear programs
+- convexity, polyhedron, polytope
+- Minkowski-Weyl Theorem
+
+Simplex method
+
+- geometric intuition
+- basic feasible solutions
+
+Duality of linear programming
+
+- intuition
+- primal and dual programs
+- weak and strong duality theorems
+- complementary slackness
+- weak/strong-dual pair of problems in general
+- example: maximum cardinality matching vs. minimum cardinality covering
+
+**Resources:** any textbook on linear programming, e.g. [matousek], and [wolsey] 2.5-6
+
+
+### Lecture 1 - Introduction. Modeling using Integer programming.
+
+Introduction
+
+- Discrete optimization, examples
+- Exact methods vs. metaheuristics
+
+Modeling using Integer programming
+
+- integer linear program, mixed integer program, 0-1 integer program
+- modeling fixed costs, disjunction
+- good, better, ideal formulation _(later: lazy constraint generation)_
+- example: travelling salesman problem (subtour elimination constraints) 
+
+**Resources:** [wolsey] 1.1-1.7
+
+
+### Lecture 2 - Branch and bound
+
+Optimality and relaxation
+
+- primal and dual bounds
+- relaxation
+- droping constraints (example: knapsack)
+- linear programming relaxation
+- _(later: Lagrangian relaxation)_
+
+Branch and bound
+
+- divide and conquer, branching, search tree
+- pruning (by optimality, by bounds)
+- example: knapsack (primal bound: greedy heuristic, dual bound: drop weight constraint/LP-relaxation)
+- node selection: DFS, BFS, best-first, least-discrepancy
+- implementation: store list of active nodes, global bounds
+
+LP-based B&B
+- branching strategy: most fractional variable
+- store dual basis, after adding branching inequality still dual-feasible, easy to reoptimize
+- example
+- _(later: Branch-and-cut)_
+
+**Resources:** [wolsey] 2.1-2.3, 7.1-4
+
+
+### Lecture 3 - Cutting plane algorithms, Gomory's algorithm.
+
+TBA
+
+**Resources:** [wolsey] 8.1-8.3, 8.6-8.7
+
+
+### Lecture 4 - Strong valid inequalities
+
+TBA
+
+**Resources:** [wolsey] 9.1-3, 9.5-6
+
+
+### Lecture 5 - Lagrangian duality 1
+### Lecture 6 - Lagrangian duality 2
+### Lecture 7 - Column generation 1
+### Lecture 8 - Column generation 2
+### Lecture 9 - Branch-cut-and-price
+### Lecture 10 - Selected applications
+
 
 ## Exam requirements
 
