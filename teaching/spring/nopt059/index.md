@@ -88,7 +88,7 @@ Branch and bound
 - implementation: store list of active nodes, global bounds
 
 LP-based B&B
-- branching strategy: most fractional variable
+- branching strategy (most fractional variable, estimating pseudocosts)
 - store dual basis, after adding branching inequality still dual-feasible, easy to reoptimize
 - example
 - _(later: Branch-and-cut)_
