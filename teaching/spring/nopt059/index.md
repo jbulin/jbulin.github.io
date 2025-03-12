@@ -21,102 +21,114 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 * [wolsey](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.oth1) The book __Laurence Wolsey, Integer programming, 2nd edition, Wiley 2020__ covers a majority of the course material
 * [matousek](https://link.springer.com/book/10.1007/978-3-540-30717-4) If you need a referecne for basics of Linear programming theory, you can refer to, for example, __Jiří Matoušek, Bernd Gärtner, Understanding and Using Linear Programming, Springer 2007__
 
-
 ## Tentative schedule
 
-
-### Lecture 0 - Linear programming basics.
+### Lecture 0 - Linear programming basics
 
 Linear programs
 
-- systems of linear equations vs. linear programs
-- canonical and equational form
-- geometry of linear programs
-- convexity, polyhedron, polytope
-- Minkowski-Weyl Theorem
+* systems of linear equations vs. linear programs
+* canonical and equational form
+* geometry of linear programs
+* convexity, polyhedron, polytope
+* Minkowski-Weyl Theorem
 
 Simplex method
 
-- geometric intuition
-- basic feasible solutions
+* geometric intuition
+* basic feasible solutions
 
 Duality of linear programming
 
-- intuition
-- primal and dual programs
-- weak and strong duality theorems
-- complementary slackness
-- weak/strong-dual pair of problems in general
-- example: maximum cardinality matching vs. minimum cardinality covering
+* intuition
+* primal and dual programs
+* weak and strong duality theorems
+* complementary slackness
+* weak/strong-dual pair of problems in general
+* example: maximum cardinality matching vs. minimum cardinality covering
 
-**Resources:** any textbook on linear programming, e.g. [matousek], and [wolsey] 2.5-6
+__Resources:__ any textbook on linear programming (e.g. [matousek]), [wolsey] 2.5-6, for the simplex method: [video tutorial](https://www.youtube.com/watch?v=9YKLXFqCy6E&t=757s&ab_channel=JoshuaEmmanuel)
 
-
-### Lecture 1 - Introduction. Modeling using Integer programming.
+### Lecture 1 - Introduction. Modeling using Integer programming
 
 Introduction
 
-- Discrete optimization, examples
-- Exact methods vs. metaheuristics
+* Discrete optimization, examples
+* Exact methods vs. metaheuristics
 
 Modeling using Integer programming
 
-- integer linear program, mixed integer program, 0-1 integer program
-- modeling fixed costs, disjunction
-- good, better, ideal formulation _(later: lazy constraint generation)_
-- example: travelling salesman problem (subtour elimination constraints) 
+* integer linear program, mixed integer program, 0-1 integer program
+* modeling fixed costs, disjunction
+* good, better, ideal formulation _(later: lazy constraint generation)_
+* example: Travelling salesman problem (subtour elimination constraints)
 
-**Resources:** [wolsey] 1.1-1.7
-
+__Resources:__ [wolsey] 1.1-1.7
 
 ### Lecture 2 - Branch and bound
 
 Optimality and relaxation
 
-- primal and dual bounds
-- relaxation
-- droping constraints (example: knapsack)
-- linear programming relaxation
-- _(later: Lagrangian relaxation)_
+* primal and dual bounds
+* relaxation
+* droping constraints (example: knapsack)
+* linear programming relaxation
+* _(later: Lagrangian relaxation)_
 
 Branch and bound
 
-- divide and conquer, branching, search tree
-- pruning (by optimality, by bounds)
-- example: knapsack (primal bound: greedy heuristic, dual bound: drop weight constraint/LP-relaxation)
-- node selection: DFS, BFS, best-first, least-discrepancy
-- implementation: store list of active nodes, global bounds
+* divide and conquer, branching, search tree
+* pruning (by optimality, by bounds)
+* example: knapsack (primal bound: greedy heuristic, dual bound: drop weight constraint/LP-relaxation)
+* node selection: DFS, BFS, best-first, least-discrepancy
+* implementation: store list of active nodes, global bounds
 
 LP-based B&B
-- branching strategy (most fractional variable, estimating pseudocosts)
-- store dual basis, after adding branching inequality still dual-feasible, easy to reoptimize
-- example
-- _(later: Branch-and-cut)_
 
-**Resources:** [wolsey] 2.1-2.3, 7.1-4
+* branching strategy (most fractional variable, estimating pseudocosts)
+* store dual basis, after adding branching inequality still dual-feasible, easy to reoptimize
+* example
 
+__Resources:__ [wolsey] 2.1-2.3, 7.1-4
 
-### Lecture 3 - Cutting plane algorithms, Gomory's algorithm.
+### Lecture 3 - Cutting plane algorithms, Gomory's algorithm
 
-TBA
+Valid inequalities
 
-**Resources:** [wolsey] 8.1-8.3, 8.6-8.7
+* given vs. ideal formulation
+* geometric intuition
+* examples
 
+Lazy constraint generation
+
+* example: travelling salesman problem (eliminate subtour)
+* example: graph coloring (clique constraints)
+
+Cutting planes
+
+* Gomory cuts
+* Gomory's algorithm
+* _(later: Branch-and-cut)_
+
+__Resources:__ [wolsey] 8.1-8.3, 8.6-8.7
 
 ### Lecture 4 - Strong valid inequalities
 
 TBA
 
-**Resources:** [wolsey] 9.1-3, 9.5-6
-
+__Resources:__ [wolsey] 9.1-3, 9.5-6
 
 ### Lecture 5 - Lagrangian duality 1
-### Lecture 6 - Lagrangian duality 2
-### Lecture 7 - Column generation 1
-### Lecture 8 - Column generation 2
-### Lecture 9 - Branch-cut-and-price
-### Lecture 10 - Selected applications
 
+### Lecture 6 - Lagrangian duality 2
+
+### Lecture 7 - Column generation 1
+
+### Lecture 8 - Column generation 2
+
+### Lecture 9 - Branch-cut-and-price
+
+### Lecture 10 - Selected applications
 
 ## Exam requirements
 
