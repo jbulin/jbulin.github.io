@@ -93,24 +93,26 @@ __Resources:__ [wolsey] 2.1-2.3, 7.1-4
 
 ### Lecture 3 - Cutting plane algorithms, Gomory's algorithm
 
+Lazy constraint generation
+
+* example: travelling salesman problem (eliminate subtour)
+
 Valid inequalities
 
 * given vs. ideal formulation
 * geometric intuition
 * examples
 
-Lazy constraint generation
-
-* example: travelling salesman problem (eliminate subtour)
-* example: graph coloring (clique constraints)
-
 Cutting planes
 
+* generic cutting planes algorithm
 * Gomory cuts
-* Gomory's algorithm
+* Gomory fractional cutting planes algorithm
+* Chvátal-Gomory procedure to construct any valid inequality
 * _(later: Branch-and-cut)_
 
-__Resources:__ [wolsey] 8.1-8.3, 8.6-8.7
+__Resources:__ [wolsey] 8.1-8.3, 8.6
+
 
 ### Lecture 4 - Strong valid inequalities
 
