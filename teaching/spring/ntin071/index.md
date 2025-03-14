@@ -22,15 +22,9 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 
 ## Info about exams
 
-Will be specified later.
-
-<!--
-
 Information about exams, including a list of exam questions:
 
-* [about-exams-2024.pdf](about-exams-2024.pdf)
-
--->
+* [about-exams.pdf](about-exams.pdf)
 
 ## Tentative schedule
 
