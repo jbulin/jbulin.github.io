@@ -47,7 +47,7 @@ Duality of linear programming
 * weak/strong-dual pair of problems in general
 * example: maximum cardinality matching vs. minimum cardinality covering
 
-__Resources:__ any textbook on linear programming (e.g. [matousek]), [wolsey] 2.5-6, for the simplex method: [video tutorial](https://www.youtube.com/watch?v=9YKLXFqCy6E&t=757s&ab_channel=JoshuaEmmanuel)
+__Resources:__ any textbook on linear programming (e.g. [[matousek]]), [[wolsey]] 2.5-6, for the simplex method: [video tutorial](https://www.youtube.com/watch?v=9YKLXFqCy6E&t=757s&ab_channel=JoshuaEmmanuel)
 
 ### Lecture 1 - Introduction. Modeling using Integer programming
 
@@ -63,7 +63,7 @@ Modeling using Integer programming
 * good, better, ideal formulation _(later: lazy constraint generation)_
 * example: Travelling salesman problem (subtour elimination constraints)
 
-__Resources:__ [wolsey] 1.1-1.7
+__Resources:__ [[wolsey]] 1.1-1.7
 
 ### Lecture 2 - Branch and bound
 
@@ -89,7 +89,7 @@ LP-based B&B
 * store dual basis, after adding branching inequality still dual-feasible, easy to reoptimize
 * example
 
-__Resources:__ [wolsey] 2.1-2.3, 7.1-4
+__Resources:__ [[wolsey]] 2.1-2.3, 7.1-4
 
 ### Lecture 3 - Cutting plane algorithms, Gomory's algorithm
 
@@ -101,6 +101,7 @@ Valid inequalities
 
 * given vs. ideal formulation
 * geometric intuition
+* the separation problem
 * examples
 
 Cutting planes
@@ -108,17 +109,30 @@ Cutting planes
 * generic cutting planes algorithm
 * Gomory cuts
 * Gomory fractional cutting planes algorithm
+* example, using dual simplex method
 * Chvátal-Gomory procedure to construct any valid inequality
-* _(later: Branch-and-cut)_
 
-__Resources:__ [wolsey] 8.1-8.3, 8.6
+__Resources:__ [[wolsey]] 8.1-8.3, 8.6
 
 
 ### Lecture 4 - Strong valid inequalities
 
-TBA
+Strong valid inequalities
+* redundant inequalities
+* minimal description of a polyhedron
+* nonredundant inequalities define represent facets
+* example: blossom inequalities for matching
 
-__Resources:__ [wolsey] 9.1-3, 9.5-6
+0-1 Knapsack
+* cover inequalities
+* extended conver inequalities
+* lifting cover inequalities to obtain nonredundant inequalities
+
+Branch-and-cut
+* embed strong cutting planes into branch and bound
+* example: graph coloring (clique and odd-hole constraints)
+
+__Resources:__ [[wolsey]] 9.1-3, 9.5-6
 
 ### Lecture 5 - Lagrangian duality 1
 
