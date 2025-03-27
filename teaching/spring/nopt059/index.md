@@ -114,21 +114,23 @@ Cutting planes
 
 __Resources:__ [[wolsey]] 8.1-8.3, 8.6
 
-
 ### Lecture 4 - Strong valid inequalities
 
 Strong valid inequalities
+
 * redundant inequalities
 * minimal description of a polyhedron
 * nonredundant inequalities define represent facets
 * example: blossom inequalities for matching
 
 0-1 Knapsack
+
 * cover inequalities
 * extended conver inequalities
-* lifting cover inequalities to obtain nonredundant inequalities
+* lifting cover inequalities to obtain facet-definining inequalities
 
 Branch-and-cut
+
 * embed strong cutting planes into branch and bound
 * example: graph coloring (clique and odd-hole constraints)
 
@@ -136,7 +138,37 @@ __Resources:__ [[wolsey]] 9.1-3, 9.5-6
 
 ### Lecture 5 - Lagrangian duality 1
 
+Lagrangian relaxation
+
+* easy vs. complicating constraints
+* idea: approximate by easier problem, price for violation (Lagrange multiplier)
+* definition
+* weak duality
+
+Example: Resource-constrained shortest path
+
+* obtaining dual bound,
+* finding feasible solution
+
 ### Lecture 6 - Lagrangian duality 2
+
+Lagrangian dual
+
+* Lagrangian bounding principle (it is a dual bound)
+* weak duality property
+* duality gap as a certificate of near-optimality
+* complementary slackness as a certificate of optimality
+
+Subgradient method
+
+* idea: gradient descent but for nonsmooth, convex functions
+* subgradient, subdifferential (set of all subgradients)
+* subgradient algorithm: step in any subgradient direction
+* step size: constant, diminishing, adaptive (problem-specific)
+
+Example: Travelling Salesman problem
+
+* complicating constraints: subtour elimination
 
 ### Lecture 7 - Column generation 1
 
