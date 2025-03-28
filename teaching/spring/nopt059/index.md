@@ -4,7 +4,7 @@ title: "NOPT059 Large-scale optimization: Exact methods"
 
 # NOPT059 Large-scale optimization: Exact methods
 
-The course is taught bi-yearly (in odd-numbered years), alternating with the course [NOPT061 Large-scale optimization: Metaheuristics](https://www.is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT061).
+The course is taught bi-yearly (in odd-numbered years), alternating with the course [NOPT061 Large-scale optimization: Metaheuristics](../nopt061/).
 
 The course will be scheduled in the beginning of the semester (probably during the first week). If you are interested, please email me your time constraints.
 
