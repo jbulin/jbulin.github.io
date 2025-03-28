@@ -18,6 +18,7 @@ several important open problems.
 ## The team
 
 * [Jakub Bulín](https://jbulin.github.io/)
+* Vojtěch David
 * [Michael Kompatscher](https://www.karlin.mff.cuni.cz/~kompatscher/)
 * [Dmitriy Zhuk](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=14961)
 

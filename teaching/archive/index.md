@@ -5,52 +5,115 @@ title: "Teaching archive"
 # Teaching archive
 
 
+### Archive: Spring 2024
+
+* NTIN071 Automata and Grammars
+  * 🇬🇧 English lecture
+  * 🇬🇧 English tutorial
+  * 🇨🇿 Czech tutorial x2
+
+* NOPT061 Large-scale optimization: Metaheuristics
+  * 🇬🇧 Lecture
+
 ### Archive: Fall 2023
 
-* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
-  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
-  * 🇨🇿 [Czech tutorial x1](teaching/fall/nail062/cviceni/)
+* NAIL062 Propositional and Predicate Logic
+  * 🇨🇿 Czech lecture
+  * 🇨🇿 Czech tutorial
 
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
-
-
+* NOPT042 Constraint Programming
+  * 🇬🇧 Tutorial
 
 ### Archive: Spring 2023
 
-* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
-  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
-  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/)
-  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
+* NTIN071 Automata and Grammars
+  * 🇬🇧 English lecture
+  * 🇬🇧 English tutorial
+  * 🇨🇿 Czech tutorial x2
 
-* [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
-  * 🇬🇧 [Lecture](teaching/spring/nopt059/)
-
+* NOPT059 Large-scale optimization: Exact methods
+  * 🇬🇧 Lecture
 
 ### Archive: Fall 2022
 
-* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
-  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
-  * 🇨🇿 [Czech tutorial x1](teaching/fall/nail062/cviceni/)
+* NAIL062 Propositional and Predicate Logic
+  * 🇨🇿 Czech lecture
+  * 🇨🇿 Czech tutorial
 
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
+* NOPT042 Constraint Programming
+  * 🇬🇧 Tutorial
 
 ### Archive: Spring 2022
 
-* [NTIN071 Automata and Grammars](teaching/spring/nail062/)
-  - 🇬🇧 English lecture
-  - 🇨🇿 Two Czech tutorials
+* NTIN071 Automata and Grammars
+  * 🇬🇧 English lecture
+  * 🇨🇿 Czech tutorial x2
 
 ### Archive: Fall 2021
 
-* [NAIL062 Propositional and Predicate Logic (old course on Moodle)](https://dl1.cuni.cz/course/view.php?id=10128)
-  - 🇬🇧 English lecture
-  - 🇬🇧 English tutorial
-  - 🇨🇿 Czech tutorial
-* [NOPT042 Constraint Programming (old course on Moodle)](https://dl1.cuni.cz/course/view.php?id=10544) 
-  - 🇬🇧 Tutorial
-* [NOPT059 Large-scale Optimization (old course on Moodle)](https://dl1.cuni.cz/course/view.php?id=12329)
-  - 🇬🇧 English lecture
-* [NTIN090 Intro to Complexity and Computability](https://dl1.cuni.cz/course/view.php?id=10132)
-  - 🇬🇧 English tutorial
+* NAIL062 Propositional and Predicate Logic
+  * 🇬🇧 English lecture
+  * 🇬🇧 English tutorial
+  * 🇨🇿 Czech tutorial
+
+* NOPT042 Constraint Programming
+  * 🇬🇧 Tutorial
+
+* NOPT059 Large-scale Optimization
+  * 🇬🇧 English lecture
+
+* NTIN090 Intro to Complexity and Computability
+  * 🇬🇧 English tutorial
+
+### Archive: Fall 2021
+
+* NAIL062 Propositional and Predicate Logic
+  * 🇨🇿 English lecture
+  * 🇬🇧 English tutorial
+  * 🇨🇿 Czech tutorial
+
+* NOPT059 Large-scale optimization
+  * 🇬🇧 Lecture
+
+* NOPT042 Constraint Programming
+  * 🇬🇧 Tutorial
+
+* NTIN090 Intro to Complexity and Computability
+  * 🇬🇧 English tutorial
+
+### Archive: Spring 2021
+
+* NTIN071 Automata and Grammars
+  * 🇬🇧 English lecture
+  * 🇨🇿 Czech tutorial x2
+
+### Archive: Fall 2020
+
+* NAIL062 Propositional and Predicate Logic
+  * 🇬🇧 English lecture
+  * 🇬🇧 English tutorial
+  * 🇨🇿 Czech tutorial
+
+* NOPT042 Constraint Programming
+  * 🇬🇧 Tutorial
+
+* NTIN090 Intro to Complexity and Computability
+  * 🇬🇧 English tutorial
+
+### Archive: Spring 2020
+
+* NTIN071 Automata and Grammars
+  * 🇬🇧 English lecture
+  * 🇨🇿 Czech tutorial x2
+
+### Archive: Fall 2019
+
+* NAIL062 Propositional and Predicate Logic
+  * 🇬🇧 English lecture
+  * 🇬🇧 English tutorial
+  * 🇨🇿 Czech tutorial
+
+
+### Before Fall 2019
+
+Various courses at the Department of Algebra, CU Prague and the Department of Mathematics, CU Boulder.

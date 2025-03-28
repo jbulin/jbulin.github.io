@@ -22,7 +22,7 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 ### Theses and projects
 
-I offer bachelor and master theses in theoretical computer science and/or artificial intelliegence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
+I offer bachelor and master theses in theoretical computer science and/or artificial intelligence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
 
 ### Spring 2025
 
@@ -43,17 +43,6 @@ I offer bachelor and master theses in theoretical computer science and/or artifi
 * [NOPT042 Constraint Programming](teaching/fall/nopt042/)
   * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
 
-<!--
-### Spring 2024
-
-* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
-  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
-  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/tutorial/)
-  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
-
-* [NOPT061 Large-scale optimization: Metaheuristics](teaching/spring/nopt061/)
-  * 🇬🇧 [Lecture](teaching/spring/nopt061/)
--->
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
 

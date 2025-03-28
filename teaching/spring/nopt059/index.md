@@ -136,7 +136,7 @@ Branch-and-cut
 
 __Resources:__ [[wolsey]] 9.1-3, 9.5-6
 
-### Lecture 5 - Lagrangian duality 1
+### Lecture 5 - Lagrangian relaxation
 
 Lagrangian relaxation
 
@@ -150,7 +150,7 @@ Example: Resource-constrained shortest path
 * obtaining dual bound,
 * finding feasible solution
 
-### Lecture 6 - Lagrangian duality 2
+### Lecture 6 - Lagrangian duality
 
 Lagrangian dual
 
@@ -170,9 +170,9 @@ Example: Travelling Salesman problem
 
 * complicating constraints: subtour elimination
 
-### Lecture 7 - Column generation 1
+### Lecture 7 - Column generation
 
-### Lecture 8 - Column generation 2
+### Lecture 8 - Dantzig-Wolfe decomposition
 
 ### Lecture 9 - Branch-cut-and-price
 
