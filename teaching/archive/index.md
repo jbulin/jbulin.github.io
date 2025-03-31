@@ -4,7 +4,6 @@ title: "Teaching archive"
 
 # Teaching archive
 
-
 ### Archive: Spring 2024
 
 * NTIN071 Automata and Grammars
@@ -48,22 +47,6 @@ title: "Teaching archive"
 * NTIN071 Automata and Grammars
   * 🇬🇧 English lecture
   * 🇨🇿 Czech tutorial x2
-
-### Archive: Fall 2021
-
-* NAIL062 Propositional and Predicate Logic
-  * 🇬🇧 English lecture
-  * 🇬🇧 English tutorial
-  * 🇨🇿 Czech tutorial
-
-* NOPT042 Constraint Programming
-  * 🇬🇧 Tutorial
-
-* NOPT059 Large-scale Optimization
-  * 🇬🇧 English lecture
-
-* NTIN090 Intro to Complexity and Computability
-  * 🇬🇧 English tutorial
 
 ### Archive: Fall 2021
 
@@ -112,7 +95,6 @@ title: "Teaching archive"
   * 🇬🇧 English lecture
   * 🇬🇧 English tutorial
   * 🇨🇿 Czech tutorial
-
 
 ### Before Fall 2019
 
