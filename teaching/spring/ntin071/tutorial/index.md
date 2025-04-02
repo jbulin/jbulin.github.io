@@ -65,12 +65,12 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 
 ### 9th class (Apr 14)
 
-* **Program:** Pushdown automata
+* **Program:** Pushdown automata, conversion between PDA and CFG
 * **Worksheet:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial9.pdf)
 
 ### 10th class (Apr 28)
 
-* **Program:** Coversion between PDA and context-free grammars
+* **Program:** Properties of context-free languages, DPDA
 * **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
 
 ### 11th class (May 5)

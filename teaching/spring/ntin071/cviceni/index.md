@@ -65,12 +65,12 @@ Konzultace během zkouškového období rozvrhujeme dle potřeby - napište mi v
 
 ### 9. cvičení (25. 4.)
 
-* **Program:** Zásobníkové automaty
+* **Program:** Zásobníkové automaty, převod mezi PDA a CFG
 * **Materiály:** [cviceni9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni9.pdf)
 
 ### 10. cvičení (2. 5.)
 
-* **Program:** Převod mezi PDA a bezkontextovými gramatikami
+* **Program:** Vlastnosti bezkontextových jazyků, DPDA
 * **Materiály:** [cviceni10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/cviceni/cviceni10.pdf)
 
 ### 11. cvičení (9. 5.)
