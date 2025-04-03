@@ -156,8 +156,12 @@ Lagrangian dual
 
 * Lagrangian bounding principle (it is a dual bound)
 * weak duality property
+* optimality test (primal-feasible + complementary slackness)
 * duality gap as a certificate of near-optimality
-* complementary slackness as a certificate of optimality
+
+Example: Traveling Salesperson Problem
+* either dualize degree constraints, optimize 1-trees, or
+* dualize subtour elimination constraints (express them as a flow), optimize cycle factor problem (corresponds to perfect matching)
 
 Subgradient method
 
@@ -166,17 +170,83 @@ Subgradient method
 * subgradient algorithm: step in any subgradient direction
 * step size: constant, diminishing, adaptive (problem-specific)
 
-Example: Travelling Salesman problem
-
-* complicating constraints: subtour elimination
 
 ### Lecture 7 - Column generation
 
+Motivation:
+* good/ideal formulations with exponentially many constraints
+* more complex variables
+* lazy constraint generation
+* idea: branch and price
+
+Example: Cutting Stock
+* naive formulation: bad, weak LP relaxation, lots of symmetries (symmetry breaking)
+* generate configurations on demand
+* how to choose configurations? princing problem (knapsack)
+
+
+Column generation:
+* master problem, restricted master problem
+* explicit pricing vs. implicit pricing
+* generating initial set of configurations
+
+Example: Vertex Coloring
+* naive model
+* master model: color classes (independent sets)
+
+Branch and price:
+* branch and bound, generate new columns at every node to improve relaxation
+* run column generation
+* if integral, terminate
+* else, branch
+
 ### Lecture 8 - Dantzig-Wolfe decomposition
 
-### Lecture 9 - Branch-cut-and-price
+Motivation:
+* how to find useful master problem formulations?
+* "forget" about rolls/colors, aggregate
+
+Dantzig-Wolfe reformulation
+* outer and inner representation of a polyhedron (Minkowski-Weyl)
+* idea: apply Minkowski-Weyl on "easy" constraints
+* Dantzig-Wolfe Master problem, RMP
+* reduced cost computation
+
+Block-Angular matrices
+* subproblems (rolls in cutting stock, colors in Vertex coloring, vehicles in Vehicle routing)
+* only linked by "total" constraints
+* blocks can be identical, then we can aggregate
+
+Example: Resource Constrained Shortest Path
+* Dantzig-Wolfe reformulation, complex variables: all (s,t)-paths
+* pricing problem: shortest path
+
+### Lecture 9 - Branch-price-and-cut
+
+Motivation
+* strengthen relaxation for branch-and-bound?
+* column generation: adding columns
+* cutting planes: adding rows
+* combine both
+
+Branch-price-and-cut
+* Dantzig-Wolfe reformulation provides stronger relaxation
+* strengthen it further by cutting planes
+* cutting planes on the original variables
+* cutting planes on master variables
+* branch only on original variables
+
+Examples: 
+* Edge coloring problem (odd circuit cuts)
+* Resource Constrained Shortest Path
+
+
 
 ### Lecture 10 - Selected applications
+
+TBA (Branch-price-and-cut for Multi-Agent Pathfinding?)
+
+
 
 ## Exam requirements
 
