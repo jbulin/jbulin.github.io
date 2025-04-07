@@ -18,8 +18,10 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 
 * [Webpage of the tutorial](https://ktiml.mff.cuni.cz/~fink/teaching/) (taught by Jirka Fink)
 * [This course in the SIS](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NOPT059)
-* [wolsey](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.oth1) The book __Laurence Wolsey, Integer programming, 2nd edition, Wiley 2020__ covers a majority of the course material
-* [matousek](https://link.springer.com/book/10.1007/978-3-540-30717-4) If you need a referecne for basics of Linear programming theory, you can refer to, for example, __Jiří Matoušek, Bernd Gärtner, Understanding and Using Linear Programming, Springer 2007__
+* [wolsey](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.oth1) The book __Laurence Wolsey, Integer programming, 2nd edition, Wiley 2020__ covers a majority of the course material.
+* [lagrange](https://www.ens-lyon.fr/DI/wp-content/uploads/2012/01/LagrangianRelax.pdf) Lecture notes on Lagrangian relaxation.
+* [matousek](https://link.springer.com/book/10.1007/978-3-540-30717-4) If you need a referecne for basics of Linear programming theory, you can refer to, for example, __Jiří Matoušek, Bernd Gärtner, Understanding and Using Linear Programming, Springer 2007__.
+
 
 ## Tentative schedule
 
@@ -47,7 +49,7 @@ Duality of linear programming
 * weak/strong-dual pair of problems in general
 * example: maximum cardinality matching vs. minimum cardinality covering
 
-__Resources:__ any textbook on linear programming (e.g. [[matousek]]), [[wolsey]] 2.5-6, for the simplex method: [video tutorial](https://www.youtube.com/watch?v=9YKLXFqCy6E&t=757s&ab_channel=JoshuaEmmanuel)
+__Resources:__ any textbook on linear programming (e.g. [matousek]), [wolsey] 2.5-6, for the simplex method: [video tutorial](https://www.youtube.com/watch?v=9YKLXFqCy6E&t=757s&ab_channel=JoshuaEmmanuel)
 
 ### Lecture 1 - Introduction. Modeling using Integer programming
 
@@ -63,7 +65,7 @@ Modeling using Integer programming
 * good, better, ideal formulation _(later: lazy constraint generation)_
 * example: Travelling salesman problem (subtour elimination constraints)
 
-__Resources:__ [[wolsey]] 1.1-1.7
+__Resources:__ [wolsey] 1.1-1.7
 
 ### Lecture 2 - Branch and bound
 
@@ -89,7 +91,7 @@ LP-based B&B
 * store dual basis, after adding branching inequality still dual-feasible, easy to reoptimize
 * example
 
-__Resources:__ [[wolsey]] 2.1-2.3, 7.1-4
+__Resources:__ [wolsey] 2.1-2.3, 7.1-4
 
 ### Lecture 3 - Cutting plane algorithms, Gomory's algorithm
 
@@ -112,7 +114,7 @@ Cutting planes
 * example, using dual simplex method
 * Chvátal-Gomory procedure to construct any valid inequality
 
-__Resources:__ [[wolsey]] 8.1-8.3, 8.6
+__Resources:__ [wolsey] 8.1-8.3, 8.6
 
 ### Lecture 4 - Strong valid inequalities
 
@@ -134,7 +136,7 @@ Branch-and-cut
 * embed strong cutting planes into branch and bound
 * example: graph coloring (clique and odd-hole constraints)
 
-__Resources:__ [[wolsey]] 9.1-3, 9.5-6
+__Resources:__ [wolsey] 9.1-3, 9.5-6
 
 ### Lecture 5 - Lagrangian relaxation
 
@@ -149,6 +151,9 @@ Example: Resource-constrained shortest path
 
 * obtaining dual bound,
 * finding feasible solution
+
+__Resources:__ [wolsey] 10.1, [lagrange] 12.1
+
 
 ### Lecture 6 - Lagrangian duality
 
@@ -169,6 +174,8 @@ Subgradient method
 * subgradient, subdifferential (set of all subgradients)
 * subgradient algorithm: step in any subgradient direction
 * step size: constant, diminishing, adaptive (problem-specific)
+
+__Resources:__ [wolsey] 10.2-3, [lagrange] 12.2-3
 
 
 ### Lecture 7 - Column generation
@@ -200,6 +207,9 @@ Branch and price:
 * if integral, terminate
 * else, branch
 
+__Resources:__ [wolsey] 11.1, 11.3
+
+
 ### Lecture 8 - Dantzig-Wolfe decomposition
 
 Motivation:
@@ -221,6 +231,8 @@ Example: Resource Constrained Shortest Path
 * Dantzig-Wolfe reformulation, complex variables: all (s,t)-paths
 * pricing problem: shortest path
 
+__Resources:__ [wolsey] 11.2, 11.5
+
 ### Lecture 9 - Branch-price-and-cut
 
 Motivation
@@ -240,13 +252,13 @@ Examples:
 * Edge coloring problem (odd circuit cuts)
 * Resource Constrained Shortest Path
 
-
+__Resources:__ [wolsey] 11.4, 11.6-7
 
 ### Lecture 10 - Selected applications
 
 TBA (Branch-price-and-cut for Multi-Agent Pathfinding?)
 
-
+__Resources:__ [Branch-and-cut-and-price for multi-agent path finding](https://www.sciencedirect.com/science/article/pii/S0305054822000946)
 
 ## Exam requirements
 

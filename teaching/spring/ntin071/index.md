@@ -76,7 +76,7 @@ Information about exams, including a list of exam questions:
 
 * **Program:** Equivalence of PDA and CFG, Deterministic PDA
 * **Slides:** [slides8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/slides8.pdf)
-* Supplemental resources: 6.3-4, 7.4; Sipser 2.2
+* Supplemental resources: Hopcroft 6.3-4, 7.4; Sipser 2.2
 
 ### Lecture 9 (Apr 14)
 
