@@ -103,7 +103,7 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 
 * **Program:**   Axiomatizovatelnost. Rekurzivní axiomatizace a rozhodnutelnost. Nerozhodnutelnost predikátové logiky. Gödelovy věty o neúplnosti.
 * **Materiály:** Sekce 9.4 z Kapitoly 9, Kapitola 10
-* **Prezentace:** [slides12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides12.pdf), [handout12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout12.pdf)
+* **Prezentace:** [slides12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides12.pdf), [handout12.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout12.pdf), [YouTube video](https://www.youtube.com/watch?v=bmECBK_TOQA&list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv&index=9) z přednášky Ryana O'Donnella o Gödelových větách z cyklu Great Ideas in Theoretical Computer Science
 
 
 <!-- Fall 2023
