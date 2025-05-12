@@ -2,11 +2,11 @@
 title: "COLA:ULOM"
 ---
 
-# COLA:ULOM 
+# COLA:ULOM
 
 We study **co**nstraint **la**nguages **u**sing **lo**gical **m**ethods.
 
-* Czech Science Foundation standard project no. 25-16324S 
+* Czech Science Foundation standard project no. 25-16324S
 * Title: Characterization and tractability of constraint languages via logical methods
 * Duration: 01/2025-12/2027
 
@@ -18,7 +18,7 @@ several important open problems.
 ## The team
 
 * [Jakub Bulín](https://jbulin.github.io/)
-* Vojtěch David
+* Vojtěch David (from April 2025)
 * [Michael Kompatscher](https://www.karlin.mff.cuni.cz/~kompatscher/)
 * [Dmitriy Zhuk](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=14961)
 
@@ -34,4 +34,4 @@ Coming soon.
 
 ## Results
 
-Coming soon.
+* V. David, D. Zhuk, *On the lattice of multi-sorted relational clones on a two-element set*, arXiv:2505.06033 [math.LO] ([preprint](https://arxiv.org/abs/2505.06033))
