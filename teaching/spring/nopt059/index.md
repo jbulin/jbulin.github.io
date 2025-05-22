@@ -256,9 +256,17 @@ __Resources:__ [wolsey] 11.4, 11.6-7
 
 ### Lecture 10 - Selected applications
 
+Vehicle routing problem with time windows
+* column generation
+* branching strategies
+
+__Resources:__ Chapter 3 of [Desaulniers et al: Column Generation, Springer, 2005](https://link.springer.com/book/10.1007/b135457)
+
+<!--
 TBA (Branch-price-and-cut for Multi-Agent Pathfinding?)
 
 __Resources:__ [Branch-and-cut-and-price for multi-agent path finding](https://www.sciencedirect.com/science/article/pii/S0305054822000946)
+-->
 
 ## Exam requirements
 
