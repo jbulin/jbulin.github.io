@@ -4,7 +4,7 @@ title: "Personal academic website of Jakub Bulín"
 
 # About me
 
-> I am an Assistant Professor at the [Department of Theoretical Computer Science and Mathematical Logic ("KTIML")](https://www.ktiml.mff.cuni.cz/KTIML-1.html), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/) of the [Charles University](https://cuni.cz/UK-1.html) in Prague, Czechia.
+> I a Lecturer at the [Department of Theoretical Computer Science and Mathematical Logic ("KTIML")](https://www.ktiml.mff.cuni.cz/KTIML-1.html), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/) of the [Charles University](https://cuni.cz/UK-1.html) in Prague, Czechia.
 
 I am one of the logicians in [this picture](files/me.jpg).
 
@@ -24,6 +24,18 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 I offer bachelor and master theses in theoretical computer science and/or artificial intelligence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
 
+
+### Upcoming: Fall 2025
+
+* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
+  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
+  * 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
+  * 🇬🇧 [English tutorial](teaching/fall/nail062/tutorial)
+
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
+  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
+
+
 ### Spring 2025
 
 * [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
@@ -34,17 +46,9 @@ I offer bachelor and master theses in theoretical computer science and/or artifi
 * [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
   * 🇬🇧 [Lecture](teaching/spring/nopt059/)
 
-### Fall 2024
-
-* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
-  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
-  * 🇨🇿 [Czech tutorial x2](teaching/fall/nail062/cviceni/)
-
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
-
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
+
 
 # Research
 

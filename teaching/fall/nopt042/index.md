@@ -2,7 +2,7 @@
 title: "NOPT042 Constraint programming"
 ---
 
-# NOPT042 Constraint programming (Fall 2024)
+# NOPT042 Constraint programming (Fall 2025)
 
 > In the tutorial we will be modeling constraint problems in the logic-based multi-paradigm language Picat 
     (<span style="color:fuchsia">**P**</span>attern-matching,
@@ -14,8 +14,8 @@ title: "NOPT042 Constraint programming"
 
 ## Office hours during the teaching period:
 
-* Thursday 2pm in S303 (right after class)
-* Troja campus: Monday 3:30pm outside of N1
+* Monday 10:40am in S303
+* Thursday 2pm in S303
 
 or make an appointment (via email); two additional hours per week will be available.
 
@@ -44,14 +44,13 @@ The individual notebooks are also posted below as PDFs and HTML slides.
 * [Picat homepage](https://picat-lang.org)
 * [Getting started with Picat](http://picat-lang.org/download/get_started.pdf)
 * [Constraint solving and planning with Picat](https://picat-lang.org/picatbook2015.html)
-* [Modeling and Solving AI Problems in Picat
-(tutorial by R. Barták and N. Zhou)](http://ktiml.mff.cuni.cz/~bartak/AAAI2017/)
+* [Modeling and Solving AI Problems in Picat (tutorial by R. Barták and N. Zhou)](http://ktiml.mff.cuni.cz/~bartak/AAAI2017/)
 * [CSPLib: A problem library for constraints](https://www.csplib.org)
 * [Håkan Kjellerstrand's Picat page](https://hakank.org/picat)
 * [The lecture by R. Barták](https://ktiml.mff.cuni.cz/~bartak/podminky)
 * [Previous tutorial by R. Barták in SICStus Prolog](https://ktiml.mff.cuni.cz/~bartak/podminky/#cviceni)
 * [Previous tutorial by me in MiniZinc](https://dl1.cuni.cz/course/view.php?id=10544)
-    
+
 ## Tutorial schedule (will be updated)
 
 ### Before the first tutorial
@@ -61,84 +60,86 @@ The individual notebooks are also posted below as PDFs and HTML slides.
 * Solve the (ungraded) "Hello, World!" assignment.
 * Let me know if you encounter any issues!
 
-### 1st tutorial (Oct 3)
+### 1st tutorial (Sep 29)
 
 * **Program:** Overview of Picat.
 * **Notebook:** [tutorial1.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial1/tutorial1.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial1/tutorial1.slides.html))
 * **Homework:** Leaves
 
 
-### 2nd tutorial (Oct 10)
+### 2nd tutorial (Oct 6)
 
 * **Program:** Intro to CP.
 * **Notebook:** [tutorial2.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial2/tutorial2.ipynb)  ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial2/tutorial2.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial2/tutorial2.slides.html))
 * **Homework:** Crypt-arithmetic
 
-### 3rd tutorial (Oct 17)
+### 3rd tutorial (Oct 13)
 
 * **Program:** Improving models, symmetry breaking, solvers.
 * **Notebook:** [tutorial3.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial3/tutorial3.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial3/tutorial3.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial3/tutorial3.slides.html))
 * **Homework:** Boardomino
 
-### 4th tutorial (Oct 24)
+### 4th tutorial (Oct 20)
 
 * **Program:** Search space, search strategies.
 * **Notebook:** [tutorial4.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial4/tutorial4.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial4/tutorial4.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial4/tutorial4.slides.html))
 * **Homework:** Knapsack
 
-### 5th tutorial (Oct 31)
+### 5th tutorial (Oct 27)
 
 * **Program:** Dual modeling, channeling. Assignment.
 * **Notebook:** [tutorial5.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial5/tutorial5.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial5/tutorial5.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial5/tutorial5.slides.html))
 * **Homework:** Stable marriage
 
-### 6th tutorial (Nov 7)
+### 6th tutorial (Nov 3)
 
 * **Program:** Modeling functions. Scheduling, the cummulative constraint.
 * **Notebook:** [tutorial6.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial6/tutorial6.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial6/tutorial6.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial6/tutorial6.slides.html))
 * **Homework:** Moving
 
-### 7th tutorial (Nov 14)
+### 7th tutorial (Nov 10)
 
 * **Program:** Rostering problems. Global constraints based on finite automata.
 * **Notebook:** [tutorial7.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial7/tutorial7.slides.html))
 * **Homework:** Feast
 
-### 8th tutorial (Nov 21)
+### 8th tutorial (Nov 24)
 
 * **Program:** Global constraints. Routing.
 * **Notebook:** [tutorial8.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial8/tutorial8.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial8/tutorial8.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial8/tutorial8.slides.html))
 * **Homework:** Routing
 
-### 9th tutorial (Nov 28)
+### 9th tutorial (Dec 1)
 
 * **Program:** Implicit constraints.
 * **Notebook:** [tutorial9.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial9/tutorial9.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial9/tutorial9.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial9/tutorial9.slides.html))
 * **Homework:** Life
 
-### 10th tutorial (Dec 5)
+### 10th tutorial (Dec 8)
 
 * **Program:** Modeling with sets.
 * **Notebook:** [tutorial10.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial10/tutorial10.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial10/tutorial10.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial10/tutorial10.slides.html))
 * **Homework:** Golfers
 
-### 11th tutorial (Dec 12)
+### 11th tutorial (Dec 15)
 
 * **Program:** Tabling with Picat.
 * **Notebook:** [tutorial11.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial11/tutorial11.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial11/tutorial11.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial11/tutorial11.slides.html))
 * **Homework:** Triangle
 
-### 12th tutorial (Dec 19)
+### 12th tutorial (Jan 5)
 
 * **Program:** Planning with Picat.
 * **Notebook:** [tutorial12.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial12/tutorial12.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial12/tutorial12.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial12/tutorial12.slides.html))
 * **Homework:** Farmer
+* **Additional homework problems:** Packing, MCSP, Digest, Hanoi (due end of March)
 
+<!--
 ### 13th tutorial (Jan 9)
 
 * **Program:** Q&A, Homework help
 * **Additional homework problems:** Packing, MCSP, Digest, Hanoi (due end of March)
-
+-->
 
 ## Frequently asked questions (FAQ)
 
