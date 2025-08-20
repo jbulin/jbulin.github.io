@@ -47,89 +47,103 @@ TBA
 * Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), **do 20. 10.** zašlete své preference a problémy,  **do** ~~konce listopadu~~ **10.12.** odevzdejte hotový projekt
 -->
 
+## Příklady na cvičení
+
+| 1. Úvod do výrokové logiky    | [priklady1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady1.pdf)   | [reseni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni1.pdf)  |
+| 2. Sémantika, vlastnosti teorií    | [priklady2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady2.pdf)   | [reseni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni2.pdf)  |
+| 3. Algebra výroků, Problém SAT    | [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady3.pdf)   | [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni3.pdf)  |
+| 4. Tablo metoda    | [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady4.pdf)   | [reseni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni4.pdf)  |
+| 5. Rezoluční metoda    | [priklady5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady5.pdf)   | [reseni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni5.pdf)  |
+| 6. Základy predikátové logiky    | [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady6.pdf)   | [reseni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni6.pdf)  |
+| 7. Vlastnosti struktur a teorií    | [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady7.pdf)   | [reseni7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni7.pdf)  |
+| 8. Tablo metoda v predikátové logice    | [priklady8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady8.pdf)   | [reseni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni8.pdf)  |
+| 9. Příprava na rezoluci v PL    | [priklady9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady9.pdf)   | [reseni9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni9.pdf)  |
+| 10. Rezoluční metoda v PL    | [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady10.pdf)   | [reseni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni10.pdf)  |
+
+
 ## Program cvičení (bude aktualizováno)
 
 ### 1. cvičení (29. 9.)
 
 * **Program:** Úvod do výrokové logiky. Základy syntaxe a sémantiky výrokové logiky. Ukázka tablo metody a rezoluční metody.
-* **Materiály:** [priklady1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady1.pdf), [reseni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni1.pdf)
+* **Materiály:** [priklady1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady1.pdf), [reseni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni1.pdf)
 
 ### 2. cvičení (6. 10.)
 
 * **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek. Převod do CNF a DNF. Vlastnosti a extenze teorií.
-* **Materiály:** [priklady2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady2.pdf), [reseni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni2.pdf)
+* **Materiály:** [priklady2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady2.pdf), [reseni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni2.pdf)
 
 ### 3. cvičení (13. 10.)
 
 * **Program:** Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
-* **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady3.pdf), [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup), viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example)
+* **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady3.pdf), [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup), viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example)
 
 
 ### 4. cvičení (20. 10.)
 
 * **Program:** Tablo metoda ve výrokové logice. Věta o kompaktnosti a její aplikace.
-* **Materiály:** [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady4.pdf), [reseni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni4.pdf)
+* **Materiály:** [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady4.pdf), [reseni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni4.pdf)
 
 
 ### 5. cvičení (27. 10.)
 
 * **Program:** (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady)
-* **Materiály:** (pokračujeme v [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady4.pdf))
+* **Materiály:** (pokračujeme v [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady4.pdf))
 
 
 ### 6. cvičení (3. 11.)
 
 * **Program:** Rezoluce ve výrokové logice.
-* **Materiály:** [priklady5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady5.pdf), [reseni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni5.pdf)
+* **Materiály:** [priklady5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady5.pdf), [reseni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni5.pdf)
 
 
 ### 7. cvičení (10. 11.)
 
 * **Termín odevzdání Domácího úkolu z výrokové logiky**
 * **Program:** Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky. 
-* **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf), [reseni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni6.pdf)
+* **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady6.pdf), [reseni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni6.pdf)
 
 ### 8. cvičení (24. 11.)
 
 * **Zápočtový test z výrokové logiky**
 * **Program:**  (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady)
-* **Materiály:** (pokračujeme v [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady6.pdf))
+* **Materiály:** (pokračujeme v [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady6.pdf))
 
 ### 9. cvičení (1. 12.)
 
 * blíží termín odevzdání projektu na SAT solver
 * **Program:** Struktury a podstruktury. Extenze teorií. Extenze o definice. Definovatelné množiny.
-* **Materiály:** [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady7.pdf), [reseni7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni7.pdf)
+* **Materiály:** [priklady7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady7.pdf), [reseni7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni7.pdf)
 
 ### 10. cvičení (8. 12.)
 
 * **Program:**   Tablo metoda v predikátové logice, jazyky s rovností.  Aplikace Věty o kompaktnosti. 
-* **Materiály:** [priklady8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady8.pdf), [reseni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni8.pdf)
+* **Materiály:** [priklady8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady8.pdf), [reseni8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni8.pdf)
 
 ### 11. cvičení (15. 12.)
 
 * **Termín odevzdání Domácího úkolu z predikátové logiky**
 * **Program:** Převod do PNF. Skolemizace. Herbrandova věta. Unifikace. Rezoluce v predikátové logice.
-* **Materiály:** [priklady9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady9.pdf), [reseni9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni9.pdf), [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf), [reseni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni10.pdf)
+* **Materiály:** [priklady9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady9.pdf), [reseni9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni9.pdf), [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady10.pdf), [reseni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni10.pdf)
 
 ### 12. cvičení (5. 1.)
 
 * **Zápočtový test z predikátové logiky**
 * **Program:** Vybraná témata z teorie modelů.
-* **Materiály:** (pokračujeme v [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf))
+* **Materiály:** (pokračujeme v [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady10.pdf))
 
 <!--
 ### 12. cvičení
 
 * **Termín odevzdání Domácího úkolu z predikátové logiky**
 * **Program:** Rezoluce v predikátové logice.
-* **Materiály:** [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf), [reseni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/reseni10.pdf)
+* **Materiály:** [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady10.pdf), [reseni10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni10.pdf)
 
 ### 13. cvičení
 
 * **Zápočtový test z predikátové logiky**
 * **Program:** Vybraná témata z teorie modelů.
-* **Materiály:** (pokračujeme v [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/priklady10.pdf))
+* **Materiály:** (pokračujeme v [priklady10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady10.pdf))
 -->
 
 ## Užitečné odkazy
