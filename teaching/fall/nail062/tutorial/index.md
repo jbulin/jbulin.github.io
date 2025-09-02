@@ -40,26 +40,27 @@ Communication with anyone other than the instructor about the assignments is pro
 
 * Propositional logic homework: due **TBA** at the start of the exercise session. Task: solve the [Sample test for propositional logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-propositional-logic.pdf) (Submit on paper or by email as a single PDF file with a white background.)  
 * Predicate logic homework: due **TBA** at the start of the exercise session. Task: solve the [Sample test for predicate logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-predicate-logic.pdf) (Submit on paper or by email as a single PDF file with a white background. Part (c) of the first problem will not be graded, as we likely will not have enough time to practice it. However, it is recommended to try solving it.)
-* SAT solver application project: [detailed assignment](https://jbulin.github.io/teaching/fall/nail062/tutorial/sat-project.html), **by TBA** submit your preferences and issues, **by TBA** submit the finished project
+* SAT solver application project: [detailed assignment](https://jbulin.github.io/teaching/fall/nail062/tutorial/sat-project-english.html), **by TBA** submit your preferences and issues, **by TBA** submit the finished project
 
 ## Worksheets
 
-| 1. Intro to propositional logic    | [worksheet1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet1.pdf)   | [solutions1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions1.pdf)  |
-| 2. Semantics, properties of theories    | [worksheet2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet2.pdf)   | [solutions2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions2.pdf)  |
-| 3. Algebra of propositions, SAT    | [worksheet3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet3.pdf)   | [solutions3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions3.pdf)  |
-| 4. The tableaux method    | [worksheet4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet4.pdf)   | [solutions4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions4.pdf)  |
-| 5. The resolution method    | [worksheet5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet5.pdf)   | [solutions5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions5.pdf)  |
-| 6. Basics of predicate logic    | [worksheet6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet6.pdf)   | [solutions6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions6.pdf)  |
-| 7. Properties of structures and theories    | [worksheet7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet7.pdf)   | [solutions7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions7.pdf)  |
-| 8. The tableau method in predicate logic    | [worksheet8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet8.pdf)   | [solutions8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions8.pdf)  |
-| 9. Prep for resolution in predicate logic    | [worksheet9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet9.pdf)   | [solutions9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions9.pdf)  |
-| 10. Resolution in predicate logic    | [worksheet10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/worksheet10.pdf)   | [solutions10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheet/solutions10.pdf)  |
+| 1. Intro to propositional logic    | [worksheet1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet1.pdf)   | [solutions1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions1.pdf)  |
+| 2. Semantics, properties of theories    | [worksheet2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet2.pdf)   | [solutions2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions2.pdf)  |
+| 3. Algebra of propositions, SAT    | [worksheet3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet3.pdf)   | [solutions3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions3.pdf)  |
+| 4. The tableaux method    | [worksheet4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet4.pdf)   | [solutions4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions4.pdf)  |
+| 5. The resolution method    | [worksheet5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet5.pdf)   | [solutions5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions5.pdf)  |
+| 6. Basics of predicate logic    | [worksheet6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet6.pdf)   | [solutions6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions6.pdf)  |
+| 7. Properties of structures and theories    | [worksheet7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet7.pdf)   | [solutions7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions7.pdf)  |
+| 8. The tableau method in predicate logic    | [worksheet8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet8.pdf)   | [solutions8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions8.pdf)  |
+| 9. Prep for resolution in predicate logic    | [worksheet9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet9.pdf)   | [solutions9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions9.pdf)  |
+| 10. Resolution in predicate logic    | [worksheet10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet10.pdf)   | [solutions10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions10.pdf)  |
 
 
 ## Tutorial schedule (will be updated)
 
 TBA
 
+<!--
 ## Program cvičení (bude aktualizováno)
 
 ### 1. cvičení (3. 10.)
