@@ -6,7 +6,7 @@ title: "NAIL062 Propositional and predicate logic: tutorial"
 
 Here you will find information about the English tutorial class taught by me.
 
-## Office hours during the teaching period:
+## Office hours during the teaching period
 
 * Monday 10:40 in S303  
 * Monday 15:30 (after the lecture) in front of N1  
@@ -28,13 +28,11 @@ Communication with anyone other than the instructor about the assignments is pro
 
 > To pass the course, you must earn at least **140 points in total**, and at the same time at least **40 points from each test**.
 
-
 ## The written tests
 
 * Propositional logic test date: **TBA** [Sample test: Propositional Logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-propositional-logic.pdf)  
 * Predicate logic test date: **TBA** [Sample test: Predicate Logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-predicate-logic.pdf)  
 * Preliminary retake dates (for both tests): during the first week of the exam period (will be specified depending on the number of students who will not have passed)
-
 
 ## Homework
 
@@ -47,14 +45,13 @@ Communication with anyone other than the instructor about the assignments is pro
 | 1. Intro to propositional logic    | [worksheet1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet1.pdf)   | [solutions1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions1.pdf)  |
 | 2. Semantics, properties of theories    | [worksheet2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet2.pdf)   | [solutions2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions2.pdf)  |
 | 3. Algebra of propositions, SAT    | [worksheet3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet3.pdf)   | [solutions3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions3.pdf)  |
-| 4. The tableaux method    | [worksheet4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet4.pdf)   | [solutions4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions4.pdf)  |
+| 4. The tableau method    | [worksheet4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet4.pdf)   | [solutions4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions4.pdf)  |
 | 5. The resolution method    | [worksheet5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet5.pdf)   | [solutions5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions5.pdf)  |
 | 6. Basics of predicate logic    | [worksheet6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet6.pdf)   | [solutions6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions6.pdf)  |
 | 7. Properties of structures and theories    | [worksheet7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet7.pdf)   | [solutions7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions7.pdf)  |
 | 8. The tableau method in predicate logic    | [worksheet8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet8.pdf)   | [solutions8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions8.pdf)  |
 | 9. Prep for resolution in predicate logic    | [worksheet9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet9.pdf)   | [solutions9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions9.pdf)  |
 | 10. Resolution in predicate logic    | [worksheet10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet10.pdf)   | [solutions10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions10.pdf)  |
-
 
 ## Tutorial schedule (will be updated)
 
@@ -78,24 +75,20 @@ TBA
 * **Program:** Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
 * **Materiály:** [worksheet3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet3.pdf), [solutions3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup), viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example)
 
-
 ### 4. cvičení (24. 10.)
 
 * **Program:** Tablo metoda ve výrokové logice. Věta o kompaktnosti a její aplikace.
 * **Materiály:** [worksheet4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet4.pdf), [solutions4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions4.pdf)
-
 
 ### 5. cvičení (31. 10.)
 
 * **Program:** (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady)
 * **Materiály:** (pokračujeme v [worksheet4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet4.pdf))
 
-
 ### 6. cvičení (7. 11.)
 
 * **Program:** Rezoluce ve výrokové logice.
 * **Materiály:** [worksheet5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet5.pdf), [solutions5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions5.pdf)
-
 
 ### 7. cvičení (14. 11.)
 
@@ -144,7 +137,6 @@ TBA
 * [The lecture and tutorial](http://ktiml.mff.cuni.cz/~gregor/logics/index.html) by Dr. Gregor
 * [Lecture notes](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf) by me
 * [Older lecture notes](https://github.com/martinpilat/logic-book/blob/master/main.pdf) by Dr. Pilát
-
 
 ## Frequently Asked Questions
 
