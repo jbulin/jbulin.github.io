@@ -42,7 +42,7 @@ Dále musí být součástí řešení soubor README.md se stručnou dokumentac�
 
 ## Etická pravidla
 
-Při řešení musíte postupovat zcela samostatně. Není dovoleno řešení konzultovat s žádnou inteligencí kromě cvičícího. Můžete vyhledávat doplňující informace o daném problému (např. zajímavé instance nebo není-li vám jasné zadání problému), ale nesmí se týkat jeho zakódování do CNF nebo použití SAT solveru k jeho řešení. Nesmíte také číst žádný kód řešící daný (nebo příbuzný) problém. V případě nejasností jak postupovat se obraťte na cvičícího, který vám poskytne pomoc nebo nápovědu.
+Při řešení musíte postupovat zcela samostatně. Není dovoleno řešení konzultovat s nikým kromě cvičícího an používat nástroje generativní AI. Můžete vyhledávat doplňující informace o daném problému (např. zajímavé instance nebo není-li vám jasné zadání problému), ale nesmí se týkat jeho zakódování do CNF nebo použití SAT solveru k jeho řešení. Nesmíte také číst žádný kód řešící daný (nebo příbuzný) problém. V případě nejasností jak postupovat se obraťte na cvičícího, který vám poskytne pomoc nebo nápovědu.
 
 ## Ukázkové řešení
 
@@ -50,53 +50,55 @@ Pro inspiraci si prohlédněte [ukázkové řešení](https://gitlab.mff.cuni.cz
 
 ## Zadání
 
-Každý student v rámci jedné skupiny cvičení bude řešit jiný problém. Můžete si vybírat ze seznamu níže, nebo i navrhnout vlastní problém, který vás zajímá: V tom případě popište o jaký problém jde a proč vás zajímá (podléhá schválení cvičícím, musí být rozumně obtížný - proto raději uveďte i preference problémů ze seznamu).
+Každý student v rámci jedné skupiny cvičení bude řešit jiný problém. Můžete si vybírat ze seznamu níže, nebo i navrhnout vlastní problém, který vás zajímá: V tom případě popište (emailem) o jaký problém jde a proč vás zajímá (podléhá schválení cvičícím, musí být rozumně obtížný — proto raději uveďte i preference problémů ze seznamu).
 
 Neurčí-li váš cvičící jinak:
 
-Vaše preference pošlete cvičícímu emailem. Můžete napsat libovolné množství problémů, každý název problému na samostatný řádek dle pořadí preferencí. V případě, že o váš nejvíce preferovaný problém bude mít zájem více studentů, bude přidělen jednomu náhodně zvolenému, a dále se bude postupovat níže ve vašem seznamu preferencí. Bezproblémovým studentům budou nakonec přiřazeny nepřiřazené problémy náhodně.
+Vaše preference zadejte v Grupíku jako čísla problémů oddělená čárkami, např. "17,3,21,38". Můžete napsat libovolné množství problémů, dle pořadí preference. V případě, že o váš nejvíce preferovaný problém bude mít zájem více studentů, bude přidělen jednomu náhodně zvolenému, a dále se bude postupovat níže ve vašem seznamu preferencí. Bezproblémovým studentům budou nakonec přiřazeny nepřiřazené problémy náhodně.
 
 ## Odevzdání
 
 Neurčí-li váš cvičící jinak:
 
-Hotový projekt odevzdejte buď jako link na veřejný GitHub nebo GitLab repozitář, nebo v .zip souboru, jedno z toho zašlete emailem cvičícímu.
+Hotový projekt odevzdejte v Grupíku jako link na GitHub nebo GitLab repozitář. Repozitář může být buď veřejný, nebo povolte svému cvičícímu přístup.
 
 ## Seznam problémů
 
-* [Bipartite Dimension](https://en.wikipedia.org/wiki/Bipartite_dimension)
-* [Clique Cover](https://en.wikipedia.org/wiki/Clique_cover)
-* [Cubic Subgraph](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 26)
-* [Degree-constrained Spanning Tree](https://en.wikipedia.org/wiki/Degree-constrained_spanning_tree)
-* [Domatic Number](https://en.wikipedia.org/wiki/Domatic_number)
-* [Exact Cover](https://en.wikipedia.org/wiki/Exact_cover)
-* [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism_problem)
-* [Graph Partitioning](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 25)
-* [Hamiltonian Path](https://en.wikipedia.org/wiki/Hamiltonian_path_problem)
-* [Induced Subgraph Isomorphism](https://en.wikipedia.org/wiki/Induced_subgraph_isomorphism_problem)
-* [Intersection Number](https://en.wikipedia.org/wiki/Intersection_number_(graph_theory))
-* [Kernel](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 18)
-* [Killer Sudoku](https://www.csplib.org/Problems/prob057/), zobecnění pro mřížku $n\times n$ (kde $n$ je čtverec)
-* [Longest Circuit](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 17)
-* [Maximum Clique](https://www.csplib.org/Problems/prob074/)
-* [Maximum Density Still Life](https://www.csplib.org/Problems/prob032/)
-* [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game))
-* [Minimum Test Set](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 44)
-* [Monochromatic Triangle](https://en.wikipedia.org/wiki/Monochromatic_triangle)
-* [Nonogram](https://www.csplib.org/Problems/prob012/)
-* [Numberlink](https://en.wikipedia.org/wiki/Numberlink)
-* [Nurikabe](https://en.wikipedia.org/wiki/Nurikabe_(puzzle)), stačí omezení na čísla 1 a 2
-* [Peaceably Co-existing Armies of Queens](https://www.csplib.org/Problems/prob110/), zobecnění pro šachovnici $n\times n$
-* [Rural Postman](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 34)
-* [Set Cover](https://en.wikipedia.org/wiki/Set_cover_problem)
-* [Set Packing](https://en.wikipedia.org/wiki/Set_packing)
-* [Set Splitting](https://en.wikipedia.org/wiki/Set_splitting_problem)
-* [Shortest Common Superstring](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 16)
-* [Slitherink](https://en.wikipedia.org/wiki/Slitherlink)
-* [Social Golfers Problem](https://www.csplib.org/Problems/prob010/)
-* [Sports Tournament Scheduling](https://www.csplib.org/Problems/prob026/)
-* [Square-Tiling](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 54)
-* [Steiner Triple Systems](https://www.csplib.org/Problems/prob044/)
-* [Subgraph Isomorphism](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
-* [Three-dimensional Matching](https://en.wikipedia.org/wiki/3-dimensional_matching)
-* [Word Design for DNA Computing on Surfaces](https://www.csplib.org/Problems/prob033/)
+1. [Bipartite Dimension](https://en.wikipedia.org/wiki/Bipartite_dimension)
+2. [Clique Cover](https://en.wikipedia.org/wiki/Clique_cover)
+3. [Cubic Subgraph](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 26)
+4. [Degree-constrained Spanning Tree](https://en.wikipedia.org/wiki/Degree-constrained_spanning_tree)
+5. [Domatic Number](https://en.wikipedia.org/wiki/Domatic_number)
+6. [Exact Cover](https://en.wikipedia.org/wiki/Exact_cover)
+7. [Garden of Eden](https://conwaylife.com/wiki/Garden_of_Eden)
+8. [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism_problem)
+9. [Graph Partitioning](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 25)
+10. [Hamiltonian Path](https://en.wikipedia.org/wiki/Hamiltonian_path_problem)
+11. [Hitori](https://en.wikipedia.org/wiki/Hitori)
+12. [Induced Subgraph Isomorphism](https://en.wikipedia.org/wiki/Induced_subgraph_isomorphism_problem)
+13. [Intersection Number](https://en.wikipedia.org/wiki/Intersection_number_(graph_theory))
+14. [Kernel](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 18)
+15. [Killer Sudoku](https://www.csplib.org/Problems/prob057/), zobecnění pro mřížku $n\times n$ (kde $n$ je čtverec)
+16. [Longest Circuit](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 17)
+17. [Maximum Clique](https://www.csplib.org/Problems/prob074/)
+18. [Maximum Density Still Life](https://www.csplib.org/Problems/prob032/)
+19. [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game))
+20. [Minimum Test Set](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 44)
+21. [Monochromatic Triangle](https://en.wikipedia.org/wiki/Monochromatic_triangle)
+22. [Nonogram](https://www.csplib.org/Problems/prob012/)
+23. [Numberlink](https://en.wikipedia.org/wiki/Numberlink)
+24. [Nurikabe](https://en.wikipedia.org/wiki/Nurikabe_(puzzle)), stačí omezení na čísla 1 a 2
+25. [Peaceably Co-existing Armies of Queens](https://www.csplib.org/Problems/prob110/), zobecnění pro šachovnici $n\times n$
+26. [Rural Postman](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 34)
+27. [Set Cover](https://en.wikipedia.org/wiki/Set_cover_problem)
+28. [Set Packing](https://en.wikipedia.org/wiki/Set_packing)
+29. [Set Splitting](https://en.wikipedia.org/wiki/Set_splitting_problem)
+30. [Shortest Common Superstring](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 16)
+31. [Slitherink](https://en.wikipedia.org/wiki/Slitherlink)
+32. [Social Golfers Problem](https://www.csplib.org/Problems/prob010/)
+33. [Sports Tournament Scheduling](https://www.csplib.org/Problems/prob026/)
+34. [Square-Tiling](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (problém č. 54)
+35. [Steiner Triple Systems](https://www.csplib.org/Problems/prob044/)
+36. [Subgraph Isomorphism](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
+37. [Three-dimensional Matching](https://en.wikipedia.org/wiki/3-dimensional_matching)
+38. [Word Design for DNA Computing on Surfaces](https://www.csplib.org/Problems/prob033/)

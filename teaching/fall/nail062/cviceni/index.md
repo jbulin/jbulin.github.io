@@ -23,7 +23,7 @@ V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba 
 * 5 bodů za domácí úkol z výrokové logiky
 * 5 bodů za domácí úkol z predikátové logiky
 
-Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komunikovat s kýmkoliv kromě cvičícího. Řešení musí být 100% vaší vlastní prací, a je vaší povinností zajistit, že žádná další osoba nebude mít přístup k vašemu řešení.
+Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komunikovat s kýmkoliv kromě cvičícího. Také není povoleno při vypracování používat nástroje generativní AI. Řešení musí být 100% vaší vlastní prací, a je vaší povinností zajistit, že žádná další osoba nebude mít přístup k vašemu řešení.
 
 > K získání zápočtu je třeba získat celkem alespoň **140 bodů**, a zároveň alespoň **40 bodů z každého z testů**.
 
@@ -36,11 +36,9 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 ## Domácí úkoly:
 
-TBA
-
 * Domácí úkol z výrokové logiky: termín odevzdání  **03. 11.** do začátku cvičení, zadání: vyřešte [Vzorový test z výrokové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v Grupíku) v jediném PDF souboru s bílým pozadím.)
 * Domácí úkol z predikátové logiky: termín odevzdání  **15. 12.** do začátku cvičení, zadání: vyřešte [Vzorový test z predikátové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v Grupíku) v jediném PDF souboru s bílým pozadím. Části (b),(c) prvního příkladu nebudou hodnoceny, nejspíše ještě nestihneme dostatečně procvičit. Doporučuji ale zkusit si vyřešit.)
-* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), **do 20. 10.** zašlete své preference a problémy,  **do konce listopadu** odevzdejte hotový projekt (v Grupíku zadejte adresu repozitáře)
+* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), **do 20. 10.** zašlete své preference a problémy,  **do konce listopadu** odevzdejte hotový projekt (v Grupíku zadejte adresu repozitáře).
 
 
 ## Příklady na cvičení

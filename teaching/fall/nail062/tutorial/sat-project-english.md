@@ -42,7 +42,7 @@ The submission must also include a `README.md` file with brief documentation con
 
 ## Ethical Rules
 
-You must work completely independently. It is not allowed to consult any intelligence except the instructor. You may search for supplementary information about the problem (e.g., interesting instances or clarification of the problem statement), but this must not concern its CNF encoding or use of the SAT solver to solve it. You may also not read any code solving this (or related) problem. In case of uncertainty about how to proceed, contact the instructor, who will provide help or guidance.
+You must work completely independently. You are not allowed to consult your solution with anyone except the instructor, nor to use generative AI tools. You may search for supplementary information about the problem (e.g., interesting instances or clarification of the problem statement), but this must not concern its CNF encoding or use of the SAT solver to solve it. You may also not read any code solving this (or related) problem. In case of uncertainty about how to proceed, contact the instructor, who will provide help or guidance.
 
 ## Example Solution
 
@@ -50,53 +50,55 @@ For inspiration, see the [example solution](https://gitlab.mff.cuni.cz/svancaj/l
 
 ## Assignment
 
-Each student within a single tutorial group will solve a different problem. You can choose from the list below, or propose your own problem of interest: In that case, describe what the problem is and why it interests you (subject to instructor approval; it must be reasonably challenging; so it is better to also indicate your preferences from the list).
+Each student within one group will solve a different problem. You can choose from the list below, or you may propose your own problem that interests you: in that case, describe (by email) what the problem is and why it interests you (subject to approval by the instructor; it must be reasonably challenging — therefore, also state your preferences from the list as a backup).
 
 Unless your instructor specifies otherwise:
 
-Send your preferences to the instructor by email. You may list any number of problems, one problem per line in order of preference. If more students request the same most-preferred problem, it will be assigned randomly to one, and the next preference will be considered. Unassigned problems will be randomly assigned to remaining students.
+Enter your preferences in SIS in the Study Group Roster as problem numbers separated by commas, e.g. "17,3,21,38". You may list any number of problems, in order of preference. If more than one student is interested in your top-preference problem, it will be assigned randomly to one of them, and the process will continue down your list of preferences. Then, any students without problems will be randomly assigned a problem from the remaining unassigned problems.
 
 ## Submission
 
 Unless your instructor specifies otherwise:
 
-Submit the finished project either as a link to a public GitHub or GitLab repository, or as a `.zip` file; send one of these by email to the instructor.
+Submit the finished project in SIS in the Study Group Roster as a link to a GitHub or GitLab repository. The repository must either be public, or you must grant your instructor access.
 
 ## List of Problems
 
-* [Bipartite Dimension](https://en.wikipedia.org/wiki/Bipartite_dimension)
-* [Clique Cover](https://en.wikipedia.org/wiki/Clique_cover)
-* [Cubic Subgraph](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 26)
-* [Degree-constrained Spanning Tree](https://en.wikipedia.org/wiki/Degree-constrained_spanning_tree)
-* [Domatic Number](https://en.wikipedia.org/wiki/Domatic_number)
-* [Exact Cover](https://en.wikipedia.org/wiki/Exact_cover)
-* [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism_problem)
-* [Graph Partitioning](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 25)
-* [Hamiltonian Path](https://en.wikipedia.org/wiki/Hamiltonian_path_problem)
-* [Induced Subgraph Isomorphism](https://en.wikipedia.org/wiki/Induced_subgraph_isomorphism_problem)
-* [Intersection Number](https://en.wikipedia.org/wiki/Intersection_number_(graph_theory))
-* [Kernel](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 18)
-* [Killer Sudoku](https://www.csplib.org/Problems/prob057/), zobecnění pro mřížku $n\times n$ (where $n$ is a square)
-* [Longest Circuit](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 17)
-* [Maximum Clique](https://www.csplib.org/Problems/prob074/)
-* [Maximum Density Still Life](https://www.csplib.org/Problems/prob032/)
-* [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game))
-* [Minimum Test Set](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 44)
-* [Monochromatic Triangle](https://en.wikipedia.org/wiki/Monochromatic_triangle)
-* [Nonogram](https://www.csplib.org/Problems/prob012/)
-* [Numberlink](https://en.wikipedia.org/wiki/Numberlink)
-* [Nurikabe](https://en.wikipedia.org/wiki/Nurikabe_(puzzle)), you can limit the numbers to 1 or 2
-* [Peaceably Co-existing Armies of Queens](https://www.csplib.org/Problems/prob110/), generalized for an $n\times n$ chessboard
-* [Rural Postman](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 34)
-* [Set Cover](https://en.wikipedia.org/wiki/Set_cover_problem)
-* [Set Packing](https://en.wikipedia.org/wiki/Set_packing)
-* [Set Splitting](https://en.wikipedia.org/wiki/Set_splitting_problem)
-* [Shortest Common Superstring](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 16)
-* [Slitherink](https://en.wikipedia.org/wiki/Slitherlink)
-* [Social Golfers Problem](https://www.csplib.org/Problems/prob010/)
-* [Sports Tournament Scheduling](https://www.csplib.org/Problems/prob026/)
-* [Square-Tiling](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 54)
-* [Steiner Triple Systems](https://www.csplib.org/Problems/prob044/)
-* [Subgraph Isomorphism](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
-* [Three-dimensional Matching](https://en.wikipedia.org/wiki/3-dimensional_matching)
-* [Word Design for DNA Computing on Surfaces](https://www.csplib.org/Problems/prob033/)
+1. [Bipartite Dimension](https://en.wikipedia.org/wiki/Bipartite_dimension)
+2. [Clique Cover](https://en.wikipedia.org/wiki/Clique_cover)
+3. [Cubic Subgraph](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 26)
+4. [Degree-constrained Spanning Tree](https://en.wikipedia.org/wiki/Degree-constrained_spanning_tree)
+5. [Domatic Number](https://en.wikipedia.org/wiki/Domatic_number)
+6. [Exact Cover](https://en.wikipedia.org/wiki/Exact_cover)
+7. [Garden of Eden](https://conwaylife.com/wiki/Garden_of_Eden)
+8. [Graph Isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism_problem)
+9. [Graph Partitioning](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 25)
+10. [Hamiltonian Path](https://en.wikipedia.org/wiki/Hamiltonian_path_problem)
+11. [Hitori](https://en.wikipedia.org/wiki/Hitori)
+12. [Induced Subgraph Isomorphism](https://en.wikipedia.org/wiki/Induced_subgraph_isomorphism_problem)
+13. [Intersection Number](https://en.wikipedia.org/wiki/Intersection_number_(graph_theory))
+14. [Kernel](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 18)
+15. [Killer Sudoku](https://www.csplib.org/Problems/prob057/), zobecnění pro mřížku $n\times n$ (where $n$ is a square)
+16. [Longest Circuit](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 17)
+17. [Maximum Clique](https://www.csplib.org/Problems/prob074/)
+18. [Maximum Density Still Life](https://www.csplib.org/Problems/prob032/)
+19. [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game))
+20. [Minimum Test Set](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 44)
+21. [Monochromatic Triangle](https://en.wikipedia.org/wiki/Monochromatic_triangle)
+22. [Nonogram](https://www.csplib.org/Problems/prob012/)
+23. [Numberlink](https://en.wikipedia.org/wiki/Numberlink)
+24. [Nurikabe](https://en.wikipedia.org/wiki/Nurikabe_(puzzle)), you can limit the numbers to 1 or 2
+25. [Peaceably Co-existing Armies of Queens](https://www.csplib.org/Problems/prob110/), generalized for an $n\times n$ chessboard
+26. [Rural Postman](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 34)
+27. [Set Cover](https://en.wikipedia.org/wiki/Set_cover_problem)
+28. [Set Packing](https://en.wikipedia.org/wiki/Set_packing)
+29. [Set Splitting](https://en.wikipedia.org/wiki/Set_splitting_problem)
+30. [Shortest Common Superstring](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 16)
+31. [Slitherink](https://en.wikipedia.org/wiki/Slitherlink)
+32. [Social Golfers Problem](https://www.csplib.org/Problems/prob010/)
+33. [Sports Tournament Scheduling](https://www.csplib.org/Problems/prob026/)
+34. [Square-Tiling](https://cgi.csc.liv.ac.uk/~ped/teachadmin/COMP202/annotated_np.html) (Problem no. 54)
+35. [Steiner Triple Systems](https://www.csplib.org/Problems/prob044/)
+36. [Subgraph Isomorphism](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
+37. [Three-dimensional Matching](https://en.wikipedia.org/wiki/3-dimensional_matching)
+38. [Word Design for DNA Computing on Surfaces](https://www.csplib.org/Problems/prob033/)
