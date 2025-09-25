@@ -7,7 +7,7 @@ title: "NAIL062 Propositional and predicate logic"
 * 🇨🇿 Zde najdete informace o české přednášce Jakuba Bulína.
 * 🇨🇿 Stránky mého cvičení jsou [tady](cviceni/).
 * 🇬🇧 The English lecture of NAIL062 by Petr Gregor is under [this link](https://ktiml.mff.cuni.cz/~gregor/logics/).
-* 🇬🇧 The webpage of my English tutorial class is [here](tutorial/)
+* 🇬🇧 The webpage of my English tutorial class is [here](tutorial/).
 
 
 Konzultační hodiny:
@@ -20,9 +20,9 @@ nebo individuálně po předchozí domluvě (napište mi email), budou k dispozi
 
 ## Informace o zkouškách
 
-Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek (aktualizované pro ZS 2024/2025):
+Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek, upřesníme později. Pro netrpělivé, zde jsou informace platné pro loňský rok, nicméně očekávejte alespoň nějaké změny:
 
-* [Informace o zkouškách](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
+* [Informace o zkouškách z loňského roku](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
 
 
 ## Program přednášek (bude aktualizováno)
