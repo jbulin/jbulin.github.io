@@ -29,16 +29,16 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 ## Zápočtové testy
 
-* termín zápočtového testu z výrokové logiky: **10. 11.** [Vzorový test: výroková logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf)
+* termín zápočtového testu z výrokové logiky: **24. 11.** [Vzorový test: výroková logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf)
 * termín zápočtového testu z predikátové logiky: **5. 1.** [Vzorový test: predikátová logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf)
 * předběžný termín opravných testů (VL i PL): v prvním týdnu zkouškového období (upřesníme dle počtu nezapočtených studentů)
 
 
 ## Domácí úkoly:
 
-* Domácí úkol z výrokové logiky: termín odevzdání  **03. 11.** do začátku cvičení, zadání: vyřešte [Vzorový test z výrokové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v Grupíku) v jediném PDF souboru s bílým pozadím.)
+* Domácí úkol z výrokové logiky: termín odevzdání  **10. 11.** do začátku cvičení, zadání: vyřešte [Vzorový test z výrokové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v Grupíku) v jediném PDF souboru s bílým pozadím.)
 * Domácí úkol z predikátové logiky: termín odevzdání  **15. 12.** do začátku cvičení, zadání: vyřešte [Vzorový test z predikátové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v Grupíku) v jediném PDF souboru s bílým pozadím. Části (b),(c) prvního příkladu nebudou hodnoceny, nejspíše ještě nestihneme dostatečně procvičit. Doporučuji ale zkusit si vyřešit.)
-* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), **do 20. 10.** zašlete své preference a problémy,  **do konce listopadu** odevzdejte hotový projekt (v Grupíku zadejte adresu repozitáře).
+* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), **do 25. 10.** zašlete své preference a problémy,  **do konce listopadu** odevzdejte hotový projekt (v Grupíku zadejte adresu repozitáře).
 
 
 ## Příklady na cvičení
@@ -64,43 +64,42 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 ### 2. cvičení (6. 10.)
 
+* **Program:** Pokračujeme v programu z předchozího cvičení.
+* **Materiály:** Pokračujeme v [priklady1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady1.pdf), [reseni1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni1.pdf)
+
+### 3. cvičení (13. 10.)
+
 * **Program:** Syntaxe a sémantika výrokové logiky. Univerzálnost logických spojek. Převod do CNF a DNF. Vlastnosti a extenze teorií.
 * **Materiály:** [priklady2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady2.pdf), [reseni2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni2.pdf)
 
-### 3. cvičení (13. 10.)
+
+### 4. cvičení (20. 10.)
 
 * **Program:** Počítání výroků až na ekvivalenci. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Kódování problémů do SAT.
 * **Materiály:** [priklady3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady3.pdf), [reseni3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni3.pdf), [ukázka SAT solveru](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) včetně řešiče [Glucose](https://github.com/mi-ki/glucose-syrup), viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example)
 
 
-### 4. cvičení (20. 10.)
+### 5. cvičení (27. 10.)
 
 * **Program:** Tablo metoda ve výrokové logice. Věta o kompaktnosti a její aplikace.
 * **Materiály:** [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady4.pdf), [reseni4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni4.pdf)
 
 
-### 5. cvičení (27. 10.)
-
-* **Program:** (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady) + lehký úvod do rezoluční metody
-* **Materiály:** (pokračujeme v [priklady4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady4.pdf))
-
-
 ### 6. cvičení (3. 11.)
 
-* **Termín odevzdání Domácího úkolu z výrokové logiky**
 * **Program:** Rezoluce ve výrokové logice.
 * **Materiály:** [priklady5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady5.pdf), [reseni5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni5.pdf)
 
 
 ### 7. cvičení (10. 11.)
 
-* **Zápočtový test z výrokové logiky**
+* **Termín odevzdání Domácího úkolu z výrokové logiky**
 * **Program:** Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky. 
 * **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady6.pdf), [reseni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni6.pdf)
 
 ### 8. cvičení (24. 11.)
 
-
+* **Zápočtový test z výrokové logiky**
 * blíží termín odevzdání projektu na SAT solver
 * **Program:**  (pokračujeme v programu předchozího cvičení, řešíme nedodělané příklady)
 * **Materiály:** (pokračujeme v [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady6.pdf))

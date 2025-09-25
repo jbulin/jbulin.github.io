@@ -10,7 +10,7 @@ Your task is to create a system for solving a given computational problem using 
 
 Unless your instructor specifies otherwise:
 
-* expressing preferences or proposing your own problems to solve: **by October 20**
+* expressing preferences or proposing your own problems to solve: **by Oct 25**
 * submission of the finished project: **by the end of November**
 
 ## Assignment Guidelines

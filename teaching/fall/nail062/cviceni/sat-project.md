@@ -10,7 +10,7 @@ Vaším úkolem bude vytvořit systém pro řešení zadaného výpočetního pr
 
 Neurčí-li váš cvičící jinak:
 
-* vyjádření preferencí případně návrh vlastních problémů k řešení: **do 20. října**
+* vyjádření preferencí případně návrh vlastních problémů k řešení: **do 25. října**
 * odevzdání hotového projektu: **do konce listopadu**
 
 ## Zásady pro vypracování
