@@ -25,7 +25,7 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 I offer bachelor and master theses in theoretical computer science and/or artificial intelligence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
 
 
-### Upcoming: Fall 2025
+### Fall 2025
 
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
   * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
@@ -36,7 +36,7 @@ I offer bachelor and master theses in theoretical computer science and/or artifi
   * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
 
 
-### Spring 2025
+### Archive: Spring 2025
 
 * [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
   * 🇬🇧 [English lecture](teaching/spring/ntin071/)
