@@ -10,7 +10,8 @@ title: "NAIL062 Propositional and predicate logic"
 * 🇬🇧 The webpage of my English tutorial class is [here](tutorial/).
 
 
-Konzultační hodiny:
+Konzultační hodiny: <span style="color:red">**9.10.: Dnešní konultace jsou přesunuty z 14:00 na 17:15**</span>
+: 
 
 * Pondělí 10:40 v S303 
 * Pondělí 15:30 (po přednášce) před N1
