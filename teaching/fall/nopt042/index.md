@@ -15,7 +15,7 @@ title: "NOPT042 Constraint programming"
 ## Office hours during the teaching period:
 
 * Monday 10:40am in S303
-* Thursday 2pm in S303 (on Nov 20 cancelled due to a workshop)
+* Thursday 5:15pm in S303
 
 or make an appointment (via email); two additional hours per week will be available.
 

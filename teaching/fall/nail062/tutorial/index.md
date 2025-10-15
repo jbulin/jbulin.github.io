@@ -10,7 +10,7 @@ Here you will find information about the English tutorial class taught by me.
 
 * Monday 10:40am in S303  
 * Monday 3:30pm (after the lecture) in front of N1  
-* Thursday 2:00pm in S303 (on Nov 20 cancelled due to a workshop) 
+* Thursday 5:15pm in S303
 
 or make an appointment (via email); two additional hours per week will be available.
 
