@@ -38,7 +38,7 @@ Communication with anyone other than the instructor about the assignments is pro
 
 * Propositional logic homework: due **Nov 13** at the beginning of class. Task: solve the [Sample test for propositional logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-propositional-logic.pdf) (Submit on paper or in the SIS Module Study Group Roster as a single PDF file with white background.)  
 * Predicate logic homework: due **Dec 18** at the start of the exercise session. Task: solve the [Sample test for predicate logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-predicate-logic.pdf) (Submit on paper or in the SIS Module Study Group Roster as a single PDF file with white background. Part (c) of the first problem will not be graded, as we likely will not have enough time to practice it. However, it is recommended to try solving it.)
-* SAT solver application project: [detailed assignment](https://jbulin.github.io/teaching/fall/nail062/tutorial/sat-project-english.html), **by Oct 20** submit your preferences and suggestions for problems, **by end of November** submit the finished project
+* SAT solver application project: [detailed assignment](https://jbulin.github.io/teaching/fall/nail062/tutorial/sat-project-english.html), **by Oct 25** submit your preferences and suggestions for problems, **by end of November** submit the finished project
 
 ## Worksheets
 
