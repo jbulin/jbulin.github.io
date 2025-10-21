@@ -17,7 +17,7 @@ title: "NOPT042 Constraint programming"
 <span style="color:red">**Oct 9: Today's office hours are postponed from 2pm to 5:15pm**</span>
 
 * Monday 10:40am in S303
-* Thursday 2pm in S303 (on Nov 20 cancelled due to a workshop)
+* Thursday 5:15pm in S303
 
 or make an appointment (via email); two additional hours per week will be available.
 

@@ -15,7 +15,7 @@ Konzultační hodiny: <span style="color:red">**9.10.: Dnešní konultace jsou p
 
 * Pondělí 10:40 v S303 
 * Pondělí 15:30 (po přednášce) před N1
-* Čtvrtek 14:00 v S303 (20. listopadu zrušeny kvůli školení)
+* Čtvrtek 17:15 v S303
 
 nebo individuálně po předchozí domluvě (napište mi email), budou k dispozici další dvě hodiny týdně.
 
