@@ -60,7 +60,7 @@ Enter your preferences in SIS in the Study Group Roster as problem numbers separ
 
 Unless your instructor specifies otherwise:
 
-Submit the finished project in SIS in the Study Group Roster as a link to a GitHub or GitLab repository. The repository must either be public, or you must grant your instructor access.
+Submit the finished project in the SIS module Study Group Roster as a link to a GitHub or GitLab repository. The repository must either be public, or you must grant your instructor access.
 
 ## List of Problems
 

@@ -37,9 +37,9 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 ## Domácí úkoly:
 
-* Domácí úkol z výrokové logiky: termín odevzdání  **10. 11.** do začátku cvičení, zadání: vyřešte [Vzorový test z výrokové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v Grupíku) v jediném PDF souboru s bílým pozadím.)
-* Domácí úkol z predikátové logiky: termín odevzdání  **15. 12.** do začátku cvičení, zadání: vyřešte [Vzorový test z predikátové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v Grupíku) v jediném PDF souboru s bílým pozadím. Části (b),(c) prvního příkladu nebudou hodnoceny, nejspíše ještě nestihneme dostatečně procvičit. Doporučuji ale zkusit si vyřešit.)
-* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), **do 25. 10.** zašlete své preference a problémy,  **do konce listopadu** odevzdejte hotový projekt (v Grupíku zadejte adresu repozitáře).
+* Domácí úkol z výrokové logiky: termín odevzdání  **10. 11.** do začátku cvičení, zadání: vyřešte [Vzorový test z výrokové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v SISu v modulu Studijní mezivýsledky) v jediném PDF souboru s bílým pozadím.)
+* Domácí úkol z predikátové logiky: termín odevzdání  **15. 12.** do začátku cvičení, zadání: vyřešte [Vzorový test z predikátové logiky](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf) (Odevzdejte na papíře nebo v SISu (v SISu v modulu Studijní mezivýsledky) v jediném PDF souboru s bílým pozadím. Části (b),(c) prvního příkladu nebudou hodnoceny, nejspíše ještě nestihneme dostatečně procvičit. Doporučuji ale zkusit si vyřešit.)
+* Domácí úkol na aplikaci SAT solveru: [podrobné zadání](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html), **do 25. 10.** zašlete své preference a problémy,  **do konce listopadu** odevzdejte hotový projekt (v SISu v modulu Studijní mezivýsledky zadejte adresu repozitáře).
 
 
 ## Příklady na cvičení
