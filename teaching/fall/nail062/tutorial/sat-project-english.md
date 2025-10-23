@@ -54,7 +54,7 @@ Each student within one group will solve a different problem. You can choose fro
 
 Unless your instructor specifies otherwise:
 
-Enter your preferences in SIS in the Study Group Roster as problem numbers separated by commas, e.g. "17,3,21,38". You may list any number of problems, in order of preference. If more than one student is interested in your top-preference problem, it will be assigned randomly to one of them, and the process will continue down your list of preferences. Then, any students without problems will be randomly assigned a problem from the remaining unassigned problems.
+Enter your preferences in SIS in the Study Group Roster as problem numbers separated by commas, e.g. "17,3,21,38". You may list any number of problems, in order of preference. Projects are then assigned using a maximum weight matching algorithm; weights are given by your ranking with a small bonus for longer preference lists.
 
 ## Submission
 
