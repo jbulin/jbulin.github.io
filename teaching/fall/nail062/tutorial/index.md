@@ -8,8 +8,6 @@ Here you will find information about the English tutorial class taught by me.
 
 ## Office hours during the teaching period
 
-<span style="color:red">**Oct 9: Today's office hours are postponed from 2pm to 5:15pm**</span>
-
 * Monday 10:40am in S303  
 * Monday 3:30pm (after the lecture) in front of N1  
 * Thursday 5:15pm in S303

@@ -6,8 +6,7 @@ title: "NAIL062 Výroková a predikátová logika: cvičení"
 
 Zde najdete informace k mému českému cvičení.
 
-Konzultační hodiny: <span style="color:red">**9.10.: Dnešní konultace jsou přesunuty z 14:00 na 17:15**</span>
-
+Konzultační hodiny:
 
 * Pondělí 10:40 v S303 
 * Pondělí 15:30 (po přednášce) před N1
