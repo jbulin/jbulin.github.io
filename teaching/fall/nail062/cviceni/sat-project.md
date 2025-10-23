@@ -54,7 +54,7 @@ Každý student v rámci jedné skupiny cvičení bude řešit jiný problém. M
 
 Neurčí-li váš cvičící jinak:
 
-Vaše preference zadejte v SISu v modulu Studijní mezivýsledky jako čísla problémů oddělená čárkami, např. "17,3,21,38". Můžete napsat libovolné množství problémů, dle pořadí preference. V případě, že o váš nejvíce preferovaný problém bude mít zájem více studentů, bude přidělen jednomu náhodně zvolenému, a dále se bude postupovat níže ve vašem seznamu preferencí. Bezproblémovým studentům budou nakonec přiřazeny nepřiřazené problémy náhodně.
+Vaše preference zadejte v SISu v modulu Studijní mezivýsledky jako čísla problémů oddělená čárkami, např. "17,3,21,38". Můžete napsat libovolné množství problémů, dle pořadí preference. Problémy budou přiřazeny pomocí algoritmu váženého párování, kde váhy jsou dány pořadím vaší preference s malým bonusem pro delší seznamy preferencí.
 
 ## Odevzdání
 
