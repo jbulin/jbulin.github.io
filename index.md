@@ -4,7 +4,7 @@ title: "Personal academic website of Jakub Bulín"
 
 # About me
 
-> I a Lecturer at the [Department of Theoretical Computer Science and Mathematical Logic ("KTIML")](https://www.ktiml.mff.cuni.cz/KTIML-1.html), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/) of the [Charles University](https://cuni.cz/UK-1.html) in Prague, Czechia.
+> I am a Lecturer at the [Department of Theoretical Computer Science and Mathematical Logic ("KTIML")](https://www.ktiml.mff.cuni.cz/KTIML-1.html), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/) of the [Charles University](https://cuni.cz/UK-1.html) in Prague, Czechia.
 
 I am one of the logicians in [this picture](files/me.jpg).
 

@@ -17,10 +17,16 @@ several important open problems.
 
 ## The team
 
+Professional collaborators:
+
 * [Jakub Bulín](https://jbulin.github.io/)
-* [Vojtěch David](https://www.vojtechdavid.cz/) (from April 2025)
 * [Michael Kompatscher](https://www.karlin.mff.cuni.cz/~kompatscher/)
 * [Dmitriy Zhuk](https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=14961)
+
+Students:
+
+* [Vojtěch David](https://www.vojtechdavid.cz/) (from April 2025)
+* [Marko Štajgár](https://www.stajgar.org/) (from November 2025)
 
 ## Abstract
 
