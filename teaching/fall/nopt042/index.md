@@ -14,7 +14,7 @@ title: "NOPT042 Constraint programming"
 
 ## Office hours during the teaching period:
 
-<span style="color:red">**Oct 9: Today's office hours are postponed from 2pm to 5:15pm**</span>
+<span style="color:red">**Dec 1: The tutorial is replaced by a double lecture (stay in S9)**</span>
 
 * Monday 10:40am in S303
 * Thursday 5:15pm in S303
@@ -102,7 +102,7 @@ The individual notebooks are also posted below as PDFs and HTML slides.
 
 * **Program:** Rostering problems. Global constraints based on finite automata.
 * **Notebook:** [tutorial7.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial7/tutorial7.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial7/tutorial7.slides.html))
-* **Homework:** Feast
+* **Homework:** Zoo
 
 ### November 17: No class, national holiday
 
@@ -110,7 +110,7 @@ The individual notebooks are also posted below as PDFs and HTML slides.
 
 * **Program:** Global constraints. Routing.
 * **Notebook:** [tutorial8.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial8/tutorial8.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial8/tutorial8.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial8/tutorial8.slides.html))
-* **Homework:** Routing
+* **Homework:** Delivery
 
 ### December 1: Double lecture instead of the tutorial (stay in S9)
 
@@ -119,7 +119,7 @@ The individual notebooks are also posted below as PDFs and HTML slides.
 
 * **Program:** Implicit constraints.
 * **Notebook:** [tutorial9.ipynb](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial9/tutorial9.ipynb) ([pdf](https://github.com/jbulin-mff-uk/nopt042/raw/main/tutorial9/tutorial9.pdf), [html](https://rawcdn.githack.com/jbulin-mff-uk/nopt042/4e4a0b860cc58760990ba32aa21e15de4a05a6f1/tutorial9/tutorial9.slides.html))
-* **Homework:** Life
+* **Homework:** Car sequencing
 
 ### 10th tutorial (Dec 15)
 
