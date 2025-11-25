@@ -20,9 +20,9 @@ nebo individuálně po předchozí domluvě (napište mi email), budou k dispozi
 
 ## Informace o zkouškách
 
-Zde najdete aktualizované podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek:
+Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek:
 
-* [Informace o zkouškách z loňského roku](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
+* [Informace o zkouškách](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
 
 <!-- Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek, upřesníme později. Pro netrpělivé, zde jsou informace platné pro loňský rok, nicméně očekávejte alespoň nějaké změny:
 
