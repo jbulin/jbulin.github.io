@@ -32,7 +32,19 @@ Communication with anyone other than the instructor about the assignments is pro
 
 * Propositional logic test date: **Nov 20** [Sample test: Propositional Logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-propositional-logic.pdf)  
 * Predicate logic test date: **Jan 8** [Sample test: Predicate Logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-predicate-logic.pdf)  
+<!--
 * Preliminary retake dates (for both tests): during the first week of the exam period (will be specified depending on the number of students who will not have passed)
+-->
+Retake test dates:
+
+* propositional logic retake test: **Jan 14, 9:00am in S4**
+* predicate logic retake test: **Jan 15, 9:00am in S4**
+
+
+
+Zdraví
+
+JB
 
 ## Homework
 

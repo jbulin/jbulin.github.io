@@ -31,7 +31,12 @@ Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komun
 
 * termín zápočtového testu z výrokové logiky: **24. 11.** [Vzorový test: výroková logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf)
 * termín zápočtového testu z predikátové logiky: **5. 1.** [Vzorový test: predikátová logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf)
+<!--
 * předběžný termín opravných testů (VL i PL): v prvním týdnu zkouškového období (upřesníme dle počtu nezapočtených studentů)
+-->
+Termíny opravných testů:
+* opravný test z VL: **14. 1. 9:00 v S4**
+* opravný test z PL: **15. 1. 9:00 v S4**
 
 
 ## Domácí úkoly:
