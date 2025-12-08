@@ -32,19 +32,11 @@ Communication with anyone other than the instructor about the assignments is pro
 
 * Propositional logic test date: **Nov 20** [Sample test: Propositional Logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-propositional-logic.pdf)  
 * Predicate logic test date: **Jan 8** [Sample test: Predicate Logic](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/sample-test-predicate-logic.pdf)  
-<!--
-* Preliminary retake dates (for both tests): during the first week of the exam period (will be specified depending on the number of students who will not have passed)
--->
+
 Retake test dates:
 
 * propositional logic retake test: **Jan 14, 9:00am in S4**
 * predicate logic retake test: **Jan 15, 9:00am in S4**
-
-
-
-Zdraví
-
-JB
 
 ## Homework
 
@@ -64,7 +56,6 @@ JB
 | 8. The tableau method in predicate logic    | [worksheet8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet8.pdf)   | [solutions8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions8.pdf)  |
 | 9. Prep for resolution in predicate logic    | [worksheet9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet9.pdf)   | [solutions9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions9.pdf)  |
 | 10. Resolution in predicate logic    | [worksheet10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet10.pdf)   | [solutions10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions10.pdf)  |
-
 
 ## Tutorial schedule (will be updated)
 
@@ -106,7 +97,7 @@ JB
 
 ### 8th Tutorial (Nov 20)
 
-* **Test on propositional logic** 
+* **Test on propositional logic**
 * approaching the deadline for submission of the SAT solver project  
 * **Program:** (continuation of the previous tutorial’s program, finishing unfinished exercises)  
 * **Materials:** (continuing with [worksheet6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet6.pdf))
@@ -138,7 +129,6 @@ JB
 * **Program:** Selected topics from model theory.  
 * **Materials:** (continuing with [worksheet10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet10.pdf))
 -->
-
 
 ## Useful Links
 
