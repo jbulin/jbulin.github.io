@@ -17,7 +17,6 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 ## Written test
 
 * The date: **Thursday, May 14** in class
- [homework.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/homework.pdf)
 * [list-of-requirements.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/list-of-requirements.pdf) (may be updated)
 * [sample-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/sample-test.pdf)
 * retake test dates (see the credit requirements described below) will be determined later
