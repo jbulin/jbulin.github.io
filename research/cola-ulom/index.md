@@ -36,8 +36,19 @@ The project aims to enhance the state-of-art methods based on inspection of the 
 
 ## Visitors
 
-Coming soon.
+* [Andrew Moorhead](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/andrew-paul-moorhead) (TU Dresden)
+* [Lorenzo Ciardo](https://sites.google.com/view/lorenzociardo/home-page) (TU Graz)
 
 ## Results
 
-* V. David, D. Zhuk, *On the lattice of multi-sorted relational clones on a two-element set*, arXiv:2505.06033 [math.LO] ([preprint](https://arxiv.org/abs/2505.06033))
+**Publications:**
+
+* D. Zhuk, “\Pi_2^P vs PSpace Dichotomy for the Quantified Constraint Satisfaction Problem,” SIAM J. Comput., pp. 1514–1567, Dec. 2025, doi: 10.1137/25M1725747.
+* M. Kompatscher and P. Mayr, “Every Finite Nilpotent Loop has a Supernilpotent Loop as Reduct,” Results Math, vol. 81, no. 1, p. 21, Dec. 2025, doi: 10.1007/s00025-025-02568-2.
+
+**Preprints:**
+
+* J. Bulín and M. Kompatscher, “Polynomial definability in constraint languages with few subpowers,” Jan. 27, 2026, arXiv: arXiv:2305.01984. doi: 10.48550/arXiv.2305.01984.
+* V. David and D. Zhuk, “On the lattice of multi-sorted relational clones on a two-element set,” Dec. 01, 2025, arXiv: arXiv:2505.06033. doi: 10.48550/arXiv.2505.06033.
+* S. Fioravanti, M. Kompatscher, B. Rossi, and A. Vucaj, “Mal’cev clones over a three-element set up to minor-equivalence,” Aug. 09, 2025, arXiv: arXiv:2508.06918. doi: 10.48550/arXiv.2508.06918.
+

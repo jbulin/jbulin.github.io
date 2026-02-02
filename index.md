@@ -24,8 +24,19 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 I offer bachelor and master theses in theoretical computer science and/or artificial intelligence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
 
+### Archive: Spring 2026
 
-### Fall 2025
+* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
+  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
+  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/tutorial/)
+  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
+
+* [NOPT059 Large-scale optimization: Metaheuristics](teaching/spring/nopt061/)
+  * 🇬🇧 [Lecture](teaching/spring/nopt061/)
+
+* [NAIL140 Selected topics in logic](teaching/spring/nail140/)
+
+### Archive: Fall 2025
 
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
   * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
@@ -34,17 +45,6 @@ I offer bachelor and master theses in theoretical computer science and/or artifi
 
 * [NOPT042 Constraint Programming](teaching/fall/nopt042/)
   * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
-
-
-### Archive: Spring 2025
-
-* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
-  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
-  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/tutorial/)
-  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
-
-* [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
-  * 🇬🇧 [Lecture](teaching/spring/nopt059/)
 
 
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
@@ -64,6 +64,8 @@ I am the PI of [COLA:ULOM](research/cola-ulom/), where we study constraint langu
 
 ### Selected publications
 
+* (preprint) J. Bulín and M. Kompatscher, *Polynomial definability in constraint languages with few subpowers,* Jan. 27, 2026, [arXiv:2305.01984](https://arxiv.org/abs/2305.01984), doi: 10.48550/arXiv.2305.01984.
+
 * J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science (MFCS 2023) Vol. 272, 28:1–28:15 (2023)
 
 * M. Bodirsky, J. Bulín, F. Starke, and M. Wernthaler. *The Smallest Hard Trees*,  Constraints 28/2, 105–137 (2023)
@@ -72,9 +74,6 @@ I am the PI of [COLA:ULOM](research/cola-ulom/), where we study constraint langu
 
 * J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
 
-* L. Barto and J. Bulín. *Deciding absorption in relational structures*, Algebra Universalis 78(1), 3–18 (2017)
-
-* J. Bulín, D. Delić, M. Jackson, and T. Niven. *A finer reduction of constraint problems to digraphs*, Logical Methods in Computer Science 11(4:18), 1–33 (2015)
 
 My papers on [Google Scholar](https://scholar.google.com/citations?user=pEMTqcMAAAAJ), on [ArXiv](https://arxiv.org/a/bulin_j_1), and my [ORCID](https://orcid.org/0000-0001-5235-8715) page.
 

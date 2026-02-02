@@ -5,6 +5,17 @@ title: "Teaching archive"
 # Teaching archive
 
 
+### Archive: Spring 2025
+
+* [NTIN071 Automata and Grammars](teaching/spring/ntin071/)
+  * 🇬🇧 [English lecture](teaching/spring/ntin071/)
+  * 🇬🇧 [English tutorial x1](teaching/spring/ntin071/tutorial/)
+  * 🇨🇿 [Czech tutorial x2](teaching/spring/ntin071/cviceni/)
+
+* [NOPT059 Large-scale optimization: Exact methods](teaching/spring/nopt059/)
+  * 🇬🇧 [Lecture](teaching/spring/nopt059/)
+
+
 ### Archive: Fall 2024
 
 * [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
