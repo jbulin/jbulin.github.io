@@ -15,18 +15,16 @@ Office hours during the teaching period  (in S303):
 
 * TBD
 
-or individually by appointment. (If you plan to come but expect to be late, please email me.)
+or individually by appointment.
 
 Office hours during the exam period are scheduled ad hoc as needed. Email me your time constraints sufficiently in advance.
 
 ## Info about exams
 
-To be provided at a later date.
-<!--
 Information about exams, including a list of exam questions:
 
 * [about-exams.pdf](about-exams.pdf)
--->
+
 
 ## Tentative schedule
 
