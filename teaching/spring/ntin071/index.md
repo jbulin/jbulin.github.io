@@ -30,16 +30,16 @@ Information about exams, including a list of exam questions:
 
 ### Lecture 1 (Feb 16)
 
-* **Program:**  Introduction, Deterministic Finite Automaton, Regular Languages, Pumping Lemma
+* **Program:**  Introduction, Deterministic Finite Automaton, Regular Languages, Myhill–Nerode theorem 
 * **Slides:** [slides1.pdf](slides1.pdf)
-* Supplemental resources: Hopcroft 1.1, 1.5, 2.1-2, 4.1; Sipser 1.1, 1.4
+* Supplemental resources: Hopcroft 1.1, 1.5, 2.1-2; Sipser 1.1; for Myhill-Nerode theorem: [Wikipedia](https://en.wikipedia.org/wiki/Myhill%E2%80%93Nerode_theorem), [Stanford guide](https://web.stanford.edu/class/archive/cs/cs103/cs103.1254/guide_to_myhill_nerode)
 
 
 ### Lecture 2 (Feb 23)
 
-* **Program:** Myhill–Nerode theorem, Equivalent and Minimal Representations
+* **Program:** Pumping Lemma, Equivalent and Minimal Representations
 * **Slides:** [slides2.pdf](slides2.pdf)
-* Supplemental resources: Hopcroft 4.4; for Myhill-Nerode theorem: [Wikipedia](https://en.wikipedia.org/wiki/Myhill%E2%80%93Nerode_theorem), [Stanford guide](https://web.stanford.edu/class/archive/cs/cs103/cs103.1254/guide_to_myhill_nerode)
+* Supplemental resources: Hopcroft 4.1, 4.4; Sipser 1.4
 
 ### Lecture 3 (Mar 2)
 
