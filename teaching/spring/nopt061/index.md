@@ -10,6 +10,12 @@ The course is taught bi-yearly (in even-numbered years), alternating with the co
 
 The course will be scheduled in the beginning of the semester (probably during the first week). Classes start from the second week. If you are interested, please email me your time constraints.
 
+## Schedule for Spring 2026
+
+* Lecture: Friday, 9am in S1
+* Practical: Friday, 10:40am in S4
+
+
 ## About this course
 
 The aim of course is to introduce the main principles of various heuristic optimization methods based on convex optimization and artificial intelligence, with emphasis on large-scale instances. Moreover, during the accompanying tutorial you will gain experience in applying these methods in practice.

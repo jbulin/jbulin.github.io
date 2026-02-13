@@ -14,15 +14,16 @@ or individually by appointment. (If you plan to come but expect to be late, plea
 
 Office hours during the exam period are scheduled ad hoc as needed. Email me your time constraints sufficiently in advance.
 
-## Written test
+## Getting the credit
 
-* The date: **Thursday, May 14** in class
-* [list-of-requirements.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/list-of-requirements.pdf) (may be updated)
-* [sample-test.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/sample-test.pdf)
-* retake test dates (see the credit requirements described below) will be determined later
+The credit requirements are described in the PDF below, please review them, and aks any questions in class.
 
+* [credit-requirements.pdf](credit-requirements.pdf)
+* [sample-test.pdf](sample-test.pdf)
+* written test date: **Thursday, May 14** in class
+* retake test dates: TBD
 
-## Program
+## Tentative schedule (to be updated)
 
 ### 1st class (Feb 19)
 
@@ -100,17 +101,3 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 * _What should I do if I have a question?_ --- Check the FAQ. If you don't see the answer here email me putting "ntin071" and "tutorial" in the subject.
 * _What if I want a consultation?_ --- Talk to me after class, come to the scheduled office hours, or email me to arrange an appointment.
 * _Are the tutorials streamed or recorded?_ --- No, but a plenty of office hours time is available for those who miss a class. Use it!
-
-## Credit requirements
-
-In order to get the credit, you need to gain at least 80 points.
-
-At the end of the semester (during one of the last two exercise sessions, unless stated otherwise), there will be a written test for which you can earn up to 120 points. In addition, you can earn up to 20 points during classes, for homework assignments and active participation.
-
-The credit test may be retaken, up to a maximum of two times. (The best achieved result counts. The dates of the retake tests will be specified later.)
-
-Homework assignments will be given at the end of each class, and the submission deadline is always the beginning of the following class. Write your solution on a separate A4 sheet of paper, and be prepared to present your solution as well. Only a subset of the submitted solutions will be graded. Homework solutions must be 100% your own work; communicating about them with anyone, searching for hints, etc., is prohibited. It is your responsibility to ensure that no other person has access to your solution.
-
-Active participation consists of presenting solutions to assigned problems, or material from the lectures.
-
-Up to three absences from class per semester may be excused by email, no later than 10 minutes before the start. In that case, neither the homework nor class participation will be graded.
