@@ -8,7 +8,8 @@ title: "NOPT061 Large-scale optimization: Metaheuristics"
 
 The course is taught bi-yearly (in even-numbered years), alternating with the course [NOPT059 Large-scale optimization: Exact methods](../nopt059/).
 
-The course will be scheduled in the beginning of the semester (probably during the first week). Classes start from the second week. If you are interested, please email me your time constraints.
+The course will be scheduled in the beginning of the semester (probably during the first week). If you are interested, please email me your time constraints. ~~Classes start from the second week.~~ <span style="color:red"> *In Spring 2026, classes start already in the first week, that is, on February 20!*</span>
+
 
 ## Schedule for Spring 2026
 
