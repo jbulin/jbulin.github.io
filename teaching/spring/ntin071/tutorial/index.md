@@ -28,63 +28,63 @@ The credit requirements are described in the PDF below, please review them, and 
 ### 1st class (Feb 19)
 
 * **Program:** Deterministic finite automaton, recognized language, regular languages
-* **Worksheet:** [tutorial1.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial1.pdf)
+* **Worksheet:** [tutorial1.pdf](tutorial1.pdf)
 
 ### 2nd class (Feb 26)
 
 * **Program:** Pumping Lemma, Myhill-Nerode theorem
-* **Worksheet:** [tutorial2.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial2.pdf)
+* **Worksheet:** [tutorial2.pdf](tutorial2.pdf)
 
 ### 3rd class (Mar 5)
 
 * **Program:** Equivalent and minimal representations, testing properties, nondeterminism, subset construction
-* **Worksheet:** [tutorial3.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial3.pdf)
+* **Worksheet:** [tutorial3.pdf](tutorial3.pdf)
 
 ### 4th class (Mar 12)
 
 * **Program:** Closure properties of regular languages
-* **Worksheet:** [tutorial4.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial4.pdf)
+* **Worksheet:** [tutorial4.pdf](tutorial4.pdf)
 
 ### 5th class (Mar 19)
 
 * **Program:** Regular expressions (bonus: 2-way automata)
-* **Worksheet:** [tutorial5.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial5.pdf)
+* **Worksheet:** [tutorial5.pdf](tutorial5.pdf)
 
 ### 6th class (Mar 26)
 
 * **Program:** Formal grammars, regular and context-free grammars
-* **Worksheet:** [tutorial6.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial6.pdf)
+* **Worksheet:** [tutorial6.pdf](tutorial6.pdf)
 
 ### 7th class (Apr 2)
 
 * **Program:** Chomsky normal form, The CYK algorithm
-* **Worksheet:** [tutorial7.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial7.pdf)
+* **Worksheet:** [tutorial7.pdf](tutorial7.pdf)
 
 ### 8th class (Apr 9)
 
 * **Program:** Pumping lemma for context-free languages
-* **Worksheet:** [tutorial8.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial8.pdf)
+* **Worksheet:** [tutorial8.pdf](tutorial8.pdf)
 
 ### 9th class (Apr 16)
 
 * **Program:** Pushdown automata, conversion between PDA and CFG
-* **Worksheet:** [tutorial9.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial9.pdf)
+* **Worksheet:** [tutorial9.pdf](tutorial9.pdf)
 
 ### 10th class (Apr 23)
 
 * **Program:** Properties of context-free languages, DPDA
-* **Worksheet:** [tutorial10.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial10.pdf)
+* **Worksheet:** [tutorial10.pdf](tutorial10.pdf)
 
 ### 11th class (Apr 30)
 
 * **Homework due date!**
 * **Program:** Turing Machines
-* **Worksheet:** [tutorial11.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial11.pdf)
+* **Worksheet:** [tutorial11.pdf](tutorial11.pdf)
 
 ### 12th class (May 7)
 
 * **Program:** Intro to complexity theory
-* **Worksheet:** [tutorial12.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/tutorial/tutorial12.pdf)
+* **Worksheet:** [tutorial12.pdf](tutorial12.pdf)
 
 ### Bonus 13th class (May 21)
 
