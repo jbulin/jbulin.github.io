@@ -32,17 +32,18 @@ The credit requirements are described in the PDF below, please review them, and 
 
 ### 2nd class (Feb 26)
 
-* **Program:** Pumping Lemma, Myhill-Nerode theorem
+* **Program:** Pumping Lemma , Myhill-Nerode theorem, Equivalent and minimal representations
 * **Worksheet:** [tutorial2.pdf](tutorial2.pdf)
 
+<!--
 ### 3rd class (Mar 5)
 
-* **Program:** Equivalent and minimal representations, testing properties, nondeterminism, subset construction
+* **Program:** Testing properties. Nondeterminism, subset construction. 
 * **Worksheet:** [tutorial3.pdf](tutorial3.pdf)
 
 ### 4th class (Mar 12)
 
-* **Program:** Closure properties of regular languages
+* **Program:** Closure properties of regular languages.
 * **Worksheet:** [tutorial4.pdf](tutorial4.pdf)
 
 ### 5th class (Mar 19)
@@ -77,7 +78,6 @@ The credit requirements are described in the PDF below, please review them, and 
 
 ### 11th class (Apr 30)
 
-* **Homework due date!**
 * **Program:** Turing Machines
 * **Worksheet:** [tutorial11.pdf](tutorial11.pdf)
 
@@ -89,6 +89,8 @@ The credit requirements are described in the PDF below, please review them, and 
 ### Bonus 13th class (May 21)
 
 * **Program:** Review & Exam preparation
+
+-->
 
 ## Useful links
 

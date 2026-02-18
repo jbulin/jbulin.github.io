@@ -38,9 +38,10 @@ Termíny testů:
 
 ### 2. cvičení (Čt 26.2. // Pá 27.2.)
 
-* **Program:** Pumping lemma, Myhill-Nerodeova věta
+* **Program:** Pumping lemma, Myhill-Nerodeova věta, Ekvivalentní a minimální reprezentace
 * **Materiály:** [cviceni2.pdf](cviceni2.pdf)
 
+<!--
 ### 3. cvičení (Čt 5.3. // Pá 6.3.)
 
 * **Program:** Ekvivalentní a minimální reprezentace, testování vlastností, nedeterminismus, podmnožinová konstrukce
@@ -97,6 +98,7 @@ Termíny testů:
 * **Program:** Opakování, příprava na zkoušku
 * studenti páteční skupiny jsou vítáni, bude-li kapacita
 
+-->
 
 ## Užitečné odkazy
 
