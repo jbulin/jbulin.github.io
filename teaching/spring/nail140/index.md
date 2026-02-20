@@ -22,6 +22,8 @@ If you are interested, please enroll in the SIS, or contact me or Petr Gregor wi
 
 ## Spring 2026
 
+* Monday 2pm in S303 (starting from the 2nd week of the semester)
+
 The topics will be discussed at the beginning of the semester.
 
 

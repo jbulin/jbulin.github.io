@@ -13,7 +13,8 @@ This is the webpage of the English lecture (Monday, 9am in S4) taught by Jakub B
 
 Office hours during the teaching period  (in S303):
 
-* TBD
+* Monday 10:40am
+* Thursday 2pm
 
 or individually by appointment.
 

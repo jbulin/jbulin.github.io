@@ -8,7 +8,8 @@ Zde najdete informace k mým českým cvičením (Čt 15:40 v S7 / Pá 10:40 v S
 
 Konzultační hodiny během výuky (v S303):
 
-* určíme začátkem semestru
+* Pondělí 10:40
+* Čtvrtek 14:00
 
 nebo individuálně po předchozí domluvě emailem. (Pokud plánujete přijít později, prosím napište.)
 

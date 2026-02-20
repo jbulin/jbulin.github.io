@@ -16,6 +16,13 @@ The course will be scheduled in the beginning of the semester (probably during t
 * Lecture: Friday, 9am in S1
 * Practical: Friday, 10:40am in S4
 
+Office hours during the teaching period (in S303):
+
+* Monday 10:40am
+* Thursday 2pm
+
+or individually by appointment. (If you plan to come but expect to be late, please email me.)
+
 
 ## About this course
 

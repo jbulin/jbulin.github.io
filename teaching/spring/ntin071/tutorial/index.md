@@ -8,7 +8,8 @@ This page contains information about my English tutorial class (Thu 12:20am in S
 
 Office hours during the teaching period (in S303):
 
-* TBD
+* Monday 10:40am
+* Thursday 2pm
 
 or individually by appointment. (If you plan to come but expect to be late, please email me.)
 
