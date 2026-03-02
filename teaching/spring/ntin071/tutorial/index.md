@@ -36,21 +36,23 @@ The credit requirements are described in the PDF below, please review them, and 
 * **Program:** Pumping Lemma , Myhill-Nerode theorem, Equivalent and minimal representations
 * **Worksheet:** [tutorial2.pdf](tutorial2.pdf)
 
-<!--
+
 ### 3rd class (Mar 5)
 
-* **Program:** Testing properties. Nondeterminism, subset construction. 
+* **Program:** Testing properties, nondeterminism, subset construction, closure under set operations
 * **Worksheet:** [tutorial3.pdf](tutorial3.pdf)
 
 ### 4th class (Mar 12)
 
-* **Program:** Closure properties of regular languages.
+* **Program:** Closure under string operations
 * **Worksheet:** [tutorial4.pdf](tutorial4.pdf)
 
 ### 5th class (Mar 19)
 
-* **Program:** Regular expressions (bonus: 2-way automata)
+* **Program:** Regular expressions, 2-way automata
 * **Worksheet:** [tutorial5.pdf](tutorial5.pdf)
+
+<!--
 
 ### 6th class (Mar 26)
 

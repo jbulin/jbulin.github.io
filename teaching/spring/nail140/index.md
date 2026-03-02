@@ -27,14 +27,23 @@ If you are interested, please enroll in the SIS, or contact me or Petr Gregor wi
 The topics will be discussed at the beginning of the semester.
 
 
-### Resources
+### Topic and resources
 
-* TBA
+We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 
+**Main resource:** Grädel, E. (2007). Finite Model Theory and Descriptive Complexity. In E. Grädel, P. G. Kolaitis, L. Libkin, M. Marx, J. Spencer, M. Y. Vardi, Y. Venema, & S. Weinstein (Eds.), Finite Model Theory and Its Applications (pp. 125–230). Springer. https://doi.org/10.1007/3-540-68804-8_3
 
-### Tentative schedule
+### Program
 
-* TBA
-
-
-
+* Week 1: Introduction, discussion of possible topics
+* Week 2: The Hintikka Model checking game, strategy problem for finite games, equivalence with Horn-SAT
+* Week 3: Alternating TMs, Complexity of FO Model checking.
+* Week 4:
+* Week 5:
+* Week 6:
+* Week 7:
+* Week 8:
+* Week 9:
+* Week 10:
+* Week 11:
+* Week 12:

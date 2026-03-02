@@ -42,22 +42,23 @@ Termíny testů:
 * **Program:** Pumping lemma, Myhill-Nerodeova věta, Ekvivalentní a minimální reprezentace
 * **Materiály:** [cviceni2.pdf](cviceni2.pdf)
 
-<!--
+
 ### 3. cvičení (Čt 5.3. // Pá 6.3.)
 
-* **Program:** Ekvivalentní a minimální reprezentace, testování vlastností, nedeterminismus, podmnožinová konstrukce
+* **Program:** Testování vlastností, nedeterminismus, podmnožinová konstrukce, uzavřenost na množinové operace
 * **Materiály:** [cviceni3.pdf](cviceni3.pdf)
 
 ### 4. cvičení (Čt 12.3. // Pá 13.3.)
 
-* **Program:** Uzávěrové vlastnosti regulárních jazyků
+* **Program:** Uzavřenost na řetězcové operace
 * **Materiály:** [cviceni4.pdf](cviceni4.pdf)
 
 ### 5. cvičení (Čt 19.3. // Pá 20.3.)
 
-* **Program:** Regulární výrazy (bonus: dvousměrné automaty)
+* **Program:** Regulární výrazy, dvousměrné automaty
 * **Materiály:** [cviceni5.pdf](cviceni5.pdf)
 
+<!--
 ### 6. cvičení (Čt 26.3. // Pá 27.3.)
 
 * **Program:** Formální gramatiky, regulární a bezkontextové gramatiky
