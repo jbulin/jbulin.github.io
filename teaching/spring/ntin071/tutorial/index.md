@@ -36,7 +36,6 @@ The credit requirements are described in the PDF below, please review them, and 
 * **Program:** Pumping Lemma , Myhill-Nerode theorem, Equivalent and minimal representations
 * **Worksheet:** [tutorial2.pdf](tutorial2.pdf)
 
-
 ### 3rd class (Mar 5)
 
 * **Program:** Testing properties, nondeterminism, subset construction, closure under set operations

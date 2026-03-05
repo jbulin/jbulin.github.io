@@ -50,9 +50,8 @@ Information about exams, including a list of exam questions:
 
 ### Lecture 4 (Mar 9)
 
-* **Program:** Regular expressions, Kleene's theorem, String substitution
-* **Slides:** [slides4.pdf](slides4.pdf)
-* Addendum: [2way-and-output-automata.pdf](https://github.com/jbulin-mff-uk/ntin071/raw/main/lecture/slides/2way-and-output-automata.pdf)
+* **Program:** Regular expressions, Kleene's theorem, String substitution, Two-way automata
+* **Slides:** [slides4.pdf](slides4.pdf) with [appendix](slides4-appendix.pdf)
 * Supplemental resources: Hopcroft 3.1-3.3; Sipser 1.3
 
 ### Lecture 5 (Mar 16)
