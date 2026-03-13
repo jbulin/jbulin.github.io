@@ -64,13 +64,13 @@ Information about exams, including a list of exam questions:
 
 * **Program:** Chomsky normal form, Pumping lemma for context-free languages
 * **Slides:** [slides6.pdf](slides6.pdf)
-* Supplemental resources: Hopcroft 7.1-2; Sipser 2.3
+* Supplemental resources: Hopcroft 7.1-2, 7.4.3-4; Sipser 2.3
 
 ### Lecture 7 (Mar 30)
 
-* **Program:** The CYK algorithm, Pushdown automata
+* **Program:** Pushdown automata
 * **Slides:** [slides7.pdf](slides7.pdf)
-* Supplemental resources: Hopcroft 7.4.4, 6.1-2; Sipser 2.1-2
+* Supplemental resources: Hopcroft 6.1-2; Sipser 2.1-2
 
 ### Lecture 8 (Apr 13)
 
