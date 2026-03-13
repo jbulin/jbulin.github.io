@@ -58,11 +58,12 @@ Termíny testů:
 * **Program:** Regulární výrazy, dvousměrné automaty
 * **Materiály:** [cviceni5.pdf](cviceni5.pdf)
 
-<!--
 ### 6. cvičení (Čt 26.3. // Pá 27.3.)
 
 * **Program:** Formální gramatiky, regulární a bezkontextové gramatiky
 * **Materiály:** [cviceni6.pdf](cviceni6.pdf)
+
+<!--
 
 ### 7. cvičení (Čt 2.4. // Pá 10.4.)
 

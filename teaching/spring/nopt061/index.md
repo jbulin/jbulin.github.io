@@ -10,7 +10,6 @@ The course is taught bi-yearly (in even-numbered years), alternating with the co
 
 The course will be scheduled in the beginning of the semester (probably during the first week). If you are interested, please email me your time constraints. ~~Classes start from the second week.~~ <span style="color:red"> *In Spring 2026, classes start already in the first week, that is, on February 20!*</span>
 
-
 ## Schedule for Spring 2026
 
 * Lecture: Friday, 9am in S1
@@ -22,7 +21,6 @@ Office hours during the teaching period (in S303):
 * Thursday 2pm
 
 or individually by appointment. (If you plan to come but expect to be late, please email me.)
-
 
 ## About this course
 
@@ -45,15 +43,18 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 ### Lecture 1 - Introduction, Heuristics, Metaheuristics
 
 Combinatorial optimization
+
 * Examples: Traveling Salesman Problem (TSP), Knapsack
 * Exact method, heuristic, metaheuristic, hybrid metaheuristic
 
 Basic heuristic methods
+
 * Constructive heuristics (example: greedy)
 * Local search (LS)
   * extension: Variable neighborhood descent
 
 Metaheuristics
+
 * Greedy randomized adaptive search procedure (GRASP)
 * Iterated greedy algorithms
 * Iterated local search
@@ -69,11 +70,13 @@ Metaheuristics
 ### Lecture 2 - Evolutionary and Memetic Algorithms, Exact Methods
 
 Evolutionary and memetic algorithms
+
 * Evolutionary algorithms
 * Memetic algorithms
 * Lamarckian vs. Baldwinian learning
 
 Exact methods
+
 * Tree search methods (Branch and Bound, example: Knapsack)
 * Dynamic programming (example: Knapsack)
 * Mixed integer programming (MIP) (review of LP, if necessary)
@@ -92,6 +95,7 @@ Incomplete/indirect solution representations
 Decoder-based metaheuristics
 
 Application: Generalized Minimum Spanning Tree
+
 * Initial solutions
 * Node set based VNS
 * Global edge set based VNS
@@ -106,6 +110,7 @@ Application: Generalized Minimum Spanning Tree
 Construct, Merge, Solve & Adapt Algorithm(CSMA)
 
 Application: Minimum Common String Partition
+
 * Probabilistic solution generation
 * Solving reduced sub-instances
 
@@ -118,33 +123,26 @@ Application: Minimum Common String Partition
 MIP-based Large neighborhood search
 
 Application: Minimum Weight Dominating Set
+
 * initial solution (greedy heuristic)
 * partial destruction of solutions
 
 Application: Generalized Minimum Spanning Tree
+
 * global subtree optimization neighborhood
 
 #### Resources
 
 * [powerful] Chapter 4
 
-### Lecture 6 - Multi-depot Vehicle Scheduling
-
-Single-depot vs. Multi-depot vehicle scheduling problem
-
-Variable depth local search for MDVSP
-
-#### Resources
-
-* [multi-depot-scheduling] Sections 1, 2.1-2.5
-
-### Lecture 7 - Parallel Non-independent Construction
+### Lecture 6 - Parallel Non-independent Construction
 
 General idea
 Beam Search
 Beam-ACO: Beam search + Ant Colony Optimization
 
 Application: Multidimensional Knapsack (MK)
+
 * greedy heuristic
 * beam search for MK
 * pure-ACO approach to MK
@@ -154,7 +152,7 @@ Application: Multidimensional Knapsack (MK)
 
 * [powerful] Chapter 5
 
-### Lecture 8 - Construction and Constraint Programming
+### Lecture 7 - Construction and Constraint Programming
 
 Hybrids of constructive metaheuristics and constraint programming
 
@@ -166,7 +164,7 @@ Application: Machine Scheduling with Sequence-dependent Setup Times
 
 *[emerging] Paper 6
 
-### Lecture 9 - Complete solution archives
+### Lecture 8 - Complete solution archives
 
 General idea
 
@@ -180,19 +178,7 @@ Application: Generalized Minimum Spanning Tree (GMST)
 
 * [powerful] Chapter 6, Sections 6.1 & 6.3
 
-### Lecture 10 - Surrogate models
-
-Surrogate models
-
-Probabilistic surrogate models
-
-Surrogate optimization
-
-#### Resources
-
-* [algorithms-for-optimization] Chapters 14-16
-
-### Lecture 11 - Hyper-heuristics
+### Lecture 9 - Hyper-heuristics
 
 Introduction
 
@@ -206,13 +192,42 @@ Hyper-heuristics for
 
 * [search-methodologies] Chapter 20
 
+### Lecture 10 - TBA
+
+### Lecture 11 - TBA
+
+<!--
+### Lecture ? - Multi-depot Vehicle Scheduling
+
+Single-depot vs. Multi-depot vehicle scheduling problem
+
+Variable depth local search for MDVSP
+
+#### Resources
+
+* [multi-depot-scheduling] Sections 1, 2.1-2.5
+
+### Lecture ? - Surrogate models
+
+Surrogate models
+
+Probabilistic surrogate models
+
+Surrogate optimization
+
+#### Resources
+
+* [algorithms-for-optimization] Chapters 14-16
+
+-->
+
 ## Exam requirements
 
 The exam is oral with written preparation. Requirements for the exam correspond to the syllabus of the course in the extent that has been covered in the lecture. Obtaining the credit from the tutorial is a necessary requirement for taking the exam.
 
 ## Frequently asked questions (FAQ)
 
-* _I am interested in this course!_ --- That's not a question. But email me!
-* _Where and when is the first class?_ --- The course will start in the second week of the semester. We will agree on the where and when by email during the first week.
-* _What should I do if I have a question?_ --- Check the FAQ. If you don't see the answer here email me putting "nopt061" in the subject.
-* _What if I want a consultation?_ --- Talk to me after class, come to the scheduled office hours, or email me to arrange an appointment.
+* *I am interested in this course!* --- That's not a question. But email me!
+* *Where and when is the first class?* --- The course will start in the second week of the semester. We will agree on the where and when by email during the first week.
+* *What should I do if I have a question?* --- Check the FAQ. If you don't see the answer here email me putting "nopt061" in the subject.
+* *What if I want a consultation?* --- Talk to me after class, come to the scheduled office hours, or email me to arrange an appointment.

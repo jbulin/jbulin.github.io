@@ -51,12 +51,13 @@ The credit requirements are described in the PDF below, please review them, and 
 * **Program:** Regular expressions, 2-way automata
 * **Worksheet:** [tutorial5.pdf](tutorial5.pdf)
 
-<!--
-
 ### 6th class (Mar 26)
 
 * **Program:** Formal grammars, regular and context-free grammars
 * **Worksheet:** [tutorial6.pdf](tutorial6.pdf)
+
+<!--
+
 
 ### 7th class (Apr 2)
 
