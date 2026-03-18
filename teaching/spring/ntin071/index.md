@@ -68,13 +68,13 @@ Information about exams, including a list of exam questions:
 
 ### Lecture 7 (Mar 30)
 
-* **Program:** Pushdown automata
+* **Program:** Pushdown automata, Equivalence of PDA and CFG
 * **Slides:** [slides7.pdf](slides7.pdf)
 * Supplemental resources: Hopcroft 6.1-2; Sipser 2.1-2
 
 ### Lecture 8 (Apr 13)
 
-* **Program:** Equivalence of PDA and CFG, Deterministic PDA
+* **Program:** Deterministic PDA
 * **Slides:** [slides8.pdf](slides8.pdf)
 * Supplemental resources: Hopcroft 6.3-4, 7.4; Sipser 2.2
 
