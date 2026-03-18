@@ -63,12 +63,13 @@ Termíny testů:
 * **Program:** Formální gramatiky, regulární a bezkontextové gramatiky
 * **Materiály:** [cviceni6.pdf](cviceni6.pdf)
 
-<!--
 
 ### 7. cvičení (Čt 2.4. // Pá 10.4.)
 
-* **Program:** Chomského normální forma, Algoritmus CYK
+* **Program:** Pumping lemma pro bezkontextové jazyky, Chomského normální forma
 * **Materiály:** [cviceni7.pdf](cviceni7.pdf)
+
+<!--
 
 ### 8. cvičení (Čt 9.4. // Pá 17.4.)
 

@@ -56,17 +56,16 @@ The credit requirements are described in the PDF below, please review them, and 
 * **Program:** Formal grammars, regular and context-free grammars
 * **Worksheet:** [tutorial6.pdf](tutorial6.pdf)
 
-<!--
-
-
 ### 7th class (Apr 2)
 
-* **Program:** Chomsky normal form, The CYK algorithm
+* **Program:** Pumping lemma for context-free languages, Chomsky normal form
 * **Worksheet:** [tutorial7.pdf](tutorial7.pdf)
+
+<!--
 
 ### 8th class (Apr 9)
 
-* **Program:** Pumping lemma for context-free languages
+* **Program:** 
 * **Worksheet:** [tutorial8.pdf](tutorial8.pdf)
 
 ### 9th class (Apr 16)
