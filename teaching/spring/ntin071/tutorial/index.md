@@ -61,31 +61,30 @@ The credit requirements are described in the PDF below, please review them, and 
 * **Program:** Pumping lemma for context-free languages, Chomsky normal form
 * **Worksheet:** [tutorial7.pdf](tutorial7.pdf)
 
-<!--
 
 ### 8th class (Apr 9)
 
-* **Program:** 
+* **Program:** Pushdown automata, conversion between PDA and CFG
 * **Worksheet:** [tutorial8.pdf](tutorial8.pdf)
 
 ### 9th class (Apr 16)
 
-* **Program:** Pushdown automata, conversion between PDA and CFG
+* **Program:** Properties of context-free languages
 * **Worksheet:** [tutorial9.pdf](tutorial9.pdf)
 
 ### 10th class (Apr 23)
 
-* **Program:** Properties of context-free languages, DPDA
+* **Program:** Turing Machines
 * **Worksheet:** [tutorial10.pdf](tutorial10.pdf)
 
 ### 11th class (Apr 30)
 
-* **Program:** Turing Machines
+* **Program:** Intro to complexity theory
 * **Worksheet:** [tutorial11.pdf](tutorial11.pdf)
 
 ### 12th class (May 7)
 
-* **Program:** Intro to complexity theory
+* **Program:** More about complexity
 * **Worksheet:** [tutorial12.pdf](tutorial12.pdf)
 
 ### Bonus 13th class (May 21)

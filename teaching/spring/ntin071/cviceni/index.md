@@ -69,32 +69,31 @@ Termíny testů:
 * **Program:** Pumping lemma pro bezkontextové jazyky, Chomského normální forma
 * **Materiály:** [cviceni7.pdf](cviceni7.pdf)
 
-<!--
 
 ### 8. cvičení (Čt 9.4. // Pá 17.4.)
 
-* **Program:** Pumping lemma pro bezkontextové jazyky
+* **Program:** Zásobníkové automaty, převod mezi PDA a CFG
 * **Materiály:** [cviceni8.pdf](cviceni8.pdf)
 
 ### 9. cvičení (Čt 16.4. // Pá 24.4.)
 
-* **Program:** Zásobníkové automaty, převod mezi PDA a CFG
+* **Program:** Vlastnosti bezkontextových jazyků
 * **Materiály:** [cviceni9.pdf](cviceni9.pdf)
 
 ### 10. cvičení (Čt 23.4. // Pá 15.5.)
 
-* **Program:** Vlastnosti bezkontextových jazyků, DPDA
+* **Program:** Turingovy stroje
 * **Materiály:** [cviceni10.pdf](cviceni10.pdf)
 
 ### 11. cvičení (Čt 30.4. // Pá není)
 
-* **Program:** Turingovy stroje
+* **Program:** Úvod do výpočetní složitosti
 * **Materiály:** [cviceni11.pdf](cviceni11.pdf)
 * studenti páteční skupiny jsou vítáni, bude-li kapacita
 
 ### 12. cvičení (Čt 7.5. // Pá není)
 
-* **Program:** Úvod do výpočetní složitosti
+* **Program:** Více o složitosti
 * **Materiály:** [cviceni12.pdf](cviceni12.pdf)
 * studenti páteční skupiny jsou vítáni, bude-li kapacita
 
@@ -102,7 +101,6 @@ Termíny testů:
 * **Program:** Opakování, příprava na zkoušku
 * studenti páteční skupiny jsou vítáni, bude-li kapacita
 
--->
 
 ## Užitečné odkazy
 

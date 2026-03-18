@@ -38,7 +38,7 @@ We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 * Week 1: Introduction, discussion of possible topics
 * Week 2: The Hintikka Model checking game, strategy problem for finite games, equivalence with Horn-SAT
 * Week 3: Alternating TMs, Complexity of FO Model checking.
-* Week 4:
+* Week 4: More about complexity, APTIME=PSPACE
 * Week 5:
 * Week 6:
 * Week 7:

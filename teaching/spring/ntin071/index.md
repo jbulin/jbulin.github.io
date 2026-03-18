@@ -84,33 +84,31 @@ Information about exams, including a list of exam questions:
 * **Slides:** [slides9.pdf](slides9.pdf)
 * Supplemental resources: Hopcroft 8.2-5; Sipser 3.1-2
 
-<!--
 
 ### Lecture 10 (Apr 27)
 
-* **Program:** 
+* **Program:** Intro to computability
 * **Slides:** [slides10.pdf](slides10.pdf)
 
 
 ### Lecture 11 (May 4)
 
-* **Program:** TMs and Grammars, Linear-bounded automata and Context-sensitive grammars, Intro to Computability theory
+* **Program:** 
 * **Slides:** [slides11.pdf](slides11.pdf)
 * Supplemental resources: Wikipedia articles [Unrestricted grammar](https://en.wikipedia.org/wiki/Unrestricted_grammar), [Context-sensitive grammar](https://en.wikipedia.org/wiki/Context-sensitive_grammar); Hopcroft 8.1-2
 
 ### Lecture 12 (May 11)
 
-* **Program:** Universal TM, Diagonal language, Post's theorem. Undecidable problems, Post's correspondence problem
+* **Program:** 
 * **Slides:** [slides12.pdf](slides12.pdf)
 * Supplemental resources: Hopcroft 8.1, 9.1-5; Sipser 4.1-2, 5.1-3
 
 ### Lecture 13 (May 18)
 
-* **Program:** Intro to Complexity theory
+* **Program:** 
 * **Slides:** [slides13.pdf](slides13.pdf)
 * Supplemental resources: Hopcroft 10.1-4, 11.1-3; Sipser 7.1-5, 8.1-4
 
--->
 
 
 ## Resources and useful links
