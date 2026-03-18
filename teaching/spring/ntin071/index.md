@@ -74,21 +74,23 @@ Information about exams, including a list of exam questions:
 
 ### Lecture 8 (Apr 13)
 
-* **Program:** Deterministic PDA
+* **Program:** Deterministic PDA, Properties of CFLs
 * **Slides:** [slides8.pdf](slides8.pdf)
-* Supplemental resources: Hopcroft 6.3-4, 7.4; Sipser 2.2
+* Supplemental resources: Hopcroft 6.3-4, 7.3-4; Sipser 2.2, for Dyck languages: [Wikipedia](https://en.wikipedia.org/wiki/Dyck_language)
 
 ### Lecture 9 (Apr 20)
 
-* **Program:** Closure properties of context-free languages, Dyck languages
+* **Program:** Turing Machines
 * **Slides:** [slides9.pdf](slides9.pdf)
-* Supplemental resources: Hopcroft 7.3, for Dyck languages: [Wikipedia](https://en.wikipedia.org/wiki/Dyck_language)
+* Supplemental resources: Hopcroft 8.2-5; Sipser 3.1-2
+
+<!--
 
 ### Lecture 10 (Apr 27)
 
-* **Program:** Turing Machines
+* **Program:** 
 * **Slides:** [slides10.pdf](slides10.pdf)
-* Supplemental resources: Hopcroft 8.2-5; Sipser 3.1-2
+
 
 ### Lecture 11 (May 4)
 
@@ -107,6 +109,8 @@ Information about exams, including a list of exam questions:
 * **Program:** Intro to Complexity theory
 * **Slides:** [slides13.pdf](slides13.pdf)
 * Supplemental resources: Hopcroft 10.1-4, 11.1-3; Sipser 7.1-5, 8.1-4
+
+-->
 
 
 ## Resources and useful links
