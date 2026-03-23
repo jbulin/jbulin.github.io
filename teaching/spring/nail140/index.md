@@ -19,13 +19,11 @@ If you are interested, please enroll in the SIS, or contact me or Petr Gregor wi
 
 * [NAIL140 in the SIS](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=NAIL140)
 
+The topics will be discussed at the beginning of the semester.
 
 ## Spring 2026
 
 * Monday 2pm in S303 (starting from the 2nd week of the semester)
-
-The topics will be discussed at the beginning of the semester.
-
 
 ### Topic and resources
 
