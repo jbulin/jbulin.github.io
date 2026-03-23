@@ -33,17 +33,21 @@ We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 
 **Main resource:** Grädel, E. (2007). Finite Model Theory and Descriptive Complexity. In E. Grädel, P. G. Kolaitis, L. Libkin, M. Marx, J. Spencer, M. Y. Vardi, Y. Venema, & S. Weinstein (Eds.), Finite Model Theory and Its Applications (pp. 125–230). Springer. https://doi.org/10.1007/3-540-68804-8_3
 
+**Supplementary resources:**
+* Sipser, M. (with Lee, M.). (2013). Introduction to the theory of computation (3rd ed.). Course Technology Cengage Learning.
+
+
 ### Program
 
-* Week 1: Introduction, discussion of possible topics
-* Week 2: The Hintikka Model checking game, strategy problem for finite games, equivalence with Horn-SAT
-* Week 3: Alternating TMs, Complexity of FO Model checking.
-* Week 4: More about complexity, APTIME=PSPACE
-* Week 5:
-* Week 6:
-* Week 7:
-* Week 8:
-* Week 9:
-* Week 10:
-* Week 11:
-* Week 12:
+* **Week 1:** Introduction, discussion of possible topics.
+* **Week 2:** The Hintikka Model checking game, strategy problem for finite games, equivalence with Horn-SAT. [Grädel 3.1.1-3.1.4]
+* **Week 3:** Basics of complexity theory, Alternating Turing Machines, Complexity of FO Model checking. [Grädel 3.1.4]
+* **Week 4:** APTIME=PSPACE, ALOGSPACE=PTIME, QBF is NP-complete. Encoding structures by words [Grädel part of 3.1.5, Sipser 10.3, 8.3]
+* **Week 5:** PLAN: Exercise 3.1.11, Isomorphism invariance, the easy implication of Fagin's theorem. [Grädel the rest of 3.1.5, part of 3.2.1]
+* **Week 6:** PLAN: The hard implication of Fagin's theorem. [Grädel the rest of 3.2.1]
+* **Week 7:**
+* **Week 8:**
+* **Week 9:**
+* **Week 10:**
+* **Week 11:**
+* **Week 12:**
