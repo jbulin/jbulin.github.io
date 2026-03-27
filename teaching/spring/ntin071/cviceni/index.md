@@ -77,7 +77,7 @@ Termíny testů:
 
 ### 9. cvičení (Čt 16.4. // Pá 24.4.)
 
-* **Program:** Vlastnosti bezkontextových jazyků
+* **Program:** Vlastnosti bezkontextových jazyků, DPDA
 * **Materiály:** [cviceni9.pdf](cviceni9.pdf)
 
 ### 10. cvičení (Čt 23.4. // Pá 15.5.)
@@ -94,7 +94,7 @@ Termíny testů:
 ### 12. cvičení (Čt 7.5. // Pá není)
 
 * **Program:** Více o složitosti
-* **Materiály:** [cviceni12.pdf](cviceni12.pdf)
+* **Materiály:** pokračujeme v [cviceni11.pdf](cviceni11.pdf)
 * studenti páteční skupiny jsou vítáni, bude-li kapacita
 
 ### Bonusové 13. cvičení (Čt 21.5. // Pá není) 
