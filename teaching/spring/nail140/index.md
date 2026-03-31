@@ -41,8 +41,8 @@ We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 * **Week 2:** The Hintikka Model checking game, strategy problem for finite games, equivalence with Horn-SAT. [Grädel 3.1.1-3.1.4]
 * **Week 3:** Basics of complexity theory, Alternating Turing Machines, Complexity of FO Model checking. [Grädel 3.1.4]
 * **Week 4:** APTIME=PSPACE, ALOGSPACE=PTIME, QBF is NP-complete. Encoding structures by words [Grädel part of 3.1.5, Sipser 10.3, 8.3]
-* **Week 5:** PLAN: Exercise 3.1.11, Isomorphism invariance, the easy implication of Fagin's theorem. [Grädel the rest of 3.1.5, part of 3.2.1]
-* **Week 6:** PLAN: The hard implication of Fagin's theorem. [Grädel the rest of 3.2.1]
+* **Week 5:** The canonical encoding is good. Isomorphism invariance, its undecidability using Trakhtenbrot's theorem. [Grädel the rest of 3.1.5]
+* **Week 6:** PLAN: Fagin's theorem. [Grädel 3.2.1]
 * **Week 7:**
 * **Week 8:**
 * **Week 9:**

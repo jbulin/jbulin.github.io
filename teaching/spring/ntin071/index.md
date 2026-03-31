@@ -74,7 +74,7 @@ Information about exams, including a list of exam questions:
 
 ### Lecture 8 (Apr 13)
 
-* **Program:** Deterministic PDA, Properties of CFLs
+* **Program:** Deterministic PDA, Properties of context-free languages
 * **Slides:** [slides8.pdf](slides8.pdf)
 * Supplemental resources: Hopcroft 6.3-4, 7.3-4; Sipser 2.2, for Dyck languages: [Wikipedia](https://en.wikipedia.org/wiki/Dyck_language)
 
@@ -87,28 +87,27 @@ Information about exams, including a list of exam questions:
 
 ### Lecture 10 (Apr 27)
 
-* **Program:** Intro to computability
+* **Program:** Recursive and recursively enumerable languages, Intro to computability
 * **Slides:** [slides10.pdf](slides10.pdf)
-
+* Supplemental resources: Wikipedia articles [Unrestricted grammar](https://en.wikipedia.org/wiki/Unrestricted_grammar), [Context-sensitive grammar](https://en.wikipedia.org/wiki/Context-sensitive_grammar); Hopcroft 8.1, 9.1-2; Sipser 4.2
 
 ### Lecture 11 (May 4)
 
-* **Program:** 
+* **Program:** Undecidable problems
 * **Slides:** [slides11.pdf](slides11.pdf)
-* Supplemental resources: Wikipedia articles [Unrestricted grammar](https://en.wikipedia.org/wiki/Unrestricted_grammar), [Context-sensitive grammar](https://en.wikipedia.org/wiki/Context-sensitive_grammar); Hopcroft 8.1-2
+* Supplemental resources: Hopcroft 9.3-9.5; Sipser 5.1-3
 
 ### Lecture 12 (May 11)
 
-* **Program:** 
+* **Program:** Intro to complexity theory
 * **Slides:** [slides12.pdf](slides12.pdf)
-* Supplemental resources: Hopcroft 8.1, 9.1-5; Sipser 4.1-2, 5.1-3
+* Supplemental resources: Hopcroft 10.1-4, 11.1; Sipser 7.1-5
 
 ### Lecture 13 (May 18)
 
-* **Program:** 
+* **Program:** More about complexity theory
 * **Slides:** [slides13.pdf](slides13.pdf)
-* Supplemental resources: Hopcroft 10.1-4, 11.1-3; Sipser 7.1-5, 8.1-4
-
+* Supplemental resources: , 11.1-3; Sipser 8.1-4
 
 
 ## Resources and useful links
