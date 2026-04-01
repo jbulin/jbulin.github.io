@@ -107,7 +107,7 @@ Information about exams, including a list of exam questions:
 
 * **Program:** Space complexity. Circuit complexity. RAM.
 * **Slides:** [slides13.pdf](slides13.pdf)
-* Supplemental resources: , 11.1-3; Sipser 8.1-4
+* Supplemental resources: Hopcroft, 11.1-3; Sipser 8.1-4, 9.3, 10.5
 
 
 ## Resources and useful links
