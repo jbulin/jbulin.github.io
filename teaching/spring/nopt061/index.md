@@ -34,9 +34,15 @@ We expect you to be somewhat familiar with linear programming. Although certainl
 * [emerging] Blum et al - Hybrid Metaheuristics: An Emerging Approach to Optimization
 * [handbook] Gendreau, Potvin - Handbook of Metaheuristics (3rd edition)
 * [comparing-memetic] Jiaojiao, Gulyás, Botzheim - Comparing Lamarckian and Baldwinian Approaches in Memetic Optimization
+* [search-methodologies] Burke, Kendall - Search Methodologies: Introductory Tutorials in Optimization and Decision Support Techniques
+* [[fixed-set-search]](https://link.springer.com/chapter/10.1007/978-3-030-05983-5_5) Jovanovic et al - Fixed Set Search Applied to the Traveling Salesman Problem
+* [[policy-gradients]](https://dl.acm.org/doi/abs/10.1145/3712256.3726452) Jardee, Sheppard - Ant Colony Optimization with Policy Gradients and Replay
+* [[on-the-fly-insertion]](https://dl.acm.org/doi/abs/10.1145/3638529.3654057) Bresich et al - Letting a Large Neighborhood Search for an Electric Dial-A-Ride Problem Fly: On-The-Fly Charging Station Insertion
+
+<!--
 * [multi-depot-scheduling] Otsuki, Aihara - New variable depth local search for multiple depot vehicle scheduling problems
 * [algorithms-for-optimization] Kochenderfer, Wheeler - Algorithms for Optimization
-* [search-methodologies] Burke, Kendall - Search Methodologies: Introductory Tutorials in Optimization and Decision Support Techniques
+-->
 
 ## Tentative schedule
 
@@ -192,9 +198,24 @@ Hyper-heuristics for
 
 * [search-methodologies] Chapter 20
 
-### Lecture 10 - TBA
+### Lecture 10 - Recent trends and applications
 
-### Lecture 11 - TBA
+Fixed Set Search Applied to the Traveling Salesman Problem
+
+Ant Colony Optimization with Policy Gradients and Replay
+
+#### Resources
+
+* [[fixed-set-search]](https://link.springer.com/chapter/10.1007/978-3-030-05983-5_5)
+* [[policy-gradients]](https://dl.acm.org/doi/abs/10.1145/3712256.3726452)
+
+### Lecture 11 - Recent trends and applications
+
+Letting a Large Neighborhood Search for an Electric Dial-A-Ride Problem Fly: On-The-Fly Charging Station Insertion
+
+#### Resources
+
+* [[on-the-fly-insertion]](https://dl.acm.org/doi/abs/10.1145/3638529.3654057)
 
 <!--
 ### Lecture ? - Multi-depot Vehicle Scheduling
