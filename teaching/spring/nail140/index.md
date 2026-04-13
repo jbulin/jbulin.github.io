@@ -6,7 +6,6 @@ title: "NAIL140 Selected topics in logic"
 
 Seminar for students interested in logic and its applications in computer science.
 
-
 ## About this course
 
 This is a referative seminar aimed at broadening and deepening knowledge in the field of logic and its applications in computer science. The seminar does not follow a fixed syllabus; the current topic is selected with regard to the participants' interests and developments in the field. The course is suitable for master's and doctoral students. Repeated enrollment is possible.
@@ -29,11 +28,13 @@ The topics will be discussed at the beginning of the semester.
 
 We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 
-**Main resource:** Grädel, E. (2007). Finite Model Theory and Descriptive Complexity. In E. Grädel, P. G. Kolaitis, L. Libkin, M. Marx, J. Spencer, M. Y. Vardi, Y. Venema, & S. Weinstein (Eds.), Finite Model Theory and Its Applications (pp. 125–230). Springer. https://doi.org/10.1007/3-540-68804-8_3
+**Main resource:**
+
+* Grädel, E. (2007). Finite Model Theory and Descriptive Complexity. In: Finite Model Theory and Its Applications (pp. 125–230). Springer. <https://doi.org/10.1007/3-540-68804-8_3>
 
 **Supplementary resources:**
-* Sipser, M. (with Lee, M.). (2013). Introduction to the theory of computation (3rd ed.). Course Technology Cengage Learning.
 
+* Sipser, M. (with Lee, M.). (2013). Introduction to the theory of computation (3rd ed.). Course Technology Cengage Learning.
 
 ### Program
 
@@ -42,10 +43,9 @@ We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 * **Week 3:** Basics of complexity theory, Alternating Turing Machines, Complexity of FO Model checking. [Grädel 3.1.4]
 * **Week 4:** APTIME=PSPACE, ALOGSPACE=PTIME, QBF is NP-complete. Encoding structures by words [Grädel part of 3.1.5, Sipser 10.3, 8.3]
 * **Week 5:** The canonical encoding is good. Isomorphism invariance, its undecidability using Trakhtenbrot's theorem. [Grädel the rest of 3.1.5]
-* **Week 6:** PLAN: Fagin's theorem. [Grädel 3.2.1]
-* **Week 7:**
+* **Week 6:** Generalized spectrum, example: Hamiltonian circuit. Fagin's theorem: the easy implication. [Grädel 3.2.1]
+* **Week 7:** PLAN: Fagin's theorem: the hard implication.
 * **Week 8:**
 * **Week 9:**
 * **Week 10:**
 * **Week 11:**
-* **Week 12:**
