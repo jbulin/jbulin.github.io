@@ -105,7 +105,7 @@ Information about exams, including a list of exam questions:
 
 ### Lecture 13 (May 18)
 
-* **Program:** Space complexity. Circuit complexity. RAM.
+* **Program:** Space complexity. Circuit complexity.
 * **Slides:** [slides13.pdf](slides13.pdf)
 * Supplemental resources: Hopcroft, 11.1-3; Sipser 8.1-4, 9.3, 10.5
 
