@@ -44,8 +44,8 @@ We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 * **Week 4:** APTIME=PSPACE, ALOGSPACE=PTIME, QBF is NP-complete. Encoding structures by words [Grädel part of 3.1.5, Sipser 10.3, 8.3]
 * **Week 5:** The canonical encoding is good. Isomorphism invariance, its undecidability using Trakhtenbrot's theorem. [Grädel the rest of 3.1.5]
 * **Week 6:** Generalized spectrum, example: Hamiltonian circuit. Fagin's theorem: the easy implication. [Grädel 3.2.1]
-* **Week 7:** PLAN: Fagin's theorem: the hard implication.
-* **Week 8:**
-* **Week 9:**
-* **Week 10:**
-* **Week 11:**
+* **Week 7:** Fagin's theorem: the hard implication.
+* **Week 8:** Corollaries of Fagin's theorem, Cook-Levin's theorem.
+* **Week 9:** SO-Horn formulas, equivalence with Sigma1,1-Horn.
+* **Week 10:** PLAN: PTIME is captured by SO-Horn. Syntax and semantics of LFP logic.
+* **Week 11:** Immerman-Vardi's theorem.
