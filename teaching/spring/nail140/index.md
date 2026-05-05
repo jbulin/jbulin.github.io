@@ -48,4 +48,4 @@ We wil cover descriptive complexity, Fagin's theorem, and fixed-point logics.
 * **Week 8:** Corollaries of Fagin's theorem, Cook-Levin's theorem.
 * **Week 9:** SO-Horn formulas, equivalence with Sigma1,1-Horn.
 * **Week 10:** PLAN: PTIME is captured by SO-Horn. Syntax and semantics of LFP logic.
-* **Week 11:** Immerman-Vardi's theorem.
+* **Week 11:** PLAN: Immerman-Vardi's theorem.
