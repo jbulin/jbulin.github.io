@@ -24,10 +24,10 @@ Office hours during the exam period are scheduled ad hoc as needed. Email me you
 
 Information about exams, including a list of exam questions:
 
-* [about-exams.pdf](about-exams.pdf) (preliminary version, may be slightly modified)
+* [about-exams.pdf](about-exams.pdf)
 
 
-## Tentative schedule (to be updated)
+## Tentative schedule
 
 ### Lecture 1 (Feb 16)
 
