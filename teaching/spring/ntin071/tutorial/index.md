@@ -22,7 +22,7 @@ The credit requirements are described in the PDF below, please review them, and 
 * [credit-requirements.pdf](credit-requirements.pdf)
 * [sample-test.pdf](sample-test.pdf)
 * written test date: **Thursday, May 14** in class
-* retake test dates: TBD
+* retake test dates: First **Thursday, May 28 9:00am in S4**, second TBD
 
 ## Tentative schedule (to be updated)
 

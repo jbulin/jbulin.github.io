@@ -27,7 +27,7 @@ Termíny testů:
 
 * **skupina Čt: 14.5.**
 * **skupina Pá: 22.5.**
-* opravné termíny: budou určeny později
+* opravné termíny: První **Čt 28.5. 9:00 v S4**, druhý bude určen později
 
 
 ## Program cvičení (bude aktualizován)
