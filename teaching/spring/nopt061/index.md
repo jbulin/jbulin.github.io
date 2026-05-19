@@ -202,7 +202,7 @@ Hyper-heuristics for
 
 Fixed Set Search Applied to the Traveling Salesman Problem
 
-Ant Colony Optimization with Policy Gradients and Replay
+Ant Colony Optimization with Policy Gradients and Replay (intro)
 
 #### Resources
 
@@ -211,10 +211,13 @@ Ant Colony Optimization with Policy Gradients and Replay
 
 ### Lecture 11 - Recent trends and applications
 
+Ant Colony Optimization with Policy Gradients and Replay (continued)
+
 Letting a Large Neighborhood Search for an Electric Dial-A-Ride Problem Fly: On-The-Fly Charging Station Insertion
 
 #### Resources
 
+* [[policy-gradients]](https://dl.acm.org/doi/abs/10.1145/3712256.3726452)
 * [[on-the-fly-insertion]](https://dl.acm.org/doi/abs/10.1145/3638529.3654057)
 
 <!--
