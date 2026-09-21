@@ -6,7 +6,7 @@ title: "Personal academic website of Jakub Bulín"
 
 > I am a Lecturer at the [Department of Theoretical Computer Science and Mathematical Logic ("KTIML")](https://www.ktiml.mff.cuni.cz/KTIML-1.html), [Faculty of Mathematics and Physics](https://www.mff.cuni.cz/) of the [Charles University](https://cuni.cz/UK-1.html) in Prague, Czechia.
 
-I am one of the logicians in [this picture](files/me.jpg).
+Here is a [photo](files/jakub-bulin-official-web.jpg) of me.
 
 ### Get in touch
 
@@ -22,7 +22,17 @@ Office hours: as scheduled at the beginning of each semester; or make an appoint
 
 ### Theses and projects
 
-I offer bachelor and master theses in theoretical computer science and/or artificial intelligence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
+I offer bachelor and master theses in theoretical computer science, discrete optimization, or artificial intelligence, as well as software projects, see [here](teaching/theses/) for more details. Informal inquiries are most welcome, especially at this time of year!
+
+### Fall 2026
+
+* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
+  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
+  * 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
+  * 🇬🇧 [English tutorial](teaching/fall/nail062/tutorial)
+
+* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
+  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
 
 ### Archive: Spring 2026
 
@@ -36,19 +46,7 @@ I offer bachelor and master theses in theoretical computer science and/or artifi
 
 * [NAIL140 Selected topics in logic](teaching/spring/nail140/)
 
-### Archive: Fall 2025
-
-* [NAIL062 Propositional and Predicate Logic](teaching/fall/nail062/)
-  * 🇨🇿 [Czech lecture](teaching/fall/nail062/)
-  * 🇨🇿 [Czech tutorial](teaching/fall/nail062/cviceni/)
-  * 🇬🇧 [English tutorial](teaching/fall/nail062/tutorial)
-
-* [NOPT042 Constraint Programming](teaching/fall/nopt042/)
-  * 🇬🇧 [Tutorial](teaching/fall/nopt042/)
-
-
 My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fak=11320&ucitel=16584) for the current semester. Archive of [past courses](teaching/archive/).
-
 
 # Research
 
@@ -56,15 +54,9 @@ My [course schedule](https://is.cuni.cz/studium/rozvrhng/roz_ucitel_macro.php?fa
 
 I am the PI of [COLA:ULOM](research/cola-ulom/), where we study constraint languages using logical methods under the Czech Science Foundation standard project 25-16324S.
 
-<!--
-### Current talks:
-
-* AAA105 ``Short definitions in constraint languages'' [presentation](talks/bulin-presentation.pdf), [handout](talks/bulin-handout.pdf)
--->
-
 ### Selected publications
 
-* (preprint) J. Bulín and M. Kompatscher, *Polynomial definability in constraint languages with few subpowers,* Jan. 27, 2026, [arXiv:2305.01984](https://arxiv.org/abs/2305.01984), doi: 10.48550/arXiv.2305.01984.
+* (preprint) J. Bulín and M. Kompatscher, *Polynomial definability in constraint languages with few subpowers,* Jan. 27, 2026, [arXiv:2305.01984](https://arxiv.org/abs/2305.01984), doi: 10.48550/arXiv.2305.01984. Accepted to SIAM J. Discrete Math.
 
 * J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science (MFCS 2023) Vol. 272, 28:1–28:15 (2023)
 
@@ -73,7 +65,6 @@ I am the PI of [COLA:ULOM](research/cola-ulom/), where we study constraint langu
 * L. Barto, J. Bulín, A. Krokhin, and J. Opršal. *Algebraic Approach to Promise Constraint Satisfaction*, Journal of the ACM 68/4, 28:1–28:66  (2021)
 
 * J. Bulín. *On the complexity of H-coloring for special oriented trees*, European Journal of Combinatorics 69, 54–75 (2018)
-
 
 My papers on [Google Scholar](https://scholar.google.com/citations?user=pEMTqcMAAAAJ), on [ArXiv](https://arxiv.org/a/bulin_j_1), and my [ORCID](https://orcid.org/0000-0001-5235-8715) page.
 

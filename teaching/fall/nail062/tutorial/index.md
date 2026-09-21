@@ -2,17 +2,16 @@
 title: "NAIL062 Propositional and predicate logic: tutorial"
 ---
 
-# NAIL062 Propositional and predicate logic: tutorial (Fall 2025)
+# NAIL062 Propositional and predicate logic: tutorial (Fall 2026)
 
 Here you will find information about the English tutorial class taught by me.
 
 ## Office hours during the teaching period
 
-* Monday 10:40am in S303  
-* Monday 3:30pm (after the lecture) in front of N1  
-* Thursday 5:15pm in S303
+* Monday 6:50pm in N1 (Impakt)
+* Thursday 2pm in front of S303
 
-or make an appointment (via email); two additional hours per week will be available.
+or make an appointment (via email); **two additional hours** per week will be available.
 
 ## Credit requirements
 

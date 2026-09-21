@@ -2,7 +2,7 @@
 title: "NOPT042 Constraint programming"
 ---
 
-# NOPT042 Constraint programming (Fall 2025)
+# NOPT042 Constraint programming (Fall 2026)
 
 > In the tutorial we will be modeling constraint problems in the logic-based multi-paradigm language Picat 
     (<span style="color:fuchsia">**P**</span>attern-matching,
@@ -14,12 +14,10 @@ title: "NOPT042 Constraint programming"
 
 ## Office hours during the teaching period:
 
-<span style="color:red">**Dec 1: The tutorial is replaced by a double lecture (stay in S9)**</span>
+* Thursday 2pm in front of S303
+* Monday 6:50pm in N1 (Impakt)
 
-* Monday 10:40am in S303
-* Thursday 5:15pm in S303
-
-or make an appointment (via email); two additional hours per week will be available.
+or make an appointment (via email); **two additional hours per week** will be available.
 
 
 ## Credit requirements

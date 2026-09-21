@@ -2,27 +2,23 @@
 title: "NAIL062 Výroková a predikátová logika: cvičení"
 ---
 
-# NAIL062 Výroková a predikátová logika: cvičení (Podzim 2025)
+# NAIL062 Výroková a predikátová logika: cvičení (Podzim 2026)
 
 Zde najdete informace k mému českému cvičení.
 
 Konzultační hodiny:
 
-* Pondělí 10:40 v S303
-* Pondělí 15:30 (po přednášce) před N1
-* Čtvrtek 17:15 v S303
+* Pondělí 18:50 (po přednášce) v N1
+* Čtvrtek 14:00 před S303
 
 nebo individuálně po předchozí domluvě (napište mi email), budou k dispozici další dvě hodiny týdně.
 
 ## Zápočet
 
-V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba v polovině semestru) bude pokrývat část přednášky _"Výroková logika"_, druhý (ke konci semestru) část přednášky _"Predikátová logika"_. Za každý z testů lze získat maximálně 100 bodů. Pro každý z testů budete mít nárok na jeden opravný pokus. Žádné další opravné možnosti nebudou. Kromě testů lze získat až 50 bodů za domácí úkoly:
+V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba v polovině semestru) bude pokrývat část přednášky _"Výroková logika"_, druhý (ke konci semestru) část přednášky _"Predikátová logika"_. Za každý z testů lze získat maximálně 100 bodů. Pro každý z testů budete mít nárok na jeden opravný pokus. Žádné další opravné možnosti nebudou. Kromě testů lze získat dodatečných až 50 bodů:
 
 * 40 bodů za projekt na aplikaci SAT solveru
-* 5 bodů za domácí úkol z výrokové logiky
-* 5 bodů za domácí úkol z predikátové logiky
-
-Je zakázáno o úkolech až do termínu odevzdání jakýmkoliv způsobem komunikovat s kýmkoliv kromě cvičícího. Také není povoleno při vypracování používat nástroje generativní AI. Řešení musí být 100% vaší vlastní prací, a je vaší povinností zajistit, že žádná další osoba nebude mít přístup k vašemu řešení.
+* 10 bodů za aktivitu na cvičeních
 
 > K získání zápočtu je třeba získat celkem alespoň **140 bodů**, a zároveň alespoň **40 bodů z každého z testů**.
 
