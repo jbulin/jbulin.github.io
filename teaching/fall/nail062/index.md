@@ -41,27 +41,27 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 ### První přednáška (5. 10.)
 
 * **Program:** Úvod do logiky, neformální představení logiky. Syntaxe a sémantika výrokové logiky.
-* **Materiály:** Kapitola 1, Sekce 2.1-2.2 z Kapitoly 2
+* **Materiály:** Kapitola 1, Sekce 2.1-2.2.5 z Kapitoly 2
 * **Prezentace:** [slides1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides1.pdf), [handout1.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout1.pdf)
 
 
 ### Druhá přednáška (12. 10.)
 
-* **Program:** Normální formy (CNF, DNF). Vlastnosti a důsledky teorií. Extenze teorií. Algebra výroků. Problém splnitelnosti, SAT solvery.
-* **Materiály:** Sekce 2.3-2.5 z Kapitoly 2. Sekce 3.1 z Kapitoly 3
+* **Program:** Univerzálnost logických spojek. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií. Extenze teorií. Algebra výroků.
+* **Materiály:** Sekce 2.2.6-2.5 z Kapitoly 2
 * **Prezentace:** [slides2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides2.pdf), [handout2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout2.pdf), ukázka SAT solveru: [sat-solving-example.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) (viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example))
 
 ### Třetí přednáška (19. 10.)
 
-* **Program:** 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Úvod do metody analytického tabla. Pojem tablo důkazu.
-* **Materiály:** Sekce 3.2-3.4 z Kapitoly 3, Sekce 4.1-4.3 z Kapitoly 4
+* **Program:** Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Úvod do metody analytického tabla.
+* **Materiály:** Kapitola 3, Sekce 4.1-4.2 z Kapitoly 4
 * **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), [handout3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout3.pdf)
 
 
 ### Čtvrtá přednáška (26. 10.)
 
-* **Program:** Věty o korektnosti a úplnosti a jejich důsledky. Věta o kompaktnosti a její důsledky. Úvod do rezoluční metody.
-* **Materiály:** Sekce 4.4-4.7 z Kapitoly 4 (Sekci 4.8 zatím přeskočíme), Sekce 5.1 z Kapitoly 5.
+* **Program:** Pojem tablo důkazu. Věty o korektnosti a úplnosti a jejich důsledky. Věta o kompaktnosti a její důsledky. Úvod do rezoluční metody.
+* **Materiály:** Sekce 4.3-4.7 z Kapitoly 4 (Sekci 4.8 zatím přeskočíme), Sekce 5.1 z Kapitoly 5.
 * **Prezentace:** [slides4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides4.pdf), [handout4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout4.pdf)
 
 ### Pátá přednáška (2. 11.)
@@ -79,14 +79,14 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 
 ### Sedmá přednáška (16. 11.)
 
-* **Program:**  Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Tablo metoda v predikátové logice, jazyky s rovností.
-* **Materiály:** Sekce 6.7-6.9 z Kapitoly 6, Sekce 7.1-7.3 z Kapitoly 7
+* **Program:**  Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Úvod do tablo metody v predikátové logice. 
+* **Materiály:** Sekce 6.7-6.9 z Kapitoly 6, Sekce 7.1 z Kapitoly 7
 * **Prezentace:** [slides7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides7.pdf), [handout7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout7.pdf)
 
 ### Osmá přednáška (23. 11.)
 
-* **Program:** Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti, Löwenheim-Skolemova věta. Hilbertovský kalkulus.
-* **Materiály:** Sekce 7.4-7.6 (+ Sekce 4.8) z Kapitoly 7
+* **Program:** Tablo metoda v predikátové logice. Jazyky s rovností. Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti, Löwenheim-Skolemova věta. Hilbertovský kalkulus.
+* **Materiály:** Sekce 7.2-7.6 (+ Sekce 4.8) z Kapitoly 7
 * **Prezentace:** [slides8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides8.pdf), [handout8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout8.pdf)
 
 ### Devátá přednáška (30. 11.)
