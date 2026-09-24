@@ -19,16 +19,17 @@ nebo individuálně po předchozí domluvě (napište mi email), budou k dispozi
 
 ## Informace o zkouškách
 
-<!--
+
 Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek:
 
 * [Informace o zkouškách](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
--->
 
+
+<!--
 Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otázek, upřesníme později. Pro netrpělivé, zde jsou informace platné pro loňský rok, nicméně očekávejte alespoň nějaké změny:
 
 * [Informace o zkouškách z loňského roku](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
-
+-->
 
 ## Program přednášek (bude aktualizováno)
 
@@ -54,7 +55,7 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 ### Třetí přednáška (19. 10.)
 
 * **Program:** 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Úvod do metody analytického tabla. Pojem tablo důkazu. 
-* **Materiály:** Kapitola 3, Sekce 4.1-4.3 z Kapitoly 4
+* **Materiály:** Sekce 3.2-3.4 z Kapitoly 3, Sekce 4.1-4.3 z Kapitoly 4
 * **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), [handout3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout3.pdf)
 
 
