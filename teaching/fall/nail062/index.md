@@ -47,27 +47,27 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 
 ### Druhá přednáška (12. 10.)
 
-* **Program:** Univerzálnost logických spojek. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií. Extenze teorií. Algebra výroků.
-* **Materiály:** Sekce 2.2.6-2.5 z Kapitoly 2
+* **Program:** Univerzálnost logických spojek. Normální formy (CNF, DNF). Vlastnosti a důsledky teorií. Extenze teorií. Algebra výroků. Problém splnitelnosti, SAT solvery.
+* **Materiály:** Sekce 2.2.6-2.5 z Kapitoly 2, Sekce 3.1 z Kapitoly 3
 * **Prezentace:** [slides2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides2.pdf), [handout2.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout2.pdf), ukázka SAT solveru: [sat-solving-example.zip](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/sat-solving-example.zip) (viz také [ukázka použití SAT solveru na řešení Sliding Puzzle](https://gitlab.mff.cuni.cz/svancaj/logika_SAT_example))
 
 ### Třetí přednáška (19. 10.)
 
-* **Program:** Problém splnitelnosti, SAT solvery. 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Úvod do metody analytického tabla.
-* **Materiály:** Kapitola 3, Sekce 4.1-4.2 z Kapitoly 4
+* **Program:** 2-SAT a implikační graf. Horn-SAT a jednotková propagace. Algoritmus DPLL. Úvod do metody analytického tabla. Pojem tablo důkazu. 
+* **Materiály:** Kapitola 3, Sekce 4.1-4.3 z Kapitoly 4
 * **Prezentace:** [slides3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides3.pdf), [handout3.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout3.pdf)
 
 
 ### Čtvrtá přednáška (26. 10.)
 
-* **Program:** Pojem tablo důkazu. Věty o korektnosti a úplnosti a jejich důsledky. Věta o kompaktnosti a její důsledky. Úvod do rezoluční metody.
-* **Materiály:** Sekce 4.3-4.7 z Kapitoly 4 (Sekci 4.8 zatím přeskočíme), Sekce 5.1 z Kapitoly 5.
+* **Program:** Věty o korektnosti a úplnosti a jejich důsledky. Věta o kompaktnosti a její důsledky. Úvod do rezoluční metody, rezoluční důkaz.
+* **Materiály:** Sekce 4.4-4.7 z Kapitoly 4 (Sekci 4.8 zatím přeskočíme), Sekce 5.1-5.2 z Kapitoly 5.
 * **Prezentace:** [slides4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides4.pdf), [handout4.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout4.pdf)
 
 ### Pátá přednáška (2. 11.)
 
-* **Program:**  Rezoluční metoda, korektnost, úplnost. Úvod do predikátové logiky. Syntaxe predikátové logiky.
-* **Materiály:** Sekce 5.2-5.3 z Kapitoly 5 (Sekci 5.4 zatím přeskočíme), Sekce 6.1-6.3 z Kapitoly 6
+* **Program:**  Korektnost a úplnost rezoluční metody. Úvod do predikátové logiky. Syntaxe predikátové logiky.
+* **Materiály:** Sekce 5.3 z Kapitoly 5 (Sekci 5.4 zatím přeskočíme), Sekce 6.1-6.3 z Kapitoly 6
 * **Prezentace:** [slides5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides5.pdf), [handout5.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout5.pdf)
 
 
