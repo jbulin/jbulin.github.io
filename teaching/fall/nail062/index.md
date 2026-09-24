@@ -79,32 +79,32 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 
 ### Sedmá přednáška (16. 11.)
 
-* **Program:**  Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Úvod do tablo metody v predikátové logice. 
-* **Materiály:** Sekce 6.7-6.9 z Kapitoly 6, Sekce 7.1 z Kapitoly 7
+* **Program:**  Extenze teorií, extenze o definice. Definovatelnost a databázové dotazy. Vztah výrokové a predikátové logiky. Tablo metoda v predikátové logice.
+* **Materiály:** Sekce 6.7-6.9 z Kapitoly 6, Sekce 7.1-7.2 z Kapitoly 7
 * **Prezentace:** [slides7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides7.pdf), [handout7.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout7.pdf)
 
 ### Osmá přednáška (23. 11.)
 
-* **Program:** Tablo metoda v predikátové logice. Jazyky s rovností. Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti, Löwenheim-Skolemova věta. Hilbertovský kalkulus.
-* **Materiály:** Sekce 7.2-7.6 (+ Sekce 4.8) z Kapitoly 7
+* **Program:** Jazyky s rovností. Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti, Löwenheim-Skolemova věta. Hilbertovský kalkulus.
+* **Materiály:** Sekce 7.3-7.6 (+ Sekce 4.8) z Kapitoly 7
 * **Prezentace:** [slides8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides8.pdf), [handout8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout8.pdf)
 
 ### Devátá přednáška (30. 11.)
 
-* **Program:**   Úvod do rezoluce v predikátové logice, Skolemizace, Grounding, Herbrandova věta. Unifikace, unifikační algoritmus.
+* **Program:**   Úvod do rezoluce v predikátové logice, Skolemizace, Grounding, Herbrandova věta.
 * **Materiály:** Sekce 8.1-8.4 z Kapitoly 8
 * **Prezentace:** [slides9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides9.pdf), [handout9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout9.pdf)
 
 ### Desátá přednáška (7. 12.)
 
-* **Program:**   Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce. LI-rezoluce a Prolog.
+* **Program:**   Unifikace, unifikační algoritmus. Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce. LI-rezoluce a Prolog.
 * **Materiály:** Sekce 8.5-8.7 z Kapitoly 8 (+ Sekce 5.4)
 * **Prezentace:** [slides10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides10.pdf), [handout10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout10.pdf)
 
 ### Jedenáctá přednáška (14. 12.)
 
 * **Program:** Elementární ekvivalence. Izomorfismus a konečné modely. Definovatelnost a automorfismy. Omega-kategoricita a úplnost. Axiomatizovatelnost. 
-* **Materiály:** Sekce 9.1 (+ Podsekce 7.5.1), Sekce 9.2-9.4 z Kapitoly 9
+* **Materiály:** Kapitola 9
 * **Prezentace:** [slides11.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides11.pdf), [handout11.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout11.pdf)
 
 ### Dvanáctá přednáška (4. 1.)
