@@ -93,13 +93,13 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 ### Devátá přednáška (30. 11.)
 
 * **Program:**   Úvod do rezoluce v predikátové logice, Skolemizace, Grounding, Herbrandova věta.
-* **Materiály:** Sekce 8.1-8.4 z Kapitoly 8
+* **Materiály:** Sekce 8.1-8.3 z Kapitoly 8
 * **Prezentace:** [slides9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides9.pdf), [handout9.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout9.pdf)
 
 ### Desátá přednáška (7. 12.)
 
 * **Program:**   Unifikace, unifikační algoritmus. Rezoluční pravidlo, rezoluční důkaz. Korektnost rezoluce. Lifting lemma a úplnost rezoluce. LI-rezoluce a Prolog.
-* **Materiály:** Sekce 8.5-8.7 z Kapitoly 8 (+ Sekce 5.4)
+* **Materiály:** Sekce 8.4-8.7 z Kapitoly 8 (+ Sekce 5.4)
 * **Prezentace:** [slides10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides10.pdf), [handout10.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout10.pdf)
 
 ### Jedenáctá přednáška (14. 12.)
