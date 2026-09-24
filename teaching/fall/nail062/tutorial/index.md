@@ -40,7 +40,8 @@ Deadlines:
 
 * **by Oct 25**, submit your preferences (in the SIS Module Study Group Roster) and, if applicable, your own problem suggestion (via email)
 * the project will be assigned shortly afterwards, also in the Study Group Roster
-* **by the end of November**, submit the completed project (enter the repository address in the Study Group Roster)
+* **by Nov 15**, submit the link to your project repository (in the Study Group Roster)
+* **by the end of November**, the repository must contain the completed project (with development progress clearly visible from commit history), no further changes will be taken into account
 * **during the first half of December**, be prepared to demonstrate your project to the instructor if asked to do so
 
 ## Worksheets
@@ -91,6 +92,7 @@ Deadlines:
 
 ### 7th Tutorial (Nov 12)
 
+* approaching the deadline to submit your SAT project repository link
 * **Propositional logic test**
 * **Program:** Introduction to predicate logic. Syntax and semantics of predicate logic.  
 * **Materials:** [worksheet6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/worksheet6.pdf), [solutions6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/worksheets/solutions6.pdf)

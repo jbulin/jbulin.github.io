@@ -40,7 +40,8 @@ Termíny:
 
 * **do 25. 10.** zadejte vyjádření preferencí (v SISu v modulu Studijní mezivýsledky) případně zaslání vlastních návrhů problémů (emailem)
 * projekt vám bude přidělen nedlouho poté, také v modulu Studijní mezivýsledky
-* **do konce listopadu** odevzdejte hotový projekt (v modulu Studijní mezivýsledky zadejte adresu repozitáře)
+* **do 15. 11.** zadejte odkaz na repozitář svého projektu (v modulu Studijní mezivýsledky)
+* **do konce listopadu** musí repozitář obsahovat dokončený projekt (z historie commitů musí být jasně patrný průběh vývoje); k pozdějším změnám již nebude přihlíženo
 * **v první polovině prosince** buďte připraveni předvést svůj projekt cvičícímu, budete-li k tomu vyzváni
 
 ## Příklady na cvičení
@@ -91,6 +92,7 @@ Termíny:
 
 ### 7. cvičení (12. 11.)
 
+* blíží se termín zadání adresy repozitáře SAT projektu
 * **Zápočtový test z výrokové logiky**
 * **Program:** Úvod do predikátové logiky. Syntaxe a sémantika predikátové logiky.
 * **Materiály:** [priklady6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/priklady6.pdf), [reseni6.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/priklady/reseni6.pdf)
