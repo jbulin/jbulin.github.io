@@ -34,7 +34,7 @@ Termíny opravných testů:
 
 ## Projekt: aplikace SAT solveru
 
-Podrobně si přečtěte následující [zadání projektu](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-project.html). Dodržujte všechny pokyny v něm obsažené. Preference zadávejte v popsaném formátu, jinak na ně nebude brán zřetel. Vypracovaný projekt musí splňovat popsané požadavky.
+Podrobně si přečtěte následující [zadání projektu](https://jbulin.github.io/teaching/fall/nail062/cviceni/sat-projekt.pdf). Dodržujte všechny pokyny v něm obsažené. Preference zadávejte v popsaném formátu, jinak na ně nebude brán zřetel. Vypracovaný projekt musí splňovat popsané požadavky.
 
 Termíny:
 

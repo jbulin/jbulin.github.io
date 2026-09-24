@@ -34,7 +34,7 @@ Retake test dates:
 
 ## SAT solver application project
 
-Read the following [detailed project assignment](https://jbulin.github.io/teaching/fall/nail062/tutorial/sat-project-english.html) carefully and follow all the instructions it contains. Submit your preferences in the specified format; otherwise, they will not be taken into account. The completed project must meet the stated requirements.
+Read the following [detailed project assignment](https://jbulin.github.io/teaching/fall/nail062/tutorial/sat-project.pdf) carefully and follow all the instructions it contains. Submit your preferences in the specified format; otherwise, they will not be taken into account. The completed project must meet the stated requirements.
 
 Deadlines:
 
