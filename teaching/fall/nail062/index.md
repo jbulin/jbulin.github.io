@@ -31,12 +31,12 @@ Podrobnosti o formátu a průběhu zkoušky, včetně seznamu zkouškových otá
 * [Informace o zkouškách z loňského roku](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/exam/info-o-zkouskach.pdf)
 -->
 
-## Program přednášek (bude aktualizováno)
+## Program přednášek
 
-Zápisky z přednášky (v průběhu semestru se na nich bude ještě pracovat):
+Zápisky z přednášky:
 * [Zápisky z přednášky](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/skripta/skripta.pdf) (nově je k dispozici i [anglický překlad](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/lecture-notes/lecture-notes.pdf))
 
-Prezentace ze všech přednášek (bude průběžně aktualizováno):
+Prezentace ze všech přednášek:
 * [Všechny prezentace](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/all-slides.pdf)
 
 ### První přednáška (5. 10.)
@@ -87,7 +87,7 @@ Prezentace ze všech přednášek (bude průběžně aktualizováno):
 ### Osmá přednáška (23. 11.)
 
 * **Program:** Jazyky s rovností. Korektnost a úplnost tablo metody v predikátové logice, kanonický model. Věta o kompaktnosti, Löwenheim-Skolemova věta. Hilbertovský kalkulus.
-* **Materiály:** Sekce 7.3-7.6 (+ Sekce 4.8) z Kapitoly 7
+* **Materiály:** Sekce 7.3-7.6 z Kapitoly 7 (+ Sekce 4.8)
 * **Prezentace:** [slides8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/slides8.pdf), [handout8.pdf](https://github.com/jbulin-mff-uk/nail062/raw/main/lecture/slides/handout8.pdf)
 
 ### Devátá přednáška (30. 11.)
