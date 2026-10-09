@@ -56,7 +56,7 @@ I am the PI of [COLA:ULOM](research/cola-ulom/), where we study constraint langu
 
 ### Selected publications
 
-* J. Bulín and M. Kompatscher, *Polynomial definability in constraint languages with few subpowers,* Jan. 27, 2026, [arXiv:2305.01984](https://arxiv.org/abs/2305.01984), doi: 10.48550/arXiv.2305.01984. To appear in SIAM J. Discrete Math.
+* J. Bulín and M. Kompatscher, *Polynomial definability in constraint languages with few subpowers,* SIAM Journal on Discrete Mathematics 40/4, 1762-1784 (2026), doi: 10.1137/26m1844335
 
 * J. Bulín and  M. Kompatscher. *Short definitions in constraint languages*, Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science (MFCS 2023) Vol. 272, 28:1–28:15 (2023)
 
