@@ -9,7 +9,7 @@ Here you will find information about the English tutorial class taught by me.
 ## Office hours during the teaching period
 
 * Monday 6:50pm in N1 (Impakt)
-* Thursday 2pm in front of S303
+* Thursday 2pm in front of S303 <span style="color: red;">(on Oct 22 the start is postponed to 2:50pm)</span>
 
 or make an appointment (via email); **two additional hours** per week will be available.
 

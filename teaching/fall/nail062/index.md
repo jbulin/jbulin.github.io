@@ -13,7 +13,7 @@ title: "NAIL062 Propositional and predicate logic"
 Konzultační hodiny:: 
 
 * Pondělí 18:50 (po přednášce) v N1
-* Čtvrtek 14:00 před S303
+* Čtvrtek 14:00 před S303 <span style="color: red;">(22. října budou konzultace posunuty na 14:50)</span>
 
 nebo individuálně po předchozí domluvě (napište mi email), budou k dispozici **dodatečné dvě hodiny** týdně.
 

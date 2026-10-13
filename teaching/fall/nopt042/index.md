@@ -14,7 +14,7 @@ title: "NOPT042 Constraint programming"
 
 ## Office hours during the teaching period:
 
-* Thursday 2pm in front of S303
+* Thursday 2pm in front of S303 <span style="color: red;">(on Oct 22 the start is postponed to 2:50pm)</span>
 * Monday 6:50pm in N1 (Impakt)
 
 or make an appointment (via email); **two additional hours per week** will be available.
