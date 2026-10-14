@@ -40,6 +40,7 @@ The goal of this thesis is to propose and implement an efficient heuristic algor
 A polymorphism of a directed graph H is an edge-preserving multivariate function on the vertex set. The existence of polymorphisms with certain properties, typically expressed by a set of identities, is tightly connected to the complexity of the graph homomorphism problem CSP(H). For instance, if H admits a ternary polymorphism satisfying f(x,x,y)=f(x,y,x)=f(y,x,x)=x, as is the case for e.g. K_2 or C_3, then CSP(H) is in NL. The existence of such a polymorphism can be checked by constructing the categorical power H^3, identifying the triples that ought to be equal, and testing for a homomorphism from the resulting graph into H. Homomorphism testing can be done fairly efficiently using constraint programming methods, e.g. arc consistency and various implicit constraints based on local structure of G and H. However, explicit a priori construction of H^n can be prohibitively expensive for larger arities n.
 
 The student will
+
 * implement a baseline approach via explicit construction of H^n,
 * design a method that avoids explicit construction of H^n by generating tuples lazily and integrating propagation and pruning techniques from graph homomorphism solvers during the search, and
 * experimentally compare the approaches.
@@ -48,3 +49,18 @@ The student will
 [2] Chen, H., & Larose, B. (2017). Asking the Metaquestions in Constraint Tractability. ACM Trans. Comput. Theory, 9(3), 11:1-11:27. https://doi.org/10.1145/3134757
 [3] Bodirsky, M., Bulín, J., Starke, F., & Wernthaler, M. (2023). The smallest hard trees. Constraints, 28(2), 105–137. https://doi.org/10.1007/s10601-023-09341-8
 [4] Barto, L., Krokhin, A., & Willard, R. (2017). Polymorphisms, and how to use them. https://doi.org/10.4230/dfu.vol7.15301.1
+
+### **Metaheuristics for Multi-agent Collective Construction**
+
+* suitable for a software project and bachelor thesis (could possibly be expanded to a master thesis)
+* keywords: multi-agent systems; automated planning; metaheuristic; mixed integer programming; constraint programming; 
+
+In the multi-agent collective construction problem, a group of agents is constructing a given 3D structure on a grid by repositioning blocks. In order to access higher levels, agents must also use blocks to build ramps, and later deconstruct them. The goal is to design an optimal or near-optimal plan.
+
+The aim of the thesis is to explore metaheuristic approaches to the problem, including possible hybridization with the Mixed Integer Programming model desribed by Lam et al [1]. For that purpose, the student will implement a graphical simulator and an experimental evaluation suite to be used for empirical evaluation of selected algorithms.
+
+[1] Lam, E., Stuckey, P.J., Koenig, S., Kumar, T.K.S.: Exact Approaches to the Multi-agent Collective Construction Problem. In: Principles and Practice of Constraint Programming (2020). https://doi.org/10.1007/978-3-030-58475-7_43
+
+[2] Kumar, T.K.S., Jung, S., Koenig, S.: A tree-based algorithm for construction robots. In: Proceedings of the International Conference on Automated Planning and Scheduling (2014). https://doi.org/10.1609/icaps.v24i1.13673
+
+[3] Blum, C., and Raidl, G. R.: Hybrid Metaheuristics: Powerful Tools for Optimization. Springer 2016. https://doi.org/10.1007/978-3-319-30883-8
