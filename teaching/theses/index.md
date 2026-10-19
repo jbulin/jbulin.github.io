@@ -46,8 +46,11 @@ The student will
 * experimentally compare the approaches.
 
 [1] Kraiczy, S., & McCreesh, C. (2021). Solving Graph Homomorphism and Subgraph Isomorphism Problems Faster Through Clique Neighbourhood Constraints. International Joint Conference on Artificial Intelligence.
+
 [2] Chen, H., & Larose, B. (2017). Asking the Metaquestions in Constraint Tractability. ACM Trans. Comput. Theory, 9(3), 11:1-11:27. https://doi.org/10.1145/3134757
+
 [3] Bodirsky, M., Bulín, J., Starke, F., & Wernthaler, M. (2023). The smallest hard trees. Constraints, 28(2), 105–137. https://doi.org/10.1007/s10601-023-09341-8
+
 [4] Barto, L., Krokhin, A., & Willard, R. (2017). Polymorphisms, and how to use them. https://doi.org/10.4230/dfu.vol7.15301.1
 
 ### **Metaheuristics for Multi-agent Collective Construction**
