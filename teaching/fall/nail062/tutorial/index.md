@@ -34,17 +34,8 @@ Retake test dates:
 
 ## Sample tests
 
-Propositional logic:
-
-* [Practice test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-propositional-logic-A.pdf)
-* [Practice test B](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-propositional-logic-B.pdf)
-* [Practice test C](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-propositional-logic-C.pdf)
- 
-Predicate logic:
-
-* [Practice test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-predicate-logic-A.pdf)
-* Practice test B: TODO
-* Practice test C: TODO
+* Propositional logic: [Practice test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-propositional-logic-A.pdf), [Practice test B](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-propositional-logic-B.pdf), [Practice test C](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-propositional-logic-C.pdf)
+* Predicate logic: [Practice test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/practice-test-predicate-logic-A.pdf), Practice test B - TODO, Practice test C - TODO
 
 
 ## SAT solver application project
