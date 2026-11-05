@@ -26,13 +26,25 @@ V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba 
 
 ## Zápočtové testy
 
-* termín zápočtového testu z výrokové logiky: **12. 11.** [Vzorový test: výroková logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-vyrokova-logika.pdf)
-* termín zápočtového testu z predikátové logiky: **7. 1.** [Vzorový test: predikátová logika](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/vzorovy-test-predikatova-logika.pdf)
+* termín zápočtového testu z výrokové logiky: **12. 11.**
+* termín zápočtového testu z predikátové logiky: **7. 1.**
 
 Termíny opravných testů:
 
 * opravný test z VL: **první týden zkouškového období (bude upřesněno)**
 * opravný test z PL: **první týden zkouškového období (bude upřesněno)**
+
+## Cvičné testy
+
+Výroková logika:
+* [Cvičný test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-vyrokova-logika-A.pdf)
+* [Cvičný test B](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-vyrokova-logika-B.pdf)
+* [Cvičný test C](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-vyrokova-logika-C.pdf)
+ 
+Predikátová logika:
+* [Cvičný test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvičný-test-predikatova-logika-A.pdf)
+* Cvičný test B: TODO
+* Cvičný test C: TODO
 
 ## Projekt: aplikace SAT solveru
 
