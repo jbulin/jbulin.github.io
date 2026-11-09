@@ -37,7 +37,7 @@ Termíny opravných testů:
 ## Cvičné testy
 
 * Výroková logika: [Cvičný test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-vyrokova-logika-A.pdf), [Cvičný test B](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-vyrokova-logika-B.pdf), [Cvičný test C](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-vyrokova-logika-C.pdf)
-* Predikátová logika: [Cvičný test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-predikatova-logika-A.pdf), Cvičný test B - TODO, Cvičný test C - TODO
+* Predikátová logika: [Cvičný test A](https://github.com/jbulin-mff-uk/nail062/raw/main/tutorial/sample-tests/cvicny-test-predikatova-logika-A.pdf), Cvičný test B (TODO), Cvičný test C (TODO)
 
 ## Projekt: aplikace SAT solveru
 
