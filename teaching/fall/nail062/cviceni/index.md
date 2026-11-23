@@ -31,8 +31,8 @@ V průběhu semestru budou dva zápočtové testy (na 45 minut). První (zhruba 
 
 Termíny opravných testů:
 
-* opravný test z VL: **první týden zkouškového období (bude upřesněno)**
-* opravný test z PL: **první týden zkouškového období (bude upřesněno)**
+* opravný test z VL: **úterý 12.1. 9:00 (v S4)**
+* opravný test z PL: **čtvrtek 14.1. 9:00 (v S4)**
 
 ## Cvičné testy
 

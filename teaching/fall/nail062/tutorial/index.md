@@ -29,8 +29,8 @@ During the semester, there will be two written tests (45 minutes each). The firs
 
 Retake test dates:
 
-* propositional logic retake test: **the first week of the examination period (date to be specified)**
-* predicate logic retake test: **the first week of the examination period (date to be specified)**
+* propositional logic retake test: **Tuesday, Jan 12, 9:00am (in S4)**
+* predicate logic retake test: **Thursday, Jan 14, 9:00am (in S4)**
 
 ## Sample tests
 
