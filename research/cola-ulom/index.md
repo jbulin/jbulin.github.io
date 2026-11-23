@@ -38,6 +38,7 @@ The project aims to enhance the state-of-art methods based on inspection of the 
 
 * [Andrew Moorhead](https://tu-dresden.de/mn/math/algebra/das-institut/beschaeftigte/andrew-paul-moorhead) (TU Dresden)
 * [Lorenzo Ciardo](https://sites.google.com/view/lorenzociardo/home-page) (TU Graz)
+* [Tamio-Vesa Nakajima](https://tamionv.ro/) (Phillips University, Marburg)
 
 ## Results
 
@@ -51,6 +52,11 @@ The project aims to enhance the state-of-art methods based on inspection of the 
 
 **Preprints:**
 
+* S. Fioravanti, M. Kompatscher, and B. Rossi, “Clonoids over vector spaces,” Feb. 03, 2026, arXiv: arXiv:2602.04034. doi: 10.48550/arXiv.2602.04034.
 * V. David and D. Zhuk, “On the lattice of multi-sorted relational clones on a two-element set,” Dec. 01, 2025, arXiv: arXiv:2505.06033. doi: 10.48550/arXiv.2505.06033.
+* D. Zhuk, “Singleton algorithms for the Constraint Satisfaction Problem,” Mar. 30, 2026, arXiv: arXiv:2509.18434. doi: 10.48550/arXiv.2509.18434.
+* L. Barto, M. Hadek, and D. Zhuk, “Toward a Uniform Algorithm and Uniform Reduction for Constraint Problems,” Apr. 07, 2026, arXiv: arXiv:2604.06335. doi: 10.48550/arXiv.2604.06335.
 
+**Software:**
 
+* M. Štajgár, [cspx](https://crates.io/crates/cspx) - Library offering general-purpose tools, enumerators and solvers for the manipulation and analysis of relational structures, with emphasis on the constraint satisfaction problem (CSP)
